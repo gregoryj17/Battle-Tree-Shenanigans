@@ -1,0 +1,22 @@
+Slaking, 40 sets
+Moves:
+Earthquake * 24, 60% of sets
+Rock Slide * 24, 60% of sets
+Night Slash * 16, 40% of sets
+Giga Impact * 13, 32.5% of sets
+Shadow Claw * 13, 32.5% of sets
+Hammer Arm * 13, 32.5% of sets
+Return * 13, 32.5% of sets
+Aerial Ace * 13, 32.5% of sets
+Brick Break * 11, 27.5% of sets
+Encore * 11, 27.5% of sets
+Crush Claw * 3, 7.5% of sets
+Slack Off * 3, 7.5% of sets
+Amnesia * 3, 7.5% of sets
+
+
+Items:
+Choice Band * 13, 32.5% of sets
+Life Orb * 13, 32.5% of sets
+Chople Berry * 11, 27.5% of sets
+Kee Berry * 3, 7.5% of sets

@@ -1,0 +1,44 @@
+Rotom, 213 sets
+Moves:
+Thunder Wave * 88, 41.3% of sets
+Dark Pulse * 78, 36.6% of sets
+Will-o-wisp * 74, 34.7% of sets
+Shadow Ball * 61, 28.6% of sets
+Thunder * 56, 26.3% of sets
+Thunderbolt * 55, 25.8% of sets
+Volt Switch * 42, 19.7% of sets
+Leaf Storm * 41, 19.2% of sets
+Hydro Pump * 39, 18.3% of sets
+Charge Beam * 36, 16.9% of sets
+Blizzard * 30, 14.1% of sets
+Air Slash * 29, 13.6% of sets
+Double Team * 28, 13.1% of sets
+Overheat * 24, 11.3% of sets
+Confuse Ray * 23, 10.8% of sets
+Hex * 22, 10.3% of sets
+Trick * 18, 8.5% of sets
+Ominous Wind * 18, 8.5% of sets
+Charge * 17, 8% of sets
+Reflect * 15, 7% of sets
+Light Screen * 15, 7% of sets
+Discharge * 14, 6.6% of sets
+Electro Ball * 10, 4.7% of sets
+Substitute * 10, 4.7% of sets
+Rain Dance * 9, 4.2% of sets
+
+
+Items:
+Sitrus Berry * 36, 16.9% of sets
+Choice Scarf * 18, 8.5% of sets
+Rindo Berry * 17, 8% of sets
+Grassium Z * 17, 8% of sets
+Bright Powder * 17, 8% of sets
+Light Clay * 15, 7% of sets
+White Herb * 14, 6.6% of sets
+Electrium Z * 14, 6.6% of sets
+Passho Berry * 13, 6.1% of sets
+Weakness Policy * 11, 5.2% of sets
+Firium Z * 11, 5.2% of sets
+Zoom Lens * 11, 5.2% of sets
+Leftovers * 10, 4.7% of sets
+Damp Rock * 9, 4.2% of sets

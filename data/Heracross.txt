@@ -1,0 +1,24 @@
+Heracross, 26 sets
+Moves:
+Aerial Ace * 10, 38.5% of sets
+Pursuit * 10, 38.5% of sets
+Swords Dance * 10, 38.5% of sets
+Brick Break * 10, 38.5% of sets
+Megahorn * 10, 38.5% of sets
+Pin Missile * 6, 23.1% of sets
+Rock Blast * 6, 23.1% of sets
+Bullet Seed * 6, 23.1% of sets
+Close Combat * 6, 23.1% of sets
+Flail * 5, 19.2% of sets
+Endure * 5, 19.2% of sets
+Reversal * 5, 19.2% of sets
+Stone Edge * 5, 19.2% of sets
+Facade * 5, 19.2% of sets
+Shadow Claw * 5, 19.2% of sets
+
+
+Items:
+Black Belt * 10, 38.5% of sets
+Heracronite * 6, 23.1% of sets
+Salac Berry * 5, 19.2% of sets
+Coba Berry * 5, 19.2% of sets

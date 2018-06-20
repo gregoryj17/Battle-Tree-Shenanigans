@@ -1,0 +1,20 @@
+Chandelure, 33 sets
+Moves:
+Will-o-wisp * 33, 100% of sets
+Shadow Ball * 19, 57.6% of sets
+Heat Wave * 15, 45.5% of sets
+Calm Mind * 10, 30.3% of sets
+Flamethrower * 9, 27.3% of sets
+Confuse Ray * 9, 27.3% of sets
+Hex * 9, 27.3% of sets
+Overheat * 9, 27.3% of sets
+Protect * 9, 27.3% of sets
+Energy Ball * 5, 15.2% of sets
+Rest * 5, 15.2% of sets
+
+
+Items:
+Leftovers * 10, 30.3% of sets
+Spell Tag * 9, 27.3% of sets
+White Herb * 9, 27.3% of sets
+Chesto Berry * 5, 15.2% of sets

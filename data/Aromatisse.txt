@@ -1,0 +1,24 @@
+Aromatisse, 46 sets
+Moves:
+Dazzling Gleam * 19, 41.3% of sets
+Charm * 17, 37% of sets
+Sweet Kiss * 17, 37% of sets
+Attract * 17, 37% of sets
+Draining Kiss * 17, 37% of sets
+Aromatic Mist * 15, 32.6% of sets
+Heal Pulse * 15, 32.6% of sets
+Trick Room * 15, 32.6% of sets
+Flash Cannon * 10, 21.7% of sets
+Thunder * 10, 21.7% of sets
+Psyshock * 10, 21.7% of sets
+Moonblast * 10, 21.7% of sets
+Round * 4, 8.7% of sets
+Psychic * 4, 8.7% of sets
+Energy Ball * 4, 8.7% of sets
+
+
+Items:
+Lax Incense * 17, 37% of sets
+Leftovers * 15, 32.6% of sets
+Expert Belt * 10, 21.7% of sets
+Assault Vest * 4, 8.7% of sets

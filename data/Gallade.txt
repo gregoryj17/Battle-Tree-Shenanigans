@@ -1,0 +1,20 @@
+Gallade, 33 sets
+Moves:
+Psycho Cut * 33, 100% of sets
+Shadow Sneak * 20, 60.6% of sets
+Brick Break * 11, 33.3% of sets
+Swords Dance * 11, 33.3% of sets
+Close Combat * 10, 30.3% of sets
+Rock Slide * 10, 30.3% of sets
+Destiny Bond * 10, 30.3% of sets
+Stone Edge * 9, 27.3% of sets
+X-scissor * 9, 27.3% of sets
+Leaf Blade * 3, 9.1% of sets
+Slash * 3, 9.1% of sets
+Protect * 3, 9.1% of sets
+
+
+Items:
+Scope Lens * 12, 36.4% of sets
+Expert Belt * 11, 33.3% of sets
+Galladite * 10, 30.3% of sets

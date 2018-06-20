@@ -1,0 +1,23 @@
+Salamence, 56 sets
+Moves:
+Earthquake * 28, 50% of sets
+Draco Meteor * 19, 33.9% of sets
+Fire Blast * 19, 33.9% of sets
+Hydro Pump * 19, 33.9% of sets
+Protect * 19, 33.9% of sets
+Dragon Rush * 18, 32.1% of sets
+Crunch * 18, 32.1% of sets
+Double-edge * 18, 32.1% of sets
+Roost * 10, 17.9% of sets
+Scary Face * 10, 17.9% of sets
+Dragon Tail * 10, 17.9% of sets
+Dragon Claw * 9, 16.1% of sets
+Zen Headbutt * 9, 16.1% of sets
+Rock Slide * 9, 16.1% of sets
+Dragon Dance * 9, 16.1% of sets
+
+
+Items:
+Yache Berry * 29, 51.8% of sets
+Salamencite * 18, 32.1% of sets
+Expert Belt * 9, 16.1% of sets

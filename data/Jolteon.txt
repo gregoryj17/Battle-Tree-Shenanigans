@@ -1,0 +1,21 @@
+Jolteon, 55 sets
+Moves:
+Shadow Ball * 33, 60% of sets
+Thunder * 32, 58.2% of sets
+Rain Dance * 32, 58.2% of sets
+Thunderbolt * 23, 41.8% of sets
+Yawn * 22, 40% of sets
+Quick Attack * 12, 21.8% of sets
+Thunder Wave * 12, 21.8% of sets
+Swagger * 12, 21.8% of sets
+Hyper Beam * 11, 20% of sets
+Fake Tears * 11, 20% of sets
+Protect * 10, 18.2% of sets
+Charm * 10, 18.2% of sets
+
+
+Items:
+Kings Rock * 22, 40% of sets
+Magnet * 12, 21.8% of sets
+Darkinium Z * 11, 20% of sets
+Damp Rock * 10, 18.2% of sets

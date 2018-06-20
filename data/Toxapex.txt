@@ -1,0 +1,22 @@
+Toxapex, 41 sets
+Moves:
+Baneful Bunker * 25, 61% of sets
+Venoshock * 25, 61% of sets
+Surf * 15, 36.6% of sets
+Liquidation * 13, 31.7% of sets
+Payback * 13, 31.7% of sets
+Stockpile * 13, 31.7% of sets
+Toxic Spikes * 13, 31.7% of sets
+Venom Drench * 13, 31.7% of sets
+Scald * 13, 31.7% of sets
+Ice Beam * 12, 29.3% of sets
+Sludge Wave * 3, 7.3% of sets
+Blizzard * 3, 7.3% of sets
+Wide Guard * 3, 7.3% of sets
+
+
+Items:
+Black Sludge * 13, 31.7% of sets
+Poisonium Z * 13, 31.7% of sets
+Red Card * 12, 29.3% of sets
+Wacan Berry * 3, 7.3% of sets

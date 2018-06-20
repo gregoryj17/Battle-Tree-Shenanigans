@@ -1,0 +1,19 @@
+Tornadus, 26 sets
+Moves:
+Focus Blast * 26, 100% of sets
+Hurricane * 20, 76.9% of sets
+Dark Pulse * 12, 46.2% of sets
+Taunt * 8, 30.8% of sets
+Rain Dance * 8, 30.8% of sets
+Grass Knot * 6, 23.1% of sets
+Substitute * 6, 23.1% of sets
+Double Team * 6, 23.1% of sets
+Rest * 6, 23.1% of sets
+Air Slash * 6, 23.1% of sets
+
+
+Items:
+Damp Rock * 8, 30.8% of sets
+Flyinium Z * 6, 23.1% of sets
+Yache Berry * 6, 23.1% of sets
+Chesto Berry * 6, 23.1% of sets

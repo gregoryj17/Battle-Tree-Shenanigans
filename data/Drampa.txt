@@ -1,0 +1,23 @@
+Drampa, 36 sets
+Moves:
+Dragon Pulse * 21, 58.3% of sets
+Roost * 16, 44.4% of sets
+Hyper Voice * 13, 36.1% of sets
+Fire Blast * 13, 36.1% of sets
+Draco Meteor * 12, 33.3% of sets
+Focus Blast * 12, 33.3% of sets
+Hurricane * 12, 33.3% of sets
+Glare * 12, 33.3% of sets
+Thunderbolt * 8, 22.2% of sets
+Flamethrower * 8, 22.2% of sets
+Surf * 8, 22.2% of sets
+Snarl * 3, 8.3% of sets
+Play Nice * 3, 8.3% of sets
+Dragon Breath * 3, 8.3% of sets
+
+
+Items:
+Quick Claw * 13, 36.1% of sets
+Dragonium Z * 12, 33.3% of sets
+Shell Bell * 8, 22.2% of sets
+Sitrus Berry * 3, 8.3% of sets

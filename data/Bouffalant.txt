@@ -1,0 +1,19 @@
+Bouffalant, 26 sets
+Moves:
+Head Charge * 26, 100% of sets
+Pursuit * 15, 57.7% of sets
+Earthquake * 11, 42.3% of sets
+Payback * 11, 42.3% of sets
+Scary Face * 10, 38.5% of sets
+Aerial Ace * 10, 38.5% of sets
+Swords Dance * 6, 23.1% of sets
+Protect * 5, 19.2% of sets
+Revenge * 5, 19.2% of sets
+Swagger * 5, 19.2% of sets
+
+
+Items:
+Silk Scarf * 10, 38.5% of sets
+Sitrus Berry * 6, 23.1% of sets
+Life Orb * 5, 19.2% of sets
+Chople Berry * 5, 19.2% of sets

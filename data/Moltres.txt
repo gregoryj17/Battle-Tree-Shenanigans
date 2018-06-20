@@ -1,0 +1,23 @@
+Moltres, 26 sets
+Moves:
+Air Slash * 18, 69.2% of sets
+Overheat * 8, 30.8% of sets
+Agility * 8, 30.8% of sets
+Will-o-wisp * 8, 30.8% of sets
+Flame Charge * 8, 30.8% of sets
+Sky Attack * 8, 30.8% of sets
+Aerial Ace * 8, 30.8% of sets
+Fire Blast * 8, 30.8% of sets
+Sunny Day * 5, 19.2% of sets
+Solar Beam * 5, 19.2% of sets
+Flamethrower * 5, 19.2% of sets
+Heat Wave * 5, 19.2% of sets
+Burn Up * 5, 19.2% of sets
+Protect * 5, 19.2% of sets
+
+
+Items:
+White Herb * 8, 30.8% of sets
+Power Herb * 8, 30.8% of sets
+Heat Rock * 5, 19.2% of sets
+Firium Z * 5, 19.2% of sets

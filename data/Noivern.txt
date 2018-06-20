@@ -1,0 +1,23 @@
+Noivern, 42 sets
+Moves:
+Dragon Pulse * 23, 54.8% of sets
+Flamethrower * 23, 54.8% of sets
+Super Fang * 14, 33.3% of sets
+Boomburst * 14, 33.3% of sets
+Round * 14, 33.3% of sets
+Torment * 14, 33.3% of sets
+Air Slash * 12, 28.6% of sets
+Psychic * 12, 28.6% of sets
+Hurricane * 11, 26.2% of sets
+Focus Blast * 11, 26.2% of sets
+Dragon Claw * 5, 11.9% of sets
+Wild Charge * 5, 11.9% of sets
+X-scissor * 5, 11.9% of sets
+Acrobatics * 5, 11.9% of sets
+
+
+Items:
+Yache Berry * 14, 33.3% of sets
+Razor Fang * 12, 28.6% of sets
+Wide Lens * 11, 26.2% of sets
+Roseli Berry * 5, 11.9% of sets

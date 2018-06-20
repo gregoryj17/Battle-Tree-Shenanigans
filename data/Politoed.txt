@@ -1,0 +1,23 @@
+Politoed, 50 sets
+Moves:
+Waterfall * 30, 60% of sets
+Hydro Pump * 20, 40% of sets
+Encore * 16, 32% of sets
+Swagger * 16, 32% of sets
+Bounce * 16, 32% of sets
+Earthquake * 14, 28% of sets
+Belly Drum * 14, 28% of sets
+Rest * 14, 28% of sets
+Blizzard * 11, 22% of sets
+Focus Blast * 11, 22% of sets
+Hypnosis * 11, 22% of sets
+Rain Dance * 9, 18% of sets
+Round * 9, 18% of sets
+Body Slam * 9, 18% of sets
+
+
+Items:
+Cell Battery * 16, 32% of sets
+Chesto Berry * 14, 28% of sets
+Wide Lens * 11, 22% of sets
+Damp Rock * 9, 18% of sets

@@ -1,0 +1,21 @@
+Araquanid, 24 sets
+Moves:
+Stockpile * 14, 58.3% of sets
+Lunge * 13, 54.2% of sets
+Liquidation * 13, 54.2% of sets
+Double Team * 8, 33.3% of sets
+Toxic * 8, 33.3% of sets
+Aqua Ring * 8, 33.3% of sets
+Poison Jab * 7, 29.2% of sets
+Protect * 7, 29.2% of sets
+Crunch * 6, 25% of sets
+Mirror Coat * 3, 12.5% of sets
+Leech Life * 3, 12.5% of sets
+Blizzard * 3, 12.5% of sets
+Scald * 3, 12.5% of sets
+
+
+Items:
+Leftovers * 13, 54.2% of sets
+Bright Powder * 8, 33.3% of sets
+Sitrus Berry * 3, 12.5% of sets

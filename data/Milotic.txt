@@ -1,0 +1,20 @@
+Milotic, 45 sets
+Moves:
+Mirror Coat * 24, 53.3% of sets
+Recover * 24, 53.3% of sets
+Surf * 24, 53.3% of sets
+Hydro Pump * 21, 46.7% of sets
+Blizzard * 14, 31.1% of sets
+Ice Beam * 14, 31.1% of sets
+Rest * 14, 31.1% of sets
+Sleep Talk * 14, 31.1% of sets
+Confuse Ray * 10, 22.2% of sets
+Toxic * 7, 15.6% of sets
+Attract * 7, 15.6% of sets
+Aqua Ring * 7, 15.6% of sets
+
+
+Items:
+Leftovers * 21, 46.7% of sets
+Wide Lens * 14, 31.1% of sets
+Enigma Berry * 10, 22.2% of sets

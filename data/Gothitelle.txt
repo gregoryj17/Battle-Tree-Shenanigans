@@ -1,0 +1,23 @@
+Gothitelle, 28 sets
+Moves:
+Psychic * 25, 89.3% of sets
+Fake Tears * 12, 42.9% of sets
+Rest * 12, 42.9% of sets
+Calm Mind * 12, 42.9% of sets
+Substitute * 7, 25% of sets
+Flatter * 7, 25% of sets
+Psych Up * 7, 25% of sets
+Charm * 6, 21.4% of sets
+Safeguard * 6, 21.4% of sets
+Charge Beam * 6, 21.4% of sets
+Psyshock * 3, 10.7% of sets
+Miracle Eye * 3, 10.7% of sets
+Mirror Coat * 3, 10.7% of sets
+Tickle * 3, 10.7% of sets
+
+
+Items:
+Chesto Berry * 12, 42.9% of sets
+Bright Powder * 7, 25% of sets
+Kee Berry * 6, 21.4% of sets
+Twisted Spoon * 3, 10.7% of sets

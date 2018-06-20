@@ -1,0 +1,20 @@
+Virizion, 26 sets
+Moves:
+Sacred Sword * 19, 73.1% of sets
+Leaf Blade * 19, 73.1% of sets
+Stone Edge * 13, 50% of sets
+Taunt * 7, 26.9% of sets
+Energy Ball * 7, 26.9% of sets
+Focus Blast * 7, 26.9% of sets
+Calm Mind * 7, 26.9% of sets
+Toxic * 7, 26.9% of sets
+Protect * 6, 23.1% of sets
+Swords Dance * 6, 23.1% of sets
+Rest * 6, 23.1% of sets
+
+
+Items:
+Fightinium Z * 7, 26.9% of sets
+Poisonium Z * 7, 26.9% of sets
+Coba Berry * 6, 23.1% of sets
+Chesto Berry * 6, 23.1% of sets

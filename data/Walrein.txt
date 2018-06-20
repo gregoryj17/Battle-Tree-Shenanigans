@@ -1,0 +1,24 @@
+Walrein, 39 sets
+Moves:
+Rest * 24, 61.5% of sets
+Frost Breath * 14, 35.9% of sets
+Snore * 14, 35.9% of sets
+Stockpile * 14, 35.9% of sets
+Surf * 10, 25.6% of sets
+Blizzard * 10, 25.6% of sets
+Hail * 10, 25.6% of sets
+Signal Beam * 10, 25.6% of sets
+Sheer Cold * 10, 25.6% of sets
+Fissure * 10, 25.6% of sets
+Sleep Talk * 10, 25.6% of sets
+Ice Ball * 5, 12.8% of sets
+Earthquake * 5, 12.8% of sets
+Encore * 5, 12.8% of sets
+Curse * 5, 12.8% of sets
+
+
+Items:
+Chesto Berry * 14, 35.9% of sets
+Leftovers * 10, 25.6% of sets
+Lax Incense * 10, 25.6% of sets
+Metronome * 5, 12.8% of sets

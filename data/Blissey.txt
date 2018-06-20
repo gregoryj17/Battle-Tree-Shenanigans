@@ -1,0 +1,24 @@
+Blissey, 42 sets
+Moves:
+Thunderbolt * 12, 28.6% of sets
+Ice Beam * 12, 28.6% of sets
+Counter * 12, 28.6% of sets
+Calm Mind * 12, 28.6% of sets
+Toxic * 12, 28.6% of sets
+Minimize * 12, 28.6% of sets
+Mud Bomb * 12, 28.6% of sets
+Soft-boiled * 12, 28.6% of sets
+Attract * 10, 23.8% of sets
+Round * 10, 23.8% of sets
+Heal Pulse * 10, 23.8% of sets
+Aromatherapy * 10, 23.8% of sets
+Charge Beam * 8, 19% of sets
+Shadow Ball * 8, 19% of sets
+Grass Knot * 8, 19% of sets
+Thunder Wave * 8, 19% of sets
+
+
+Items:
+Leftovers * 22, 52.4% of sets
+Chople Berry * 12, 28.6% of sets
+Custap Berry * 8, 19% of sets

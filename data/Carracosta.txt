@@ -1,0 +1,20 @@
+Carracosta, 43 sets
+Moves:
+Rock Slide * 43, 100% of sets
+Waterfall * 29, 67.4% of sets
+Earthquake * 29, 67.4% of sets
+Rain Dance * 16, 37.2% of sets
+Aqua Jet * 13, 30.2% of sets
+Aqua Tail * 8, 18.6% of sets
+Shell Smash * 8, 18.6% of sets
+Iron Defense * 8, 18.6% of sets
+Swagger * 6, 14% of sets
+Blizzard * 6, 14% of sets
+Hydro Pump * 6, 14% of sets
+
+
+Items:
+Damp Rock * 16, 37.2% of sets
+Weakness Policy * 13, 30.2% of sets
+Sitrus Berry * 8, 18.6% of sets
+Wide Lens * 6, 14% of sets

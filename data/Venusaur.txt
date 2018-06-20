@@ -1,0 +1,23 @@
+Venusaur, 38 sets
+Moves:
+Sludge Bomb * 23, 60.5% of sets
+Synthesis * 20, 52.6% of sets
+Energy Ball * 12, 31.6% of sets
+Grass Knot * 12, 31.6% of sets
+Protect * 12, 31.6% of sets
+Substitute * 11, 28.9% of sets
+Giga Drain * 11, 28.9% of sets
+Leech Seed * 9, 23.7% of sets
+Toxic * 9, 23.7% of sets
+Ingrain * 9, 23.7% of sets
+Roar * 6, 15.8% of sets
+Venoshock * 6, 15.8% of sets
+Power Whip * 6, 15.8% of sets
+Earthquake * 6, 15.8% of sets
+
+
+Items:
+Salac Berry * 12, 31.6% of sets
+Venusaurite * 11, 28.9% of sets
+Big Root * 9, 23.7% of sets
+Grassium Z * 6, 15.8% of sets

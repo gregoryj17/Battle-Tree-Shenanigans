@@ -1,0 +1,21 @@
+Pidgeot, 26 sets
+Moves:
+Roost * 13, 50% of sets
+Aerial Ace * 9, 34.6% of sets
+Steel Wing * 9, 34.6% of sets
+Thief * 9, 34.6% of sets
+Hurricane * 9, 34.6% of sets
+Hyper Beam * 9, 34.6% of sets
+Mirror Move * 8, 30.8% of sets
+Twister * 8, 30.8% of sets
+Sand Attack * 8, 30.8% of sets
+Double Team * 8, 30.8% of sets
+Tailwind * 5, 19.2% of sets
+Quick Attack * 5, 19.2% of sets
+Feather Dance * 4, 15.4% of sets
+
+
+Items:
+Charti Berry * 9, 34.6% of sets
+Pidgeotite * 9, 34.6% of sets
+Flyinium Z * 8, 30.8% of sets

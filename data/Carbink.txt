@@ -1,0 +1,22 @@
+Carbink, 40 sets
+Moves:
+Dazzling Gleam * 28, 70% of sets
+Power Gem * 26, 65% of sets
+Trick Room * 14, 35% of sets
+Gyro Ball * 14, 35% of sets
+Reflect * 14, 35% of sets
+Light Screen * 14, 35% of sets
+Safeguard * 14, 35% of sets
+Explosion * 8, 20% of sets
+Psychic * 8, 20% of sets
+Moonblast * 8, 20% of sets
+Toxic * 4, 10% of sets
+Protect * 4, 10% of sets
+Sandstorm * 4, 10% of sets
+
+
+Items:
+Iron Ball * 14, 35% of sets
+Light Clay * 14, 35% of sets
+Scope Lens * 8, 20% of sets
+Smooth Rock * 4, 10% of sets

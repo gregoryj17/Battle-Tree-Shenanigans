@@ -1,0 +1,21 @@
+Banette, 18 sets
+Moves:
+Shadow Claw * 9, 50% of sets
+Will-o-wisp * 7, 38.9% of sets
+Gunk Shot * 7, 38.9% of sets
+Knock Off * 6, 33.3% of sets
+Curse * 6, 33.3% of sets
+Pursuit * 6, 33.3% of sets
+Dazzling Gleam * 5, 27.8% of sets
+Snatch * 5, 27.8% of sets
+Dark Pulse * 5, 27.8% of sets
+Ominous Wind * 5, 27.8% of sets
+Shadow Sneak * 4, 22.2% of sets
+Destiny Bond * 4, 22.2% of sets
+Sucker Punch * 3, 16.7% of sets
+
+
+Items:
+Banettite * 7, 38.9% of sets
+Muscle Band * 6, 33.3% of sets
+Fairium Z * 5, 27.8% of sets

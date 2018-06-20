@@ -1,0 +1,21 @@
+Latias, 28 sets
+Moves:
+Thunder Wave * 16, 57.1% of sets
+Dragon Pulse * 14, 50% of sets
+Psychic * 14, 50% of sets
+Mist Ball * 12, 42.9% of sets
+Zen Headbutt * 8, 28.6% of sets
+Earthquake * 8, 28.6% of sets
+Dragon Claw * 8, 28.6% of sets
+Roost * 8, 28.6% of sets
+Calm Mind * 6, 21.4% of sets
+Recover * 6, 21.4% of sets
+Draco Meteor * 6, 21.4% of sets
+Thunder * 6, 21.4% of sets
+
+
+Items:
+Life Orb * 8, 28.6% of sets
+Latiasite * 8, 28.6% of sets
+Lax Incense * 6, 21.4% of sets
+White Herb * 6, 21.4% of sets

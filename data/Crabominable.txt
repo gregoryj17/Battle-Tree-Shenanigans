@@ -1,0 +1,21 @@
+Crabominable, 31 sets
+Moves:
+Rock Slide * 20, 64.5% of sets
+Ice Hammer * 18, 58.1% of sets
+Superpower * 13, 41.9% of sets
+Ice Punch * 13, 41.9% of sets
+Payback * 13, 41.9% of sets
+Close Combat * 13, 41.9% of sets
+Protect * 7, 22.6% of sets
+Stone Edge * 6, 19.4% of sets
+Earthquake * 6, 19.4% of sets
+Rest * 5, 16.1% of sets
+Iron Defense * 5, 16.1% of sets
+Dynamic Punch * 5, 16.1% of sets
+
+
+Items:
+Expert Belt * 13, 41.9% of sets
+Weakness Policy * 7, 22.6% of sets
+Sitrus Berry * 6, 19.4% of sets
+Chesto Berry * 5, 16.1% of sets

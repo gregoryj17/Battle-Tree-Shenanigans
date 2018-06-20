@@ -1,0 +1,22 @@
+Mudsdale, 34 sets
+Moves:
+Earthquake * 26, 76.5% of sets
+Payback * 18, 52.9% of sets
+Heavy Slam * 11, 32.4% of sets
+Close Combat * 11, 32.4% of sets
+Sandstorm * 11, 32.4% of sets
+Rock Slide * 10, 29.4% of sets
+Mud-slap * 10, 29.4% of sets
+Counter * 8, 23.5% of sets
+Rest * 8, 23.5% of sets
+Sleep Talk * 8, 23.5% of sets
+Superpower * 5, 14.7% of sets
+Rock Tomb * 5, 14.7% of sets
+Roar * 5, 14.7% of sets
+
+
+Items:
+Yache Berry * 11, 32.4% of sets
+Passho Berry * 10, 29.4% of sets
+Sitrus Berry * 8, 23.5% of sets
+Rindo Berry * 5, 14.7% of sets

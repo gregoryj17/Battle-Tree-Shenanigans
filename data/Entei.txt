@@ -1,0 +1,24 @@
+Entei, 32 sets
+Moves:
+Stone Edge * 16, 50% of sets
+Overheat * 9, 28.1% of sets
+Flame Charge * 9, 28.1% of sets
+Fire Fang * 9, 28.1% of sets
+Calm Mind * 9, 28.1% of sets
+Will-o-wisp * 9, 28.1% of sets
+Flamethrower * 9, 28.1% of sets
+Rest * 9, 28.1% of sets
+Eruption * 7, 21.9% of sets
+Fire Blast * 7, 21.9% of sets
+Extrasensory * 7, 21.9% of sets
+Solar Beam * 7, 21.9% of sets
+Sacred Fire * 7, 21.9% of sets
+Bulldoze * 7, 21.9% of sets
+Protect * 7, 21.9% of sets
+
+
+Items:
+Focus Sash * 9, 28.1% of sets
+Chesto Berry * 9, 28.1% of sets
+Choice Scarf * 7, 21.9% of sets
+Life Orb * 7, 21.9% of sets

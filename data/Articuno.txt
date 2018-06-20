@@ -1,0 +1,24 @@
+Articuno, 24 sets
+Moves:
+Blizzard * 12, 50% of sets
+Hail * 8, 33.3% of sets
+Fly * 8, 33.3% of sets
+Roost * 8, 33.3% of sets
+Sheer Cold * 8, 33.3% of sets
+Mind Reader * 8, 33.3% of sets
+Ice Shard * 8, 33.3% of sets
+Ice Beam * 8, 33.3% of sets
+Frost Breath * 4, 16.7% of sets
+Reflect * 4, 16.7% of sets
+Steel Wing * 4, 16.7% of sets
+U-turn * 4, 16.7% of sets
+Tailwind * 4, 16.7% of sets
+Sky Drop * 4, 16.7% of sets
+Protect * 4, 16.7% of sets
+
+
+Items:
+Icy Rock * 8, 33.3% of sets
+Lum Berry * 8, 33.3% of sets
+Charti Berry * 4, 16.7% of sets
+Leftovers * 4, 16.7% of sets

@@ -1,0 +1,21 @@
+Gigalith, 40 sets
+Moves:
+Curse * 22, 55% of sets
+Earthquake * 21, 52.5% of sets
+Rock Blast * 19, 47.5% of sets
+Sandstorm * 18, 45% of sets
+Bulldoze * 12, 30% of sets
+Gravity * 12, 30% of sets
+Stone Edge * 11, 27.5% of sets
+Explosion * 11, 27.5% of sets
+Rock Slide * 10, 25% of sets
+Stealth Rock * 10, 25% of sets
+Iron Defense * 7, 17.5% of sets
+Lock-on * 7, 17.5% of sets
+
+
+Items:
+Rawst Berry * 12, 30% of sets
+Custap Berry * 11, 27.5% of sets
+Leftovers * 10, 25% of sets
+Hard Stone * 7, 17.5% of sets

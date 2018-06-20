@@ -1,0 +1,23 @@
+Zoroark, 28 sets
+Moves:
+Counter * 17, 60.7% of sets
+Night Slash * 16, 57.1% of sets
+Shadow Claw * 9, 32.1% of sets
+Taunt * 9, 32.1% of sets
+Protect * 8, 28.6% of sets
+Dark Pulse * 8, 28.6% of sets
+Focus Blast * 8, 28.6% of sets
+Swords Dance * 7, 25% of sets
+U-turn * 7, 25% of sets
+Sucker Punch * 7, 25% of sets
+Grass Knot * 4, 14.3% of sets
+Shadow Ball * 4, 14.3% of sets
+Flamethrower * 4, 14.3% of sets
+Nasty Plot * 4, 14.3% of sets
+
+
+Items:
+Focus Sash * 9, 32.1% of sets
+Focus Band * 8, 28.6% of sets
+Sitrus Berry * 7, 25% of sets
+Expert Belt * 4, 14.3% of sets

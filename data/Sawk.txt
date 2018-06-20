@@ -1,0 +1,19 @@
+Sawk, 25 sets
+Moves:
+Taunt * 16, 64% of sets
+Low Sweep * 15, 60% of sets
+Earthquake * 14, 56% of sets
+Quick Guard * 11, 44% of sets
+Retaliate * 11, 44% of sets
+Close Combat * 9, 36% of sets
+Payback * 9, 36% of sets
+Stone Edge * 5, 20% of sets
+Endure * 5, 20% of sets
+Reversal * 5, 20% of sets
+
+
+Items:
+Black Belt * 11, 44% of sets
+Life Orb * 5, 20% of sets
+Focus Sash * 5, 20% of sets
+Expert Belt * 4, 16% of sets

@@ -1,0 +1,24 @@
+Samurott, 21 sets
+Moves:
+Hydro Pump * 11, 52.4% of sets
+Ice Beam * 6, 28.6% of sets
+Grass Knot * 6, 28.6% of sets
+Protect * 6, 28.6% of sets
+Retaliate * 5, 23.8% of sets
+Razor Shell * 5, 23.8% of sets
+Assurance * 5, 23.8% of sets
+Encore * 5, 23.8% of sets
+Blizzard * 5, 23.8% of sets
+Giga Impact * 5, 23.8% of sets
+Detect * 5, 23.8% of sets
+Aerial Ace * 5, 23.8% of sets
+Waterfall * 5, 23.8% of sets
+X-scissor * 5, 23.8% of sets
+Aqua Jet * 5, 23.8% of sets
+
+
+Items:
+Salac Berry * 6, 28.6% of sets
+Normalium Z * 5, 23.8% of sets
+Zoom Lens * 5, 23.8% of sets
+Custap Berry * 5, 23.8% of sets

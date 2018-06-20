@@ -1,0 +1,22 @@
+Glalie, 39 sets
+Moves:
+Shadow Ball * 26, 66.7% of sets
+Weather Ball * 26, 66.7% of sets
+Hail * 14, 35.9% of sets
+Blizzard * 14, 35.9% of sets
+Protect * 13, 33.3% of sets
+Rain Dance * 12, 30.8% of sets
+Dark Pulse * 12, 30.8% of sets
+Earthquake * 7, 17.9% of sets
+Explosion * 7, 17.9% of sets
+Freeze-dry * 7, 17.9% of sets
+Substitute * 6, 15.4% of sets
+Sheer Cold * 6, 15.4% of sets
+Frost Breath * 6, 15.4% of sets
+
+
+Items:
+Icy Rock * 14, 35.9% of sets
+Normalium Z * 12, 30.8% of sets
+Glalitite * 7, 17.9% of sets
+Leftovers * 6, 15.4% of sets

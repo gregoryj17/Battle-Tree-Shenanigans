@@ -1,0 +1,23 @@
+Ribombee, 40 sets
+Moves:
+Draining Kiss * 27, 67.5% of sets
+Quiver Dance * 19, 47.5% of sets
+Substitute * 17, 42.5% of sets
+Leech Life * 17, 42.5% of sets
+Stun Spore * 17, 42.5% of sets
+Baton Pass * 10, 25% of sets
+Silver Wind * 10, 25% of sets
+Dazzling Gleam * 9, 22.5% of sets
+Bug Buzz * 9, 22.5% of sets
+Energy Ball * 9, 22.5% of sets
+Pollen Puff * 4, 10% of sets
+Reflect * 4, 10% of sets
+Light Screen * 4, 10% of sets
+U-turn * 4, 10% of sets
+
+
+Items:
+Big Root * 17, 42.5% of sets
+Sitrus Berry * 10, 25% of sets
+Expert Belt * 9, 22.5% of sets
+Light Clay * 4, 10% of sets

@@ -1,0 +1,20 @@
+Feraligatr, 28 sets
+Moves:
+Waterfall * 17, 60.7% of sets
+Aqua Jet * 16, 57.1% of sets
+Earthquake * 16, 57.1% of sets
+Dragon Dance * 12, 42.9% of sets
+Ice Punch * 9, 32.1% of sets
+Crunch * 8, 28.6% of sets
+Substitute * 8, 28.6% of sets
+Screech * 7, 25% of sets
+Block * 7, 25% of sets
+Superpower * 4, 14.3% of sets
+Aqua Tail * 4, 14.3% of sets
+Ice Fang * 4, 14.3% of sets
+
+
+Items:
+Liechi Berry * 12, 42.9% of sets
+Lum Berry * 9, 32.1% of sets
+Lax Incense * 7, 25% of sets

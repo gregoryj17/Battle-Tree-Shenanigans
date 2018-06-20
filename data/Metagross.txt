@@ -1,0 +1,17 @@
+Metagross, 48 sets
+Moves:
+Meteor Mash * 48, 100% of sets
+Bullet Punch * 34, 70.8% of sets
+Zen Headbutt * 27, 56.2% of sets
+Earthquake * 17, 35.4% of sets
+Explosion * 17, 35.4% of sets
+Brick Break * 17, 35.4% of sets
+Magnet Rise * 14, 29.2% of sets
+Agility * 10, 20.8% of sets
+Psychic * 4, 8.3% of sets
+Shadow Ball * 4, 8.3% of sets
+
+
+Items:
+Occa Berry * 31, 64.6% of sets
+Metagrossite * 17, 35.4% of sets

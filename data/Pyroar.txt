@@ -1,0 +1,23 @@
+Pyroar, 35 sets
+Moves:
+Hyper Voice * 28, 80% of sets
+Flamethrower * 11, 31.4% of sets
+Snarl * 11, 31.4% of sets
+Noble Roar * 11, 31.4% of sets
+Sunny Day * 9, 25.7% of sets
+Fire Blast * 9, 25.7% of sets
+Solar Beam * 9, 25.7% of sets
+Overheat * 8, 22.9% of sets
+Dark Pulse * 8, 22.9% of sets
+Round * 8, 22.9% of sets
+Return * 7, 20% of sets
+Fire Fang * 7, 20% of sets
+Wild Charge * 7, 20% of sets
+Crunch * 7, 20% of sets
+
+
+Items:
+Kings Rock * 11, 31.4% of sets
+Heat Rock * 9, 25.7% of sets
+White Herb * 8, 22.9% of sets
+Lum Berry * 7, 20% of sets

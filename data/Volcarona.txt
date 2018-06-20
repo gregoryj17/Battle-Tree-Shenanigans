@@ -1,0 +1,20 @@
+Volcarona, 41 sets
+Moves:
+Bug Buzz * 31, 75.6% of sets
+Quiver Dance * 27, 65.9% of sets
+Heat Wave * 23, 56.1% of sets
+Protect * 18, 43.9% of sets
+Overheat * 14, 34.1% of sets
+Hurricane * 13, 31.7% of sets
+Fire Spin * 10, 24.4% of sets
+Solar Beam * 10, 24.4% of sets
+Whirlwind * 10, 24.4% of sets
+Flamethrower * 4, 9.8% of sets
+Calm Mind * 4, 9.8% of sets
+
+
+Items:
+White Herb * 14, 34.1% of sets
+Leftovers * 13, 31.7% of sets
+Power Herb * 10, 24.4% of sets
+Lum Berry * 4, 9.8% of sets

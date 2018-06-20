@@ -1,0 +1,25 @@
+Mesprit, 26 sets
+Moves:
+Psyshock * 7, 26.9% of sets
+Grass Knot * 7, 26.9% of sets
+Shadow Ball * 7, 26.9% of sets
+Charm * 7, 26.9% of sets
+Psychic * 7, 26.9% of sets
+Thunder * 7, 26.9% of sets
+Blizzard * 7, 26.9% of sets
+Protect * 7, 26.9% of sets
+Acrobatics * 6, 23.1% of sets
+U-turn * 6, 23.1% of sets
+Facade * 6, 23.1% of sets
+Fling * 6, 23.1% of sets
+Future Sight * 6, 23.1% of sets
+Healing Wish * 6, 23.1% of sets
+Copycat * 6, 23.1% of sets
+Thunder Wave * 6, 23.1% of sets
+
+
+Items:
+Kasib Berry * 7, 26.9% of sets
+Wide Lens * 7, 26.9% of sets
+Flame Orb * 6, 23.1% of sets
+Bright Powder * 6, 23.1% of sets

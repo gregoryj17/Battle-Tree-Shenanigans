@@ -1,0 +1,22 @@
+Eelektross, 37 sets
+Moves:
+Grass Knot * 27, 73% of sets
+Brick Break * 16, 43.2% of sets
+Wild Charge * 16, 43.2% of sets
+Charge Beam * 14, 37.8% of sets
+Flamethrower * 14, 37.8% of sets
+Protect * 14, 37.8% of sets
+U-turn * 13, 35.1% of sets
+Discharge * 7, 18.9% of sets
+Gastro Acid * 7, 18.9% of sets
+Thunderbolt * 7, 18.9% of sets
+Thunder Wave * 7, 18.9% of sets
+Crunch * 3, 8.1% of sets
+Coil * 3, 8.1% of sets
+
+
+Items:
+Leftovers * 14, 37.8% of sets
+Assault Vest * 13, 35.1% of sets
+Magnet * 7, 18.9% of sets
+Expert Belt * 3, 8.1% of sets

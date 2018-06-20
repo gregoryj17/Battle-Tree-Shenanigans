@@ -1,0 +1,21 @@
+Amoonguss, 41 sets
+Moves:
+Giga Drain * 28, 68.3% of sets
+Spore * 25, 61% of sets
+Toxic * 16, 39% of sets
+Rage Powder * 14, 34.1% of sets
+Sludge Bomb * 14, 34.1% of sets
+Energy Ball * 13, 31.7% of sets
+Venoshock * 13, 31.7% of sets
+Confide * 13, 31.7% of sets
+Clear Smog * 11, 26.8% of sets
+Synthesis * 11, 26.8% of sets
+Double Team * 3, 7.3% of sets
+Swagger * 3, 7.3% of sets
+
+
+Items:
+Rocky Helmet * 14, 34.1% of sets
+Petaya Berry * 13, 31.7% of sets
+Black Sludge * 11, 26.8% of sets
+Bright Powder * 3, 7.3% of sets

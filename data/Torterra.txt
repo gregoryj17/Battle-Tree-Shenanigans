@@ -1,0 +1,21 @@
+Torterra, 27 sets
+Moves:
+Earthquake * 22, 81.5% of sets
+Rock Slide * 15, 55.6% of sets
+Seed Bomb * 13, 48.1% of sets
+Crunch * 8, 29.6% of sets
+Stockpile * 7, 25.9% of sets
+Leech Seed * 7, 25.9% of sets
+Protect * 7, 25.9% of sets
+Wood Hammer * 7, 25.9% of sets
+Tickle * 7, 25.9% of sets
+Sand Tomb * 5, 18.5% of sets
+Curse * 5, 18.5% of sets
+Synthesis * 5, 18.5% of sets
+
+
+Items:
+Custap Berry * 8, 29.6% of sets
+Leftovers * 7, 25.9% of sets
+Choice Scarf * 7, 25.9% of sets
+Binding Band * 5, 18.5% of sets

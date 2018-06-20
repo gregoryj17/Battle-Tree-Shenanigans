@@ -1,0 +1,18 @@
+Throh, 25 sets
+Moves:
+Protect * 21, 84% of sets
+Storm Throw * 14, 56% of sets
+Toxic * 11, 44% of sets
+Circle Throw * 11, 44% of sets
+Wide Guard * 11, 44% of sets
+Earthquake * 9, 36% of sets
+Payback * 9, 36% of sets
+Revenge * 5, 20% of sets
+Seismic Toss * 5, 20% of sets
+Rock Slide * 4, 16% of sets
+
+
+Items:
+Payapa Berry * 11, 44% of sets
+Expert Belt * 9, 36% of sets
+Flame Orb * 5, 20% of sets

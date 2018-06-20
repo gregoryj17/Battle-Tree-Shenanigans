@@ -1,0 +1,19 @@
+Porygon-Z, 41 sets
+Moves:
+Thunderbolt * 26, 63.4% of sets
+Shadow Ball * 26, 63.4% of sets
+Psychic * 24, 58.5% of sets
+Tri Attack * 14, 34.1% of sets
+Recover * 14, 34.1% of sets
+Ice Beam * 12, 29.3% of sets
+Signal Beam * 12, 29.3% of sets
+Charge Beam * 12, 29.3% of sets
+Thunder Wave * 12, 29.3% of sets
+Hyper Beam * 3, 7.3% of sets
+
+
+Items:
+Normalium Z * 14, 34.1% of sets
+Expert Belt * 12, 29.3% of sets
+Wise Glasses * 12, 29.3% of sets
+Choice Specs * 3, 7.3% of sets

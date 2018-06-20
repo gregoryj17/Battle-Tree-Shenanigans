@@ -1,0 +1,24 @@
+Probopass, 47 sets
+Moves:
+Thunder Wave * 20, 42.6% of sets
+Explosion * 16, 34% of sets
+Rock Blast * 16, 34% of sets
+Volt Switch * 16, 34% of sets
+Sandstorm * 16, 34% of sets
+Tri Attack * 11, 23.4% of sets
+Power Gem * 11, 23.4% of sets
+Flash Cannon * 11, 23.4% of sets
+Dazzling Gleam * 11, 23.4% of sets
+Bulldoze * 10, 21.3% of sets
+Rock Slide * 10, 21.3% of sets
+Stealth Rock * 10, 21.3% of sets
+Double Team * 10, 21.3% of sets
+Rest * 10, 21.3% of sets
+Magnet Bomb * 10, 21.3% of sets
+
+
+Items:
+Quick Claw * 16, 34% of sets
+Sitrus Berry * 11, 23.4% of sets
+Leftovers * 10, 21.3% of sets
+Chesto Berry * 10, 21.3% of sets

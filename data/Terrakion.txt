@@ -1,0 +1,17 @@
+Terrakion, 32 sets
+Moves:
+Earthquake * 32, 100% of sets
+Sacred Sword * 24, 75% of sets
+Stone Edge * 16, 50% of sets
+Aerial Ace * 16, 50% of sets
+Rock Slide * 16, 50% of sets
+Close Combat * 8, 25% of sets
+Swords Dance * 8, 25% of sets
+Bulldoze * 8, 25% of sets
+
+
+Items:
+Expert Belt * 8, 25% of sets
+Choice Scarf * 8, 25% of sets
+Sitrus Berry * 8, 25% of sets
+Kings Rock * 8, 25% of sets

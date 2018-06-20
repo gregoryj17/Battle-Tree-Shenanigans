@@ -1,0 +1,23 @@
+Chesnaught, 26 sets
+Moves:
+Wood Hammer * 15, 57.7% of sets
+Earthquake * 12, 46.2% of sets
+Hammer Arm * 9, 34.6% of sets
+Stone Edge * 9, 34.6% of sets
+Focus Blast * 8, 30.8% of sets
+Energy Ball * 8, 30.8% of sets
+Sludge Bomb * 8, 30.8% of sets
+Round * 8, 30.8% of sets
+Taunt * 6, 23.1% of sets
+Spiky Shield * 6, 23.1% of sets
+Feint * 6, 23.1% of sets
+Dragon Claw * 3, 11.5% of sets
+Seed Bomb * 3, 11.5% of sets
+Brick Break * 3, 11.5% of sets
+
+
+Items:
+White Herb * 9, 34.6% of sets
+Life Orb * 8, 30.8% of sets
+Leftovers * 6, 23.1% of sets
+Expert Belt * 3, 11.5% of sets

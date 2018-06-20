@@ -1,0 +1,25 @@
+Exeggutor, 53 sets
+Moves:
+Leaf Storm * 20, 37.7% of sets
+Psychic * 20, 37.7% of sets
+Sludge Bomb * 20, 37.7% of sets
+Grassy Terrain * 20, 37.7% of sets
+Psyshock * 14, 26.4% of sets
+Grass Knot * 14, 26.4% of sets
+Light Screen * 14, 26.4% of sets
+Synthesis * 14, 26.4% of sets
+Dragon Hammer * 12, 22.6% of sets
+Wood Hammer * 12, 22.6% of sets
+Earthquake * 12, 22.6% of sets
+Brick Break * 12, 22.6% of sets
+Dragon Tail * 7, 13.2% of sets
+Flamethrower * 7, 13.2% of sets
+Hypnosis * 7, 13.2% of sets
+Giga Drain * 7, 13.2% of sets
+
+
+Items:
+Grassium Z * 20, 37.7% of sets
+Petaya Berry * 14, 26.4% of sets
+Assault Vest * 12, 22.6% of sets
+Sitrus Berry * 7, 13.2% of sets

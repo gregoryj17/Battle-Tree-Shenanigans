@@ -1,0 +1,22 @@
+Electrode, 41 sets
+Moves:
+Light Screen * 25, 61% of sets
+Taunt * 18, 43.9% of sets
+Protect * 16, 39% of sets
+Rain Dance * 15, 36.6% of sets
+Thunder * 15, 36.6% of sets
+Thunderbolt * 13, 31.7% of sets
+Mirror Coat * 13, 31.7% of sets
+Thief * 13, 31.7% of sets
+Swagger * 10, 24.4% of sets
+Charge Beam * 10, 24.4% of sets
+Thunder Wave * 10, 24.4% of sets
+Electro Ball * 3, 7.3% of sets
+Explosion * 3, 7.3% of sets
+
+
+Items:
+Damp Rock * 15, 36.6% of sets
+Air Balloon * 13, 31.7% of sets
+Shuca Berry * 10, 24.4% of sets
+Focus Sash * 3, 7.3% of sets

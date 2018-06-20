@@ -1,0 +1,20 @@
+Komala, 31 sets
+Moves:
+Play Rough * 24, 77.4% of sets
+Flail * 19, 61.3% of sets
+Payback * 13, 41.9% of sets
+Low Sweep * 13, 41.9% of sets
+Thrash * 12, 38.7% of sets
+Sucker Punch * 11, 35.5% of sets
+Defense Curl * 7, 22.6% of sets
+Rollout * 7, 22.6% of sets
+Yawn * 7, 22.6% of sets
+Earthquake * 6, 19.4% of sets
+Wood Hammer * 5, 16.1% of sets
+
+
+Items:
+Chople Berry * 13, 41.9% of sets
+Quick Claw * 7, 22.6% of sets
+Focus Sash * 6, 19.4% of sets
+Normalium Z * 5, 16.1% of sets

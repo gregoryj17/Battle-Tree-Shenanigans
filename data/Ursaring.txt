@@ -1,0 +1,22 @@
+Ursaring, 28 sets
+Moves:
+Crunch * 16, 57.1% of sets
+Facade * 11, 39.3% of sets
+Thrash * 10, 35.7% of sets
+Rest * 10, 35.7% of sets
+Counter * 10, 35.7% of sets
+Return * 7, 25% of sets
+Cross Chop * 7, 25% of sets
+Earthquake * 7, 25% of sets
+Aerial Ace * 7, 25% of sets
+Close Combat * 6, 21.4% of sets
+Protect * 6, 21.4% of sets
+Hammer Arm * 5, 17.9% of sets
+Scary Face * 5, 17.9% of sets
+Yawn * 5, 17.9% of sets
+
+
+Items:
+Toxic Orb * 11, 39.3% of sets
+Chesto Berry * 10, 35.7% of sets
+Quick Claw * 7, 25% of sets

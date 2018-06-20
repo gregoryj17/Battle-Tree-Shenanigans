@@ -1,0 +1,21 @@
+Weezing, 25 sets
+Moves:
+Will-o-wisp * 16, 64% of sets
+Stockpile * 10, 40% of sets
+Pain Split * 9, 36% of sets
+Explosion * 9, 36% of sets
+Haze * 9, 36% of sets
+Sludge Bomb * 9, 36% of sets
+Fire Blast * 9, 36% of sets
+Toxic * 7, 28% of sets
+Rest * 7, 28% of sets
+Thunder * 6, 24% of sets
+Shadow Ball * 6, 24% of sets
+Swallow * 3, 12% of sets
+
+
+Items:
+Payapa Berry * 9, 36% of sets
+Chesto Berry * 7, 28% of sets
+Black Sludge * 6, 24% of sets
+Safety Goggles * 3, 12% of sets

@@ -1,0 +1,24 @@
+Minior, 29 sets
+Moves:
+U-turn * 15, 51.7% of sets
+Rock Tomb * 15, 51.7% of sets
+Light Screen * 15, 51.7% of sets
+Reflect * 15, 51.7% of sets
+Acrobatics * 10, 34.5% of sets
+Rock Slide * 6, 20.7% of sets
+Shell Smash * 6, 20.7% of sets
+Explosion * 6, 20.7% of sets
+Earthquake * 4, 13.8% of sets
+Stone Edge * 4, 13.8% of sets
+Autotomize * 4, 13.8% of sets
+Confuse Ray * 4, 13.8% of sets
+Cosmic Power * 4, 13.8% of sets
+Ancient Power * 4, 13.8% of sets
+Charge Beam * 4, 13.8% of sets
+
+
+Items:
+Light Clay * 15, 51.7% of sets
+Sitrus Berry * 6, 20.7% of sets
+Red Card * 4, 13.8% of sets
+Absorb Bulb * 4, 13.8% of sets

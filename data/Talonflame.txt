@@ -1,0 +1,22 @@
+Talonflame, 36 sets
+Moves:
+Swords Dance * 19, 52.8% of sets
+Quick Attack * 19, 52.8% of sets
+Round * 17, 47.2% of sets
+Flail * 10, 27.8% of sets
+Acrobatics * 10, 27.8% of sets
+Brave Bird * 9, 25% of sets
+Flare Blitz * 9, 25% of sets
+Fire Blast * 9, 25% of sets
+Sunny Day * 9, 25% of sets
+Solar Beam * 9, 25% of sets
+Me First * 8, 22.2% of sets
+Will-o-wisp * 8, 22.2% of sets
+Flamethrower * 8, 22.2% of sets
+
+
+Items:
+Focus Sash * 10, 27.8% of sets
+Sitrus Berry * 9, 25% of sets
+Heat Rock * 9, 25% of sets
+Charti Berry * 8, 22.2% of sets

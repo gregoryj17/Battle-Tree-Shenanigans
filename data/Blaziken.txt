@@ -1,0 +1,22 @@
+Blaziken, 31 sets
+Moves:
+High Jump Kick * 19, 61.3% of sets
+Flare Blitz * 19, 61.3% of sets
+Shadow Claw * 10, 32.3% of sets
+Earthquake * 10, 32.3% of sets
+Counter * 9, 29% of sets
+Flamethrower * 9, 29% of sets
+Will-o-wisp * 9, 29% of sets
+Night Slash * 9, 29% of sets
+Stone Edge * 9, 29% of sets
+Brave Bird * 9, 29% of sets
+Blaze Kick * 3, 9.7% of sets
+Flame Charge * 3, 9.7% of sets
+Endure * 3, 9.7% of sets
+Reversal * 3, 9.7% of sets
+
+
+Items:
+Salac Berry * 12, 38.7% of sets
+Choice Band * 10, 32.3% of sets
+Blazikenite * 9, 29% of sets

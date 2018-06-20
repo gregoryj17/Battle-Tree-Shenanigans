@@ -1,0 +1,21 @@
+Starmie, 30 sets
+Moves:
+Psychic * 30, 100% of sets
+Surf * 19, 63.3% of sets
+Thunderbolt * 10, 33.3% of sets
+Ice Beam * 10, 33.3% of sets
+Power Gem * 9, 30% of sets
+Dazzling Gleam * 9, 30% of sets
+Cosmic Power * 8, 26.7% of sets
+Recover * 8, 26.7% of sets
+Reflect Type * 8, 26.7% of sets
+Protect * 3, 10% of sets
+Hydro Pump * 3, 10% of sets
+Rapid Spin * 3, 10% of sets
+
+
+Items:
+Kings Rock * 10, 33.3% of sets
+Focus Sash * 9, 30% of sets
+Sitrus Berry * 8, 26.7% of sets
+Waterium Z * 3, 10% of sets

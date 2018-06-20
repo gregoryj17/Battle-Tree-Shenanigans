@@ -1,0 +1,23 @@
+Tangrowth, 42 sets
+Moves:
+Wring Out * 20, 47.6% of sets
+Power Whip * 19, 45.2% of sets
+Sunny Day * 13, 31% of sets
+Solar Beam * 13, 31% of sets
+Sludge Bomb * 13, 31% of sets
+Earthquake * 12, 28.6% of sets
+Aerial Ace * 12, 28.6% of sets
+Brick Break * 12, 28.6% of sets
+Leech Seed * 10, 23.8% of sets
+Ingrain * 10, 23.8% of sets
+Giga Drain * 10, 23.8% of sets
+Toxic * 10, 23.8% of sets
+Tickle * 7, 16.7% of sets
+Bulldoze * 7, 16.7% of sets
+
+
+Items:
+Heat Rock * 13, 31% of sets
+Groundium Z * 12, 28.6% of sets
+Big Root * 10, 23.8% of sets
+Yache Berry * 7, 16.7% of sets

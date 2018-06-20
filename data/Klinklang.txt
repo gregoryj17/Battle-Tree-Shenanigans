@@ -1,0 +1,21 @@
+Klinklang, 30 sets
+Moves:
+Gear Grind * 16, 53.3% of sets
+Volt Switch * 16, 53.3% of sets
+Flash Cannon * 14, 46.7% of sets
+Thunderbolt * 11, 36.7% of sets
+Protect * 11, 36.7% of sets
+Toxic * 11, 36.7% of sets
+Shift Gear * 8, 26.7% of sets
+Giga Impact * 8, 26.7% of sets
+Thunder Wave * 8, 26.7% of sets
+Screech * 8, 26.7% of sets
+Charge Beam * 3, 10% of sets
+Metal Sound * 3, 10% of sets
+Autotomize * 3, 10% of sets
+
+
+Items:
+Steelium Z * 11, 36.7% of sets
+Leftovers * 11, 36.7% of sets
+Shuca Berry * 8, 26.7% of sets

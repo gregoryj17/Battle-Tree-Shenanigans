@@ -1,0 +1,23 @@
+Cobalion, 22 sets
+Moves:
+Iron Head * 16, 72.7% of sets
+Focus Blast * 6, 27.3% of sets
+Flash Cannon * 6, 27.3% of sets
+Calm Mind * 6, 27.3% of sets
+Rest * 6, 27.3% of sets
+Metal Burst * 6, 27.3% of sets
+Sacred Sword * 6, 27.3% of sets
+Quick Attack * 6, 27.3% of sets
+Swagger * 5, 22.7% of sets
+Substitute * 5, 22.7% of sets
+Psych Up * 5, 22.7% of sets
+Close Combat * 5, 22.7% of sets
+Quick Guard * 5, 22.7% of sets
+Protect * 5, 22.7% of sets
+
+
+Items:
+Chesto Berry * 6, 27.3% of sets
+Maranga Berry * 6, 27.3% of sets
+Lax Incense * 5, 22.7% of sets
+Life Orb * 5, 22.7% of sets

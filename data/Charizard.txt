@@ -1,0 +1,21 @@
+Charizard, 44 sets
+Moves:
+Rock Slide * 18, 40.9% of sets
+Dragon Dance * 18, 40.9% of sets
+Dragon Claw * 17, 38.6% of sets
+Shadow Claw * 17, 38.6% of sets
+Heat Wave * 15, 34.1% of sets
+Solar Beam * 15, 34.1% of sets
+Air Slash * 15, 34.1% of sets
+Focus Blast * 15, 34.1% of sets
+Dragon Rush * 12, 27.3% of sets
+Flare Blitz * 12, 27.3% of sets
+Fire Fang * 11, 25% of sets
+Belly Drum * 11, 25% of sets
+
+
+Items:
+Charizardite Y * 15, 34.1% of sets
+Charizardite X * 12, 27.3% of sets
+Salac Berry * 11, 25% of sets
+Charti Berry * 6, 13.6% of sets

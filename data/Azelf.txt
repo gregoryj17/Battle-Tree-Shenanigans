@@ -1,0 +1,25 @@
+Azelf, 32 sets
+Moves:
+Explosion * 8, 25% of sets
+Payback * 8, 25% of sets
+Acrobatics * 8, 25% of sets
+Rest * 8, 25% of sets
+Charge Beam * 8, 25% of sets
+Extrasensory * 8, 25% of sets
+Thunder Wave * 8, 25% of sets
+Grass Knot * 8, 25% of sets
+Nasty Plot * 8, 25% of sets
+Psyshock * 8, 25% of sets
+Energy Ball * 8, 25% of sets
+Thunderbolt * 8, 25% of sets
+Psychic * 8, 25% of sets
+Fire Blast * 8, 25% of sets
+Thunder * 8, 25% of sets
+Shadow Ball * 8, 25% of sets
+
+
+Items:
+Weakness Policy * 8, 25% of sets
+Electrium Z * 8, 25% of sets
+Focus Sash * 8, 25% of sets
+Expert Belt * 8, 25% of sets

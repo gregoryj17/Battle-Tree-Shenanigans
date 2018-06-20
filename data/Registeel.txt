@@ -1,0 +1,21 @@
+Registeel, 22 sets
+Moves:
+Iron Head * 14, 63.6% of sets
+Amnesia * 11, 50% of sets
+Earthquake * 11, 50% of sets
+Curse * 7, 31.8% of sets
+Rest * 7, 31.8% of sets
+Rock Polish * 7, 31.8% of sets
+Superpower * 7, 31.8% of sets
+Iron Defense * 4, 18.2% of sets
+Charge Beam * 4, 18.2% of sets
+Flash Cannon * 4, 18.2% of sets
+Toxic * 4, 18.2% of sets
+Double Team * 4, 18.2% of sets
+Protect * 4, 18.2% of sets
+
+
+Items:
+Leftovers * 8, 36.4% of sets
+Chesto Berry * 7, 31.8% of sets
+Fightinium Z * 7, 31.8% of sets

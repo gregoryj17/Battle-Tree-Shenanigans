@@ -1,0 +1,25 @@
+Uxie, 30 sets
+Moves:
+Psyshock * 8, 26.7% of sets
+Energy Ball * 8, 26.7% of sets
+Thunder * 8, 26.7% of sets
+Shadow Ball * 8, 26.7% of sets
+Yawn * 8, 26.7% of sets
+Psychic * 8, 26.7% of sets
+Charge Beam * 8, 26.7% of sets
+Dazzling Gleam * 8, 26.7% of sets
+Calm Mind * 7, 23.3% of sets
+Rest * 7, 23.3% of sets
+Extrasensory * 7, 23.3% of sets
+Thunder Wave * 7, 23.3% of sets
+Future Sight * 7, 23.3% of sets
+Memento * 7, 23.3% of sets
+U-turn * 7, 23.3% of sets
+Reflect * 7, 23.3% of sets
+
+
+Items:
+Quick Claw * 8, 26.7% of sets
+Leftovers * 8, 26.7% of sets
+Chesto Berry * 7, 23.3% of sets
+Psychium Z * 7, 23.3% of sets

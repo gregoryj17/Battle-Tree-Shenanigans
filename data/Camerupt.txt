@@ -1,0 +1,22 @@
+Camerupt, 30 sets
+Moves:
+Earth Power * 15, 50% of sets
+Flash Cannon * 15, 50% of sets
+Sunny Day * 8, 26.7% of sets
+Solar Beam * 8, 26.7% of sets
+Eruption * 8, 26.7% of sets
+Ancient Power * 8, 26.7% of sets
+Fire Blast * 8, 26.7% of sets
+Will-o-wisp * 8, 26.7% of sets
+Yawn * 7, 23.3% of sets
+Flamethrower * 7, 23.3% of sets
+Earthquake * 7, 23.3% of sets
+Stone Edge * 7, 23.3% of sets
+Heat Wave * 7, 23.3% of sets
+Protect * 7, 23.3% of sets
+
+
+Items:
+Cameruptite * 15, 50% of sets
+Firium Z * 8, 26.7% of sets
+Passho Berry * 7, 23.3% of sets

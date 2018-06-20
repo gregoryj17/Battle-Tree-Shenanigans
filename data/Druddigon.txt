@@ -1,0 +1,21 @@
+Druddigon, 20 sets
+Moves:
+Crunch * 14, 70% of sets
+Dragon Tail * 13, 65% of sets
+Scary Face * 10, 50% of sets
+Glare * 10, 50% of sets
+Earthquake * 7, 35% of sets
+Dragon Claw * 7, 35% of sets
+Rock Slide * 4, 20% of sets
+Outrage * 3, 15% of sets
+Superpower * 3, 15% of sets
+Night Slash * 3, 15% of sets
+Slash * 3, 15% of sets
+Hone Claws * 3, 15% of sets
+
+
+Items:
+Roseli Berry * 10, 50% of sets
+Quick Claw * 4, 20% of sets
+Choice Band * 3, 15% of sets
+Scope Lens * 3, 15% of sets

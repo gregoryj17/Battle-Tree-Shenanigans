@@ -1,0 +1,18 @@
+Regigigas, 34 sets
+Moves:
+Confuse Ray * 34, 100% of sets
+Double Team * 17, 50% of sets
+Toxic * 17, 50% of sets
+Bulldoze * 10, 29.4% of sets
+Payback * 10, 29.4% of sets
+Thunder * 10, 29.4% of sets
+Focus Blast * 10, 29.4% of sets
+Knock Off * 7, 20.6% of sets
+Thunder Wave * 7, 20.6% of sets
+Rock Slide * 7, 20.6% of sets
+Wide Guard * 7, 20.6% of sets
+
+
+Items:
+Leftovers * 24, 70.6% of sets
+Zoom Lens * 10, 29.4% of sets

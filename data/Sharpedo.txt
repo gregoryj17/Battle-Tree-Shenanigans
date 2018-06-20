@@ -1,0 +1,20 @@
+Sharpedo, 34 sets
+Moves:
+Crunch * 19, 55.9% of sets
+Ice Fang * 19, 55.9% of sets
+Aqua Jet * 19, 55.9% of sets
+Dark Pulse * 15, 44.1% of sets
+Poison Jab * 14, 41.2% of sets
+Ice Beam * 10, 29.4% of sets
+Hydro Pump * 10, 29.4% of sets
+Protect * 10, 29.4% of sets
+Bulldoze * 10, 29.4% of sets
+Surf * 5, 14.7% of sets
+Taunt * 5, 14.7% of sets
+
+
+Items:
+Focus Sash * 10, 29.4% of sets
+Muscle Band * 10, 29.4% of sets
+Sharpedonite * 9, 26.5% of sets
+Poisonium Z * 5, 14.7% of sets

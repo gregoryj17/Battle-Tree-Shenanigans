@@ -1,0 +1,21 @@
+Glaceon, 45 sets
+Moves:
+Blizzard * 34, 75.6% of sets
+Mirror Coat * 24, 53.3% of sets
+Shadow Ball * 21, 46.7% of sets
+Ice Shard * 13, 28.9% of sets
+Helping Hand * 13, 28.9% of sets
+Hail * 11, 24.4% of sets
+Hyper Beam * 11, 24.4% of sets
+Frost Breath * 11, 24.4% of sets
+Rest * 11, 24.4% of sets
+Barrier * 11, 24.4% of sets
+Aurora Veil * 10, 22.2% of sets
+Detect * 10, 22.2% of sets
+
+
+Items:
+Quick Claw * 13, 28.9% of sets
+Focus Sash * 11, 24.4% of sets
+Chesto Berry * 11, 24.4% of sets
+Bright Powder * 10, 22.2% of sets

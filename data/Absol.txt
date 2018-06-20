@@ -1,0 +1,22 @@
+Absol, 31 sets
+Moves:
+Sucker Punch * 18, 58.1% of sets
+Play Rough * 15, 48.4% of sets
+Payback * 13, 41.9% of sets
+Mean Look * 13, 41.9% of sets
+Double Team * 13, 41.9% of sets
+Baton Pass * 13, 41.9% of sets
+Night Slash * 9, 29% of sets
+Zen Headbutt * 9, 29% of sets
+Megahorn * 6, 19.4% of sets
+Stone Edge * 6, 19.4% of sets
+Magic Coat * 3, 9.7% of sets
+Psycho Cut * 3, 9.7% of sets
+Taunt * 3, 9.7% of sets
+
+
+Items:
+Sitrus Berry * 13, 41.9% of sets
+Focus Sash * 9, 29% of sets
+Absolite * 6, 19.4% of sets
+Chople Berry * 3, 9.7% of sets

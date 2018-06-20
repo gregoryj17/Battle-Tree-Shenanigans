@@ -1,0 +1,20 @@
+Mawile, 46 sets
+Moves:
+Sucker Punch * 39, 84.8% of sets
+Iron Head * 30, 65.2% of sets
+Crunch * 20, 43.5% of sets
+Taunt * 20, 43.5% of sets
+Play Rough * 19, 41.3% of sets
+Swords Dance * 10, 21.7% of sets
+Fire Fang * 9, 19.6% of sets
+Stone Edge * 9, 19.6% of sets
+Flash Cannon * 7, 15.2% of sets
+Fairy Wind * 7, 15.2% of sets
+Metal Burst * 7, 15.2% of sets
+Shadow Ball * 7, 15.2% of sets
+
+
+Items:
+Quick Claw * 20, 43.5% of sets
+Mawilite * 19, 41.3% of sets
+Fairium Z * 7, 15.2% of sets

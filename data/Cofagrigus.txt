@@ -1,0 +1,21 @@
+Cofagrigus, 33 sets
+Moves:
+Will-o-wisp * 33, 100% of sets
+Shadow Ball * 18, 54.5% of sets
+Destiny Bond * 13, 39.4% of sets
+Trick Room * 13, 39.4% of sets
+Night Shade * 10, 30.3% of sets
+Mean Look * 10, 30.3% of sets
+Rest * 10, 30.3% of sets
+Energy Ball * 5, 15.2% of sets
+Nasty Plot * 5, 15.2% of sets
+Toxic * 5, 15.2% of sets
+Hex * 5, 15.2% of sets
+Calm Mind * 5, 15.2% of sets
+
+
+Items:
+Maranga Berry * 13, 39.4% of sets
+Chesto Berry * 10, 30.3% of sets
+Spell Tag * 5, 15.2% of sets
+Leftovers * 5, 15.2% of sets

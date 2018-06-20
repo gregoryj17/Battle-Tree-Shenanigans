@@ -1,0 +1,19 @@
+Beedrill, 32 sets
+Moves:
+Poison Jab * 29, 90.6% of sets
+Toxic * 17, 53.1% of sets
+Brick Break * 15, 46.9% of sets
+Pursuit * 14, 43.8% of sets
+Fell Stinger * 14, 43.8% of sets
+Protect * 10, 31.2% of sets
+U-turn * 8, 25% of sets
+X-scissor * 8, 25% of sets
+Pin Missile * 7, 21.9% of sets
+Infestation * 3, 9.4% of sets
+Attract * 3, 9.4% of sets
+
+
+Items:
+Beedrillite * 15, 46.9% of sets
+Expert Belt * 14, 43.8% of sets
+Occa Berry * 3, 9.4% of sets

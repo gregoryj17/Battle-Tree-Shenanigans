@@ -1,0 +1,20 @@
+Escavalier, 28 sets
+Moves:
+Megahorn * 25, 89.3% of sets
+Reversal * 19, 67.9% of sets
+Swords Dance * 15, 53.6% of sets
+Iron Head * 13, 46.4% of sets
+Quick Guard * 12, 42.9% of sets
+Swagger * 7, 25% of sets
+Iron Defense * 6, 21.4% of sets
+Poison Jab * 6, 21.4% of sets
+Pursuit * 3, 10.7% of sets
+Counter * 3, 10.7% of sets
+X-scissor * 3, 10.7% of sets
+
+
+Items:
+Liechi Berry * 12, 42.9% of sets
+Custap Berry * 7, 25% of sets
+Life Orb * 6, 21.4% of sets
+Quick Claw * 3, 10.7% of sets

@@ -1,0 +1,23 @@
+Meganium, 20 sets
+Moves:
+Light Screen * 11, 55% of sets
+Petal Blizzard * 8, 40% of sets
+Leech Seed * 6, 30% of sets
+Ingrain * 6, 30% of sets
+Toxic * 6, 30% of sets
+Protect * 6, 30% of sets
+Aromatherapy * 6, 30% of sets
+Swagger * 6, 30% of sets
+Solar Beam * 6, 30% of sets
+Earthquake * 5, 25% of sets
+Reflect * 5, 25% of sets
+Double Team * 3, 15% of sets
+Substitute * 3, 15% of sets
+Rest * 3, 15% of sets
+
+
+Items:
+Leftovers * 6, 30% of sets
+Sitrus Berry * 6, 30% of sets
+Light Clay * 5, 25% of sets
+Chesto Berry * 3, 15% of sets

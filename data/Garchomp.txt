@@ -1,0 +1,21 @@
+Garchomp, 46 sets
+Moves:
+Earthquake * 43, 93.5% of sets
+Sandstorm * 29, 63% of sets
+Outrage * 17, 37% of sets
+Fire Fang * 17, 37% of sets
+Crunch * 17, 37% of sets
+Stone Edge * 16, 34.8% of sets
+Dragon Claw * 16, 34.8% of sets
+Protect * 10, 21.7% of sets
+Sand Tomb * 10, 21.7% of sets
+Fire Blast * 3, 6.5% of sets
+Dragon Breath * 3, 6.5% of sets
+Surf * 3, 6.5% of sets
+
+
+Items:
+Choice Scarf * 17, 37% of sets
+Garchompite * 16, 34.8% of sets
+Lax Incense * 10, 21.7% of sets
+Focus Sash * 3, 6.5% of sets

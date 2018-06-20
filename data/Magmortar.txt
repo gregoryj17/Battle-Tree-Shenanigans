@@ -1,0 +1,22 @@
+Magmortar, 55 sets
+Moves:
+Flare Blitz * 30, 54.5% of sets
+Will-o-wisp * 25, 45.5% of sets
+Cross Chop * 20, 36.4% of sets
+Flame Charge * 20, 36.4% of sets
+Rock Slide * 20, 36.4% of sets
+Fire Blast * 15, 27.3% of sets
+Psychic * 15, 27.3% of sets
+Focus Blast * 15, 27.3% of sets
+Belly Drum * 10, 18.2% of sets
+Mach Punch * 10, 18.2% of sets
+Belch * 10, 18.2% of sets
+Confuse Ray * 10, 18.2% of sets
+Thunder Punch * 10, 18.2% of sets
+Fire Punch * 10, 18.2% of sets
+
+
+Items:
+Air Balloon * 35, 63.6% of sets
+Sitrus Berry * 10, 18.2% of sets
+Quick Claw * 10, 18.2% of sets

@@ -1,0 +1,21 @@
+Regice, 22 sets
+Moves:
+Ice Beam * 18, 81.8% of sets
+Thunderbolt * 14, 63.6% of sets
+Focus Blast * 11, 50% of sets
+Toxic * 7, 31.8% of sets
+Icy Wind * 7, 31.8% of sets
+Rest * 7, 31.8% of sets
+Charge Beam * 4, 18.2% of sets
+Amnesia * 4, 18.2% of sets
+Protect * 4, 18.2% of sets
+Thunder * 4, 18.2% of sets
+Blizzard * 4, 18.2% of sets
+Thunder Wave * 4, 18.2% of sets
+
+
+Items:
+Sitrus Berry * 7, 31.8% of sets
+Chesto Berry * 7, 31.8% of sets
+Leftovers * 4, 18.2% of sets
+Zoom Lens * 4, 18.2% of sets

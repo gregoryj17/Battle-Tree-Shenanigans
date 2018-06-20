@@ -1,0 +1,21 @@
+Golisopod, 43 sets
+Moves:
+First Impression * 39, 90.7% of sets
+Sucker Punch * 17, 39.5% of sets
+Leech Life * 16, 37.2% of sets
+Struggle Bug * 14, 32.6% of sets
+Scald * 14, 32.6% of sets
+Ice Beam * 14, 32.6% of sets
+Aqua Jet * 13, 30.2% of sets
+Rock Slide * 13, 30.2% of sets
+Liquidation * 12, 27.9% of sets
+Brick Break * 12, 27.9% of sets
+Swords Dance * 4, 9.3% of sets
+Razor Shell * 4, 9.3% of sets
+
+
+Items:
+Eject Button * 14, 32.6% of sets
+Life Orb * 13, 30.2% of sets
+Quick Claw * 12, 27.9% of sets
+Sitrus Berry * 4, 9.3% of sets

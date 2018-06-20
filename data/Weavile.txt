@@ -1,0 +1,16 @@
+Weavile, 44 sets
+Moves:
+Fake Out * 39, 88.6% of sets
+Night Slash * 39, 88.6% of sets
+Taunt * 26, 59.1% of sets
+Ice Punch * 26, 59.1% of sets
+Fling * 18, 40.9% of sets
+Protect * 18, 40.9% of sets
+Ice Shard * 5, 11.4% of sets
+Torment * 5, 11.4% of sets
+
+
+Items:
+Focus Sash * 21, 47.7% of sets
+Razor Fang * 18, 40.9% of sets
+Never-Melt Ice * 5, 11.4% of sets

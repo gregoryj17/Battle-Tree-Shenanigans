@@ -1,0 +1,21 @@
+Cresselia, 30 sets
+Moves:
+Psychic * 17, 56.7% of sets
+Shadow Ball * 17, 56.7% of sets
+Double Team * 13, 43.3% of sets
+Moonlight * 13, 43.3% of sets
+Moonblast * 11, 36.7% of sets
+Trick Room * 11, 36.7% of sets
+Future Sight * 7, 23.3% of sets
+Swagger * 7, 23.3% of sets
+Calm Mind * 6, 20% of sets
+Rest * 6, 20% of sets
+Toxic * 6, 20% of sets
+Protect * 6, 20% of sets
+
+
+Items:
+Iron Ball * 11, 36.7% of sets
+Lum Berry * 7, 23.3% of sets
+Chesto Berry * 6, 20% of sets
+Leftovers * 6, 20% of sets

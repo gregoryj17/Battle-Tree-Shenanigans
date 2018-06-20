@@ -1,0 +1,25 @@
+Aurorus, 32 sets
+Moves:
+Hyper Beam * 10, 31.2% of sets
+Flash Cannon * 10, 31.2% of sets
+Thunder * 10, 31.2% of sets
+Psychic * 10, 31.2% of sets
+Substitute * 9, 28.1% of sets
+Thunder Wave * 9, 28.1% of sets
+Round * 9, 28.1% of sets
+Thunderbolt * 9, 28.1% of sets
+Ancient Power * 7, 21.9% of sets
+Hail * 7, 21.9% of sets
+Sandstorm * 7, 21.9% of sets
+Freeze-dry * 7, 21.9% of sets
+Giga Impact * 6, 18.8% of sets
+Earthquake * 6, 18.8% of sets
+Stone Edge * 6, 18.8% of sets
+Frost Breath * 6, 18.8% of sets
+
+
+Items:
+Life Orb * 10, 31.2% of sets
+Sitrus Berry * 9, 28.1% of sets
+Leftovers * 7, 21.9% of sets
+Expert Belt * 6, 18.8% of sets

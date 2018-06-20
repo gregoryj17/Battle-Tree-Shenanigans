@@ -1,0 +1,21 @@
+Abomasnow, 28 sets
+Moves:
+Blizzard * 18, 64.3% of sets
+Frost Breath * 10, 35.7% of sets
+Icy Wind * 10, 35.7% of sets
+Leech Seed * 10, 35.7% of sets
+Ingrain * 10, 35.7% of sets
+Focus Blast * 9, 32.1% of sets
+Ice Shard * 9, 32.1% of sets
+Wood Hammer * 9, 32.1% of sets
+Brick Break * 9, 32.1% of sets
+Double Team * 9, 32.1% of sets
+Sheer Cold * 5, 17.9% of sets
+Protect * 4, 14.3% of sets
+
+
+Items:
+Leftovers * 10, 35.7% of sets
+Miracle Seed * 9, 32.1% of sets
+Focus Sash * 5, 17.9% of sets
+Abomasite * 4, 14.3% of sets

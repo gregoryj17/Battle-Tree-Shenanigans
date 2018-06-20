@@ -1,0 +1,22 @@
+Audino, 34 sets
+Moves:
+Draining Kiss * 18, 52.9% of sets
+Hyper Voice * 16, 47.1% of sets
+Fire Blast * 16, 47.1% of sets
+Heal Pulse * 10, 29.4% of sets
+Toxic * 10, 29.4% of sets
+Thunder Wave * 10, 29.4% of sets
+Flamethrower * 8, 23.5% of sets
+Healing Wish * 8, 23.5% of sets
+Calm Mind * 8, 23.5% of sets
+Yawn * 8, 23.5% of sets
+Trick Room * 8, 23.5% of sets
+Thunder * 8, 23.5% of sets
+Blizzard * 8, 23.5% of sets
+
+
+Items:
+Leftovers * 10, 29.4% of sets
+Audinite * 8, 23.5% of sets
+Firium Z * 8, 23.5% of sets
+Choice Specs * 8, 23.5% of sets

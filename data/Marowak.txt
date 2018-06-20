@@ -1,0 +1,24 @@
+Marowak, 34 sets
+Moves:
+Bone Rush * 15, 44.1% of sets
+Double Kick * 15, 44.1% of sets
+Endeavor * 15, 44.1% of sets
+Smack Down * 15, 44.1% of sets
+Will-o-wisp * 9, 26.5% of sets
+Hex * 9, 26.5% of sets
+Thunder * 9, 26.5% of sets
+Rain Dance * 9, 26.5% of sets
+Shadow Bone * 6, 17.6% of sets
+Flare Blitz * 6, 17.6% of sets
+Detect * 6, 17.6% of sets
+Stomping Tantrum * 6, 17.6% of sets
+Earthquake * 4, 11.8% of sets
+Stone Edge * 4, 11.8% of sets
+Brick Break * 4, 11.8% of sets
+Brutal Swing * 4, 11.8% of sets
+
+
+Items:
+Red Card * 15, 44.1% of sets
+Thick Club * 10, 29.4% of sets
+Air Balloon * 9, 26.5% of sets

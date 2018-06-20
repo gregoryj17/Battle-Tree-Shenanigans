@@ -1,0 +1,20 @@
+Steelix, 44 sets
+Moves:
+Earthquake * 40, 90.9% of sets
+Gyro Ball * 32, 72.7% of sets
+Curse * 16, 36.4% of sets
+Stone Edge * 15, 34.1% of sets
+Sandstorm * 15, 34.1% of sets
+Rock Slide * 13, 29.5% of sets
+Explosion * 13, 29.5% of sets
+Rest * 12, 27.3% of sets
+Stealth Rock * 12, 27.3% of sets
+Crunch * 4, 9.1% of sets
+Screech * 4, 9.1% of sets
+
+
+Items:
+Steelixite * 15, 34.1% of sets
+Quick Claw * 13, 29.5% of sets
+Chesto Berry * 12, 27.3% of sets
+Enigma Berry * 4, 9.1% of sets

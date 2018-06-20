@@ -1,0 +1,23 @@
+Gogoat, 33 sets
+Moves:
+Horn Leech * 16, 48.5% of sets
+Payback * 16, 48.5% of sets
+Surf * 9, 27.3% of sets
+Energy Ball * 9, 27.3% of sets
+Rock Slide * 9, 27.3% of sets
+Grass Knot * 9, 27.3% of sets
+Substitute * 9, 27.3% of sets
+Bulk Up * 9, 27.3% of sets
+Earthquake * 8, 24.2% of sets
+Leaf Blade * 8, 24.2% of sets
+Wild Charge * 8, 24.2% of sets
+Brick Break * 8, 24.2% of sets
+Leech Seed * 7, 21.2% of sets
+Protect * 7, 21.2% of sets
+
+
+Items:
+Occa Berry * 9, 27.3% of sets
+Yache Berry * 9, 27.3% of sets
+Choice Band * 8, 24.2% of sets
+Big Root * 7, 21.2% of sets

@@ -1,0 +1,23 @@
+Vanilluxe, 41 sets
+Moves:
+Ice Beam * 24, 58.5% of sets
+Mirror Coat * 24, 58.5% of sets
+Frost Breath * 13, 31.7% of sets
+Icy Wind * 13, 31.7% of sets
+Taunt * 11, 26.8% of sets
+Acid Armor * 11, 26.8% of sets
+Hail * 10, 24.4% of sets
+Blizzard * 10, 24.4% of sets
+Flash Cannon * 10, 24.4% of sets
+Sheer Cold * 10, 24.4% of sets
+Avalanche * 7, 17.1% of sets
+Ice Shard * 7, 17.1% of sets
+Natural Gift * 7, 17.1% of sets
+Giga Impact * 7, 17.1% of sets
+
+
+Items:
+Never-Melt Ice * 13, 31.7% of sets
+Maranga Berry * 11, 26.8% of sets
+Leftovers * 10, 24.4% of sets
+Occa Berry * 7, 17.1% of sets

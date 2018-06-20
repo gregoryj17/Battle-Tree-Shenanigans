@@ -1,0 +1,19 @@
+Raikou, 40 sets
+Moves:
+Shadow Ball * 30, 75% of sets
+Thunderbolt * 20, 50% of sets
+Volt Switch * 20, 50% of sets
+Extrasensory * 20, 50% of sets
+Charge Beam * 10, 25% of sets
+Thunder Wave * 10, 25% of sets
+Calm Mind * 10, 25% of sets
+Protect * 10, 25% of sets
+Thunder * 10, 25% of sets
+Discharge * 10, 25% of sets
+Reflect * 10, 25% of sets
+
+
+Items:
+Electrium Z * 20, 50% of sets
+Shuca Berry * 10, 25% of sets
+Air Balloon * 10, 25% of sets

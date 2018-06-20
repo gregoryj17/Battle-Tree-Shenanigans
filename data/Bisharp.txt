@@ -1,0 +1,17 @@
+Bisharp, 47 sets
+Moves:
+Night Slash * 31, 66% of sets
+Iron Head * 30, 63.8% of sets
+Taunt * 30, 63.8% of sets
+Metal Burst * 30, 63.8% of sets
+Sucker Punch * 27, 57.4% of sets
+Low Sweep * 17, 36.2% of sets
+Metal Claw * 17, 36.2% of sets
+Aerial Ace * 3, 6.4% of sets
+Scary Face * 3, 6.4% of sets
+
+
+Items:
+Chople Berry * 17, 36.2% of sets
+Sitrus Berry * 17, 36.2% of sets
+Focus Sash * 13, 27.7% of sets

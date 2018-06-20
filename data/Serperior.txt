@@ -1,0 +1,20 @@
+Serperior, 25 sets
+Moves:
+Leaf Storm * 17, 68% of sets
+Substitute * 9, 36% of sets
+Hyper Beam * 9, 36% of sets
+Toxic * 9, 36% of sets
+Leaf Tornado * 8, 32% of sets
+Attract * 5, 20% of sets
+Dragon Tail * 5, 20% of sets
+Gastro Acid * 5, 20% of sets
+Hidden Power * 3, 12% of sets
+Mirror Coat * 3, 12% of sets
+Captivate * 3, 12% of sets
+
+
+Items:
+Bright Powder * 9, 36% of sets
+Choice Specs * 8, 32% of sets
+Lum Berry * 5, 20% of sets
+Sitrus Berry * 3, 12% of sets

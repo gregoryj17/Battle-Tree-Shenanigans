@@ -1,0 +1,22 @@
+Gardevoir, 40 sets
+Moves:
+Psychic * 25, 62.5% of sets
+Shadow Ball * 25, 62.5% of sets
+Dazzling Gleam * 23, 57.5% of sets
+Hyper Beam * 13, 32.5% of sets
+Focus Blast * 13, 32.5% of sets
+Energy Ball * 12, 30% of sets
+Hypnosis * 11, 27.5% of sets
+Dream Eater * 11, 27.5% of sets
+Imprison * 11, 27.5% of sets
+Stored Power * 4, 10% of sets
+Thunderbolt * 4, 10% of sets
+Calm Mind * 4, 10% of sets
+Double Team * 4, 10% of sets
+
+
+Items:
+Gardevoirite * 13, 32.5% of sets
+Lum Berry * 12, 30% of sets
+Psychium Z * 11, 27.5% of sets
+Bright Powder * 4, 10% of sets

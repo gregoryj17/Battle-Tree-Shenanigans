@@ -1,0 +1,19 @@
+Armaldo, 40 sets
+Moves:
+X-scissor * 40, 100% of sets
+Earthquake * 29, 72.5% of sets
+Rock Slide * 20, 50% of sets
+Iron Defense * 12, 30% of sets
+Rock Blast * 11, 27.5% of sets
+Rest * 11, 27.5% of sets
+Curse * 11, 27.5% of sets
+Cross Poison * 9, 22.5% of sets
+Stone Edge * 9, 22.5% of sets
+Rock Polish * 8, 20% of sets
+
+
+Items:
+Life Orb * 12, 30% of sets
+Chesto Berry * 11, 27.5% of sets
+Choice Band * 9, 22.5% of sets
+Razor Fang * 8, 20% of sets

@@ -1,0 +1,21 @@
+Excadrill, 40 sets
+Moves:
+Rock Slide * 36, 90% of sets
+Earthquake * 21, 52.5% of sets
+Poison Jab * 21, 52.5% of sets
+Hone Claws * 15, 37.5% of sets
+Drill Run * 15, 37.5% of sets
+Iron Defense * 15, 37.5% of sets
+Sandstorm * 12, 30% of sets
+Aerial Ace * 9, 22.5% of sets
+Dig * 4, 10% of sets
+Metal Sound * 4, 10% of sets
+Metal Claw * 4, 10% of sets
+Swords Dance * 4, 10% of sets
+
+
+Items:
+Soft Sand * 15, 37.5% of sets
+Bright Powder * 12, 30% of sets
+Life Orb * 9, 22.5% of sets
+Steelium Z * 4, 10% of sets

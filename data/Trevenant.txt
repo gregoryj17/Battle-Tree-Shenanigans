@@ -1,0 +1,23 @@
+Trevenant, 31 sets
+Moves:
+Energy Ball * 19, 61.3% of sets
+Shadow Ball * 19, 61.3% of sets
+Trick Room * 10, 32.3% of sets
+Focus Blast * 10, 32.3% of sets
+Psychic * 9, 29% of sets
+Round * 9, 29% of sets
+Toxic * 7, 22.6% of sets
+Ingrain * 7, 22.6% of sets
+Protect * 7, 22.6% of sets
+Phantom Force * 7, 22.6% of sets
+Horn Leech * 5, 16.1% of sets
+Shadow Claw * 5, 16.1% of sets
+Earthquake * 5, 16.1% of sets
+X-scissor * 5, 16.1% of sets
+
+
+Items:
+Iron Ball * 10, 32.3% of sets
+Wise Glasses * 9, 29% of sets
+Leftovers * 7, 22.6% of sets
+Choice Band * 5, 16.1% of sets

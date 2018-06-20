@@ -1,0 +1,25 @@
+Clawitzer, 34 sets
+Moves:
+Crabhammer * 10, 29.4% of sets
+Return * 10, 29.4% of sets
+U-turn * 10, 29.4% of sets
+Flail * 10, 29.4% of sets
+Water Pulse * 10, 29.4% of sets
+Dark Pulse * 10, 29.4% of sets
+Dragon Pulse * 10, 29.4% of sets
+Aura Sphere * 10, 29.4% of sets
+Heal Pulse * 9, 26.5% of sets
+Muddy Water * 9, 26.5% of sets
+Double Team * 9, 26.5% of sets
+Confide * 9, 26.5% of sets
+Flash Cannon * 5, 14.7% of sets
+Scald * 5, 14.7% of sets
+Sludge Wave * 5, 14.7% of sets
+Round * 5, 14.7% of sets
+
+
+Items:
+Focus Sash * 10, 29.4% of sets
+Choice Specs * 10, 29.4% of sets
+Bright Powder * 9, 26.5% of sets
+Petaya Berry * 5, 14.7% of sets

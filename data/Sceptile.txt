@@ -1,0 +1,21 @@
+Sceptile, 37 sets
+Moves:
+Leaf Storm * 19, 51.4% of sets
+Detect * 19, 51.4% of sets
+Leaf Blade * 18, 48.6% of sets
+Earthquake * 18, 48.6% of sets
+Focus Blast * 14, 37.8% of sets
+Energy Ball * 14, 37.8% of sets
+Dual Chop * 11, 29.7% of sets
+Rock Slide * 11, 29.7% of sets
+Night Slash * 7, 18.9% of sets
+Swords Dance * 7, 18.9% of sets
+Quick Attack * 5, 13.5% of sets
+Endeavor * 5, 13.5% of sets
+
+
+Items:
+White Herb * 14, 37.8% of sets
+Sceptilite * 11, 29.7% of sets
+Scope Lens * 7, 18.9% of sets
+Focus Sash * 5, 13.5% of sets

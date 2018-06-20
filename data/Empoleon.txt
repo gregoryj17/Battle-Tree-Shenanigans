@@ -1,0 +1,22 @@
+Empoleon, 25 sets
+Moves:
+Surf * 17, 68% of sets
+Substitute * 9, 36% of sets
+Blizzard * 9, 36% of sets
+Whirlpool * 9, 36% of sets
+Ice Beam * 8, 32% of sets
+Mist * 8, 32% of sets
+Icy Wind * 8, 32% of sets
+Aqua Jet * 8, 32% of sets
+Metal Claw * 8, 32% of sets
+Yawn * 5, 20% of sets
+Swords Dance * 5, 20% of sets
+Drill Peck * 3, 12% of sets
+Feather Dance * 3, 12% of sets
+
+
+Items:
+Petaya Berry * 9, 36% of sets
+Icium Z * 8, 32% of sets
+Sitrus Berry * 5, 20% of sets
+Muscle Band * 3, 12% of sets

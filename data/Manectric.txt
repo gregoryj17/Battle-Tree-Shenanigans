@@ -1,0 +1,22 @@
+Manectric, 33 sets
+Moves:
+Quick Attack * 22, 66.7% of sets
+Overheat * 22, 66.7% of sets
+Crunch * 11, 33.3% of sets
+Odor Sleuth * 11, 33.3% of sets
+Wild Charge * 11, 33.3% of sets
+Thunderbolt * 11, 33.3% of sets
+Snarl * 11, 33.3% of sets
+Switcheroo * 8, 24.2% of sets
+Thunder * 8, 24.2% of sets
+Volt Switch * 8, 24.2% of sets
+Flamethrower * 3, 9.1% of sets
+Discharge * 3, 9.1% of sets
+Charge * 3, 9.1% of sets
+
+
+Items:
+Life Orb * 11, 33.3% of sets
+Manectite * 11, 33.3% of sets
+Choice Scarf * 8, 24.2% of sets
+Air Balloon * 3, 9.1% of sets

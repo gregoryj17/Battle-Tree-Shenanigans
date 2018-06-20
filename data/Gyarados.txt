@@ -1,0 +1,20 @@
+Gyarados, 53 sets
+Moves:
+Dragon Dance * 45, 84.9% of sets
+Waterfall * 41, 77.4% of sets
+Ice Fang * 29, 54.7% of sets
+Earthquake * 17, 32.1% of sets
+Stone Edge * 16, 30.2% of sets
+Crunch * 16, 30.2% of sets
+Aqua Tail * 12, 22.6% of sets
+Thunder Wave * 12, 22.6% of sets
+Rest * 8, 15.1% of sets
+Bulldoze * 8, 15.1% of sets
+Giga Impact * 8, 15.1% of sets
+
+
+Items:
+Wacan Berry * 17, 32.1% of sets
+Gyaradosite * 16, 30.2% of sets
+Muscle Band * 12, 22.6% of sets
+Normalium Z * 8, 15.1% of sets

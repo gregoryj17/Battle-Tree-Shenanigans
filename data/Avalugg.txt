@@ -1,0 +1,24 @@
+Avalugg, 33 sets
+Moves:
+Avalanche * 20, 60.6% of sets
+Confide * 11, 33.3% of sets
+Protect * 11, 33.3% of sets
+Toxic * 11, 33.3% of sets
+Stone Edge * 9, 27.3% of sets
+Gyro Ball * 9, 27.3% of sets
+Earthquake * 9, 27.3% of sets
+Rest * 7, 21.2% of sets
+Curse * 7, 21.2% of sets
+Frost Breath * 7, 21.2% of sets
+Skull Bash * 7, 21.2% of sets
+Hail * 6, 18.2% of sets
+Blizzard * 6, 18.2% of sets
+Recover * 6, 18.2% of sets
+Flash Cannon * 6, 18.2% of sets
+
+
+Items:
+Leftovers * 11, 33.3% of sets
+Iron Ball * 9, 27.3% of sets
+Apicot Berry * 7, 21.2% of sets
+Icy Rock * 6, 18.2% of sets

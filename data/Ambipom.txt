@@ -1,0 +1,21 @@
+Ambipom, 39 sets
+Moves:
+Fling * 24, 61.5% of sets
+Fake Out * 23, 59% of sets
+Payback * 17, 43.6% of sets
+Thief * 15, 38.5% of sets
+U-turn * 15, 38.5% of sets
+Taunt * 9, 23.1% of sets
+Return * 9, 23.1% of sets
+Double Hit * 8, 20.5% of sets
+Brick Break * 8, 20.5% of sets
+Grass Knot * 7, 17.9% of sets
+Thunderbolt * 7, 17.9% of sets
+Nasty Plot * 7, 17.9% of sets
+Counter * 7, 17.9% of sets
+
+
+Items:
+Kings Rock * 24, 61.5% of sets
+Life Orb * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets

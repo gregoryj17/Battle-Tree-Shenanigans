@@ -1,0 +1,21 @@
+Kingdra, 43 sets
+Moves:
+Protect * 22, 51.2% of sets
+Dragon Pulse * 21, 48.8% of sets
+Ice Beam * 21, 48.8% of sets
+Rain Dance * 16, 37.2% of sets
+Hydro Pump * 16, 37.2% of sets
+Waterfall * 14, 32.6% of sets
+Draco Meteor * 13, 30.2% of sets
+Surf * 13, 30.2% of sets
+Blizzard * 13, 30.2% of sets
+Quash * 9, 20.9% of sets
+Outrage * 9, 20.9% of sets
+Dragon Dance * 5, 11.6% of sets
+
+
+Items:
+Maranga Berry * 16, 37.2% of sets
+Dragonium Z * 13, 30.2% of sets
+Persim Berry * 9, 20.9% of sets
+Haban Berry * 5, 11.6% of sets

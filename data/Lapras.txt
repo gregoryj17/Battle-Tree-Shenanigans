@@ -1,0 +1,21 @@
+Lapras, 42 sets
+Moves:
+Ice Shard * 26, 61.9% of sets
+Psychic * 25, 59.5% of sets
+Surf * 16, 38.1% of sets
+Ice Beam * 16, 38.1% of sets
+Rain Dance * 13, 31% of sets
+Thunder * 13, 31% of sets
+Confuse Ray * 13, 31% of sets
+Blizzard * 13, 31% of sets
+Hydro Pump * 13, 31% of sets
+Thunderbolt * 12, 28.6% of sets
+Rest * 4, 9.5% of sets
+Sleep Talk * 4, 9.5% of sets
+
+
+Items:
+Damp Rock * 13, 31% of sets
+Psychium Z * 13, 31% of sets
+Bright Powder * 12, 28.6% of sets
+Normalium Z * 4, 9.5% of sets

@@ -1,0 +1,23 @@
+Hawlucha, 32 sets
+Moves:
+Acrobatics * 20, 62.5% of sets
+High Jump Kick * 14, 43.8% of sets
+Feather Dance * 14, 43.8% of sets
+Taunt * 14, 43.8% of sets
+Flying Press * 13, 40.6% of sets
+Sky Attack * 7, 21.9% of sets
+U-turn * 7, 21.9% of sets
+Stone Edge * 7, 21.9% of sets
+Swords Dance * 6, 18.8% of sets
+Steel Wing * 6, 18.8% of sets
+Toxic * 5, 15.6% of sets
+Bounce * 5, 15.6% of sets
+Roost * 5, 15.6% of sets
+Protect * 5, 15.6% of sets
+
+
+Items:
+Salac Berry * 14, 43.8% of sets
+Power Herb * 7, 21.9% of sets
+Liechi Berry * 6, 18.8% of sets
+Leftovers * 5, 15.6% of sets

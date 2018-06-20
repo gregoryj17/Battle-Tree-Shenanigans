@@ -1,0 +1,25 @@
+Greninja, 47 sets
+Moves:
+Water Shuriken * 16, 34% of sets
+Rock Slide * 16, 34% of sets
+Grass Knot * 16, 34% of sets
+U-turn * 16, 34% of sets
+Hydro Pump * 14, 29.8% of sets
+Dark Pulse * 14, 29.8% of sets
+Blizzard * 14, 29.8% of sets
+Extrasensory * 14, 29.8% of sets
+Rain Dance * 9, 19.1% of sets
+Surf * 9, 19.1% of sets
+Round * 9, 19.1% of sets
+Ice Beam * 9, 19.1% of sets
+Mat Block * 8, 17% of sets
+Spikes * 8, 17% of sets
+Scald * 8, 17% of sets
+Toxic * 8, 17% of sets
+
+
+Items:
+Kings Rock * 16, 34% of sets
+Wide Lens * 14, 29.8% of sets
+Damp Rock * 9, 19.1% of sets
+Leftovers * 8, 17% of sets

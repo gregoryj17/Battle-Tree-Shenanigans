@@ -1,0 +1,22 @@
+Bastiodon, 43 sets
+Moves:
+Wide Guard * 25, 58.1% of sets
+Metal Burst * 25, 58.1% of sets
+Iron Defense * 18, 41.9% of sets
+Rock Slide * 15, 34.9% of sets
+Curse * 15, 34.9% of sets
+Stone Edge * 12, 27.9% of sets
+Fissure * 12, 27.9% of sets
+Double Team * 12, 27.9% of sets
+Iron Head * 10, 23.3% of sets
+Taunt * 10, 23.3% of sets
+Round * 6, 14% of sets
+Rest * 6, 14% of sets
+Ancient Power * 6, 14% of sets
+
+
+Items:
+Sitrus Berry * 15, 34.9% of sets
+Leftovers * 12, 27.9% of sets
+Enigma Berry * 10, 23.3% of sets
+Chesto Berry * 6, 14% of sets

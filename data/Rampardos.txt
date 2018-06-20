@@ -1,0 +1,19 @@
+Rampardos, 34 sets
+Moves:
+Rock Slide * 22, 64.7% of sets
+Protect * 22, 64.7% of sets
+Head Smash * 21, 61.8% of sets
+Earthquake * 17, 50% of sets
+Crunch * 13, 38.2% of sets
+Curse * 13, 38.2% of sets
+Brick Break * 8, 23.5% of sets
+Iron Head * 8, 23.5% of sets
+Stone Edge * 4, 11.8% of sets
+Hammer Arm * 4, 11.8% of sets
+Scary Face * 4, 11.8% of sets
+
+
+Items:
+Sitrus Berry * 13, 38.2% of sets
+Passho Berry * 13, 38.2% of sets
+Choice Scarf * 8, 23.5% of sets

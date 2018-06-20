@@ -1,0 +1,19 @@
+Snorlax, 51 sets
+Moves:
+Crunch * 39, 76.5% of sets
+Earthquake * 34, 66.7% of sets
+Protect * 22, 43.1% of sets
+Double-edge * 17, 33.3% of sets
+Body Slam * 17, 33.3% of sets
+Fissure * 17, 33.3% of sets
+Return * 17, 33.3% of sets
+Wild Charge * 12, 23.5% of sets
+Counter * 12, 23.5% of sets
+Recycle * 12, 23.5% of sets
+Belly Drum * 5, 9.8% of sets
+
+
+Items:
+Life Orb * 17, 33.3% of sets
+Assault Vest * 17, 33.3% of sets
+Sitrus Berry * 17, 33.3% of sets

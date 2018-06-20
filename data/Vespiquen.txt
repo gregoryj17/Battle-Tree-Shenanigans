@@ -1,0 +1,21 @@
+Vespiquen, 29 sets
+Moves:
+Attack Order * 20, 69% of sets
+Defend Order * 17, 58.6% of sets
+Confuse Ray * 13, 44.8% of sets
+Toxic * 9, 31% of sets
+Protect * 9, 31% of sets
+Heal Order * 9, 31% of sets
+Roost * 8, 27.6% of sets
+U-turn * 7, 24.1% of sets
+Aerial Ace * 7, 24.1% of sets
+Destiny Bond * 7, 24.1% of sets
+Power Gem * 5, 17.2% of sets
+Captivate * 5, 17.2% of sets
+
+
+Items:
+Quick Claw * 9, 31% of sets
+Sitrus Berry * 8, 27.6% of sets
+Custap Berry * 7, 24.1% of sets
+Normalium Z * 5, 17.2% of sets

@@ -1,0 +1,18 @@
+Magnezone, 42 sets
+Moves:
+Flash Cannon * 42, 100% of sets
+Thunderbolt * 25, 59.5% of sets
+Magnet Rise * 22, 52.4% of sets
+Charge Beam * 17, 40.5% of sets
+Thunder Wave * 17, 40.5% of sets
+Tri Attack * 17, 40.5% of sets
+Volt Switch * 17, 40.5% of sets
+Metal Sound * 8, 19% of sets
+Mirror Coat * 3, 7.1% of sets
+
+
+Items:
+Assault Vest * 17, 40.5% of sets
+Bright Powder * 14, 33.3% of sets
+Steelium Z * 8, 19% of sets
+Shuca Berry * 3, 7.1% of sets

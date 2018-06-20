@@ -1,0 +1,25 @@
+Kommo-o, 30 sets
+Moves:
+Clanging Scales * 8, 26.7% of sets
+Focus Blast * 8, 26.7% of sets
+Autotomize * 8, 26.7% of sets
+Flash Cannon * 8, 26.7% of sets
+Draco Meteor * 8, 26.7% of sets
+Outrage * 8, 26.7% of sets
+Sky Uppercut * 8, 26.7% of sets
+Poison Jab * 8, 26.7% of sets
+Counter * 7, 23.3% of sets
+Reversal * 7, 23.3% of sets
+Dragon Tail * 7, 23.3% of sets
+Taunt * 7, 23.3% of sets
+Dragon Dance * 7, 23.3% of sets
+Dragon Claw * 7, 23.3% of sets
+Brick Break * 7, 23.3% of sets
+Rock Slide * 7, 23.3% of sets
+
+
+Items:
+Sitrus Berry * 8, 26.7% of sets
+White Herb * 8, 26.7% of sets
+Focus Sash * 7, 23.3% of sets
+Cheri Berry * 7, 23.3% of sets

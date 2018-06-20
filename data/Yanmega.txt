@@ -1,0 +1,18 @@
+Yanmega, 23 sets
+Moves:
+Bug Buzz * 20, 87% of sets
+Air Slash * 16, 69.6% of sets
+Detect * 16, 69.6% of sets
+U-turn * 9, 39.1% of sets
+Shadow Ball * 7, 30.4% of sets
+Psychic * 7, 30.4% of sets
+Swagger * 7, 30.4% of sets
+Substitute * 7, 30.4% of sets
+Silver Wind * 3, 13% of sets
+
+
+Items:
+Cheri Berry * 9, 39.1% of sets
+Sitrus Berry * 7, 30.4% of sets
+Kings Rock * 4, 17.4% of sets
+Buginium Z * 3, 13% of sets

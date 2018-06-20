@@ -1,0 +1,22 @@
+Gourgeist, 26 sets
+Moves:
+Seed Bomb * 14, 53.8% of sets
+Trick-or-treat * 13, 50% of sets
+Phantom Force * 13, 50% of sets
+Trick Room * 9, 34.6% of sets
+Gyro Ball * 9, 34.6% of sets
+Explosion * 9, 34.6% of sets
+Will-o-wisp * 8, 30.8% of sets
+Pain Split * 8, 30.8% of sets
+Rock Slide * 5, 19.2% of sets
+Shadow Ball * 4, 15.4% of sets
+Sludge Bomb * 4, 15.4% of sets
+Energy Ball * 4, 15.4% of sets
+Flamethrower * 4, 15.4% of sets
+
+
+Items:
+Iron Ball * 9, 34.6% of sets
+Sitrus Berry * 8, 30.8% of sets
+Life Orb * 5, 19.2% of sets
+Wise Glasses * 4, 15.4% of sets

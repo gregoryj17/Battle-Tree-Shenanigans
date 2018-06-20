@@ -1,0 +1,23 @@
+Thundurus, 28 sets
+Moves:
+Thunderbolt * 14, 50% of sets
+Focus Blast * 14, 50% of sets
+Protect * 7, 25% of sets
+Toxic * 7, 25% of sets
+Rest * 7, 25% of sets
+Dark Pulse * 7, 25% of sets
+Grass Knot * 7, 25% of sets
+Wild Charge * 7, 25% of sets
+U-turn * 7, 25% of sets
+Crunch * 7, 25% of sets
+Sky Drop * 7, 25% of sets
+Discharge * 7, 25% of sets
+Volt Switch * 7, 25% of sets
+Taunt * 7, 25% of sets
+
+
+Items:
+Chesto Berry * 7, 25% of sets
+Choice Specs * 7, 25% of sets
+Sitrus Berry * 7, 25% of sets
+Electrium Z * 7, 25% of sets

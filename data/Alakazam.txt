@@ -1,0 +1,21 @@
+Alakazam, 53 sets
+Moves:
+Psychic * 53, 100% of sets
+Focus Blast * 31, 58.5% of sets
+Shadow Ball * 16, 30.2% of sets
+Grass Knot * 16, 30.2% of sets
+Energy Ball * 16, 30.2% of sets
+Telekinesis * 16, 30.2% of sets
+Guard Split * 16, 30.2% of sets
+Dazzling Gleam * 15, 28.3% of sets
+Trick * 15, 28.3% of sets
+Psych Up * 6, 11.3% of sets
+Encore * 6, 11.3% of sets
+Protect * 6, 11.3% of sets
+
+
+Items:
+Alakazite * 16, 30.2% of sets
+Twisted Spoon * 16, 30.2% of sets
+Choice Specs * 15, 28.3% of sets
+Focus Sash * 6, 11.3% of sets

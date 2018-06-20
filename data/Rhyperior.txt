@@ -1,0 +1,22 @@
+Rhyperior, 54 sets
+Moves:
+Payback * 31, 57.4% of sets
+Protect * 30, 55.6% of sets
+Horn Drill * 18, 33.3% of sets
+Reversal * 18, 33.3% of sets
+Metal Burst * 18, 33.3% of sets
+Rock Slide * 17, 31.5% of sets
+Hammer Arm * 17, 31.5% of sets
+Earthquake * 17, 31.5% of sets
+Rock Blast * 13, 24.1% of sets
+Stone Edge * 13, 24.1% of sets
+Rock Wrecker * 6, 11.1% of sets
+Rock Polish * 6, 11.1% of sets
+None * 2, 3.7% of sets
+
+
+Items:
+Focus Sash * 18, 33.3% of sets
+Rockium Z * 17, 31.5% of sets
+Zoom Lens * 13, 24.1% of sets
+Hard Stone * 6, 11.1% of sets

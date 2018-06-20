@@ -1,0 +1,22 @@
+Liepard, 39 sets
+Moves:
+Shadow Ball * 23, 59% of sets
+Foul Play * 16, 41% of sets
+Sand Attack * 16, 41% of sets
+Snarl * 16, 41% of sets
+Snatch * 16, 41% of sets
+Fake Out * 16, 41% of sets
+Sucker Punch * 8, 20.5% of sets
+Thunder Wave * 8, 20.5% of sets
+Swagger * 8, 20.5% of sets
+Play Rough * 8, 20.5% of sets
+Dark Pulse * 7, 17.9% of sets
+Grass Knot * 7, 17.9% of sets
+Nasty Plot * 7, 17.9% of sets
+
+
+Items:
+Roseli Berry * 16, 41% of sets
+Red Card * 8, 20.5% of sets
+Groundium Z * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets

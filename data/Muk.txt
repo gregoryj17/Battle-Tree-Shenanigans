@@ -1,0 +1,24 @@
+Muk, 34 sets
+Moves:
+Shadow Sneak * 17, 50% of sets
+Poison Jab * 12, 35.3% of sets
+Stockpile * 12, 35.3% of sets
+Swallow * 12, 35.3% of sets
+Mud-slap * 12, 35.3% of sets
+Gunk Shot * 9, 26.5% of sets
+Brick Break * 9, 26.5% of sets
+Explosion * 9, 26.5% of sets
+Crunch * 8, 23.5% of sets
+Belch * 8, 23.5% of sets
+Stone Edge * 8, 23.5% of sets
+Minimize * 5, 14.7% of sets
+Acid Spray * 5, 14.7% of sets
+Rest * 5, 14.7% of sets
+Snarl * 5, 14.7% of sets
+
+
+Items:
+Black Sludge * 12, 35.3% of sets
+Quick Claw * 9, 26.5% of sets
+Liechi Berry * 8, 23.5% of sets
+Air Balloon * 5, 14.7% of sets

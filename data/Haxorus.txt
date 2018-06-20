@@ -1,0 +1,19 @@
+Haxorus, 37 sets
+Moves:
+Earthquake * 34, 91.9% of sets
+Dragon Claw * 21, 56.8% of sets
+Outrage * 14, 37.8% of sets
+Rock Slide * 14, 37.8% of sets
+Dragon Dance * 13, 35.1% of sets
+Dual Chop * 13, 35.1% of sets
+Roar * 13, 35.1% of sets
+Taunt * 13, 35.1% of sets
+Dragon Tail * 10, 27% of sets
+Counter * 3, 8.1% of sets
+
+
+Items:
+Haban Berry * 13, 35.1% of sets
+Dragonium Z * 11, 29.7% of sets
+Yache Berry * 10, 27% of sets
+Persim Berry * 3, 8.1% of sets

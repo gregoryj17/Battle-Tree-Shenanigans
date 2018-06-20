@@ -1,0 +1,19 @@
+Ferrothorn, 40 sets
+Moves:
+Ingrain * 25, 62.5% of sets
+Gyro Ball * 24, 60% of sets
+Iron Head * 16, 40% of sets
+Thunder Wave * 16, 40% of sets
+Sandstorm * 16, 40% of sets
+Curse * 16, 40% of sets
+Payback * 15, 37.5% of sets
+Seed Bomb * 9, 22.5% of sets
+Protect * 8, 20% of sets
+Explosion * 8, 20% of sets
+Rest * 7, 17.5% of sets
+
+
+Items:
+Leftovers * 25, 62.5% of sets
+Custap Berry * 8, 20% of sets
+Chesto Berry * 7, 17.5% of sets

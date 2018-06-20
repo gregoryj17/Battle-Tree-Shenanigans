@@ -1,0 +1,21 @@
+Oranguru, 29 sets
+Moves:
+Psychic * 21, 72.4% of sets
+Shadow Ball * 17, 58.6% of sets
+Focus Blast * 14, 48.3% of sets
+Trick Room * 10, 34.5% of sets
+Psychic Terrain * 8, 27.6% of sets
+Psyshock * 8, 27.6% of sets
+Future Sight * 8, 27.6% of sets
+Instruct * 8, 27.6% of sets
+Energy Ball * 7, 24.1% of sets
+Nasty Plot * 7, 24.1% of sets
+Foul Play * 4, 13.8% of sets
+Thunder * 4, 13.8% of sets
+
+
+Items:
+Mental Herb * 10, 34.5% of sets
+Psychic Seed * 8, 27.6% of sets
+Psychium Z * 7, 24.1% of sets
+Electrium Z * 4, 13.8% of sets

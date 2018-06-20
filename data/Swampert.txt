@@ -1,0 +1,18 @@
+Swampert, 32 sets
+Moves:
+Earthquake * 29, 90.6% of sets
+Waterfall * 26, 81.2% of sets
+Rock Slide * 14, 43.8% of sets
+Rain Dance * 14, 43.8% of sets
+Curse * 12, 37.5% of sets
+Rest * 12, 37.5% of sets
+Mirror Coat * 6, 18.8% of sets
+Counter * 6, 18.8% of sets
+Roar * 6, 18.8% of sets
+Hammer Arm * 3, 9.4% of sets
+
+
+Items:
+Swampertite * 14, 43.8% of sets
+Chesto Berry * 12, 37.5% of sets
+Jaboca Berry * 6, 18.8% of sets

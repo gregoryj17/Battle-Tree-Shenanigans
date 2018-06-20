@@ -1,0 +1,20 @@
+Toucannon, 23 sets
+Moves:
+Beak Blast * 10, 43.5% of sets
+Roost * 10, 43.5% of sets
+Rock Blast * 10, 43.5% of sets
+Bullet Seed * 10, 43.5% of sets
+Tailwind * 10, 43.5% of sets
+Swords Dance * 8, 34.8% of sets
+Drill Peck * 8, 34.8% of sets
+Steel Wing * 8, 34.8% of sets
+Smack Down * 8, 34.8% of sets
+Overheat * 5, 21.7% of sets
+Brave Bird * 5, 21.7% of sets
+
+
+Items:
+Steelium Z * 8, 34.8% of sets
+Sitrus Berry * 5, 21.7% of sets
+Rocky Helmet * 5, 21.7% of sets
+Kings Rock * 5, 21.7% of sets

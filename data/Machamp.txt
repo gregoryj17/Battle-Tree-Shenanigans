@@ -1,0 +1,21 @@
+Machamp, 36 sets
+Moves:
+Payback * 21, 58.3% of sets
+Dynamic Punch * 20, 55.6% of sets
+Earthquake * 19, 52.8% of sets
+Ice Punch * 15, 41.7% of sets
+Foresight * 11, 30.6% of sets
+Wide Guard * 11, 30.6% of sets
+Protect * 10, 27.8% of sets
+Close Combat * 10, 27.8% of sets
+Rock Slide * 9, 25% of sets
+Cross Chop * 6, 16.7% of sets
+Fire Punch * 6, 16.7% of sets
+Focus Energy * 6, 16.7% of sets
+
+
+Items:
+Rawst Berry * 11, 30.6% of sets
+Flame Orb * 10, 27.8% of sets
+Choice Scarf * 9, 25% of sets
+Expert Belt * 6, 16.7% of sets

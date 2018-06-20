@@ -1,0 +1,19 @@
+Suicune, 30 sets
+Moves:
+Surf * 22, 73.3% of sets
+Ice Beam * 16, 53.3% of sets
+Calm Mind * 15, 50% of sets
+Blizzard * 14, 46.7% of sets
+Protect * 14, 46.7% of sets
+Rest * 8, 26.7% of sets
+Hydro Pump * 8, 26.7% of sets
+Shadow Ball * 8, 26.7% of sets
+Mirror Coat * 8, 26.7% of sets
+Snarl * 7, 23.3% of sets
+
+
+Items:
+Chesto Berry * 8, 26.7% of sets
+Sitrus Berry * 8, 26.7% of sets
+Leftovers * 7, 23.3% of sets
+Lum Berry * 7, 23.3% of sets

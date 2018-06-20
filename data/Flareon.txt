@@ -1,0 +1,21 @@
+Flareon, 37 sets
+Moves:
+Flare Blitz * 19, 51.4% of sets
+Will-o-wisp * 19, 51.4% of sets
+Quick Attack * 18, 48.6% of sets
+Return * 10, 27% of sets
+Overheat * 10, 27% of sets
+Bite * 9, 24.3% of sets
+Giga Impact * 9, 24.3% of sets
+Flail * 9, 24.3% of sets
+Work Up * 9, 24.3% of sets
+Fire Blast * 9, 24.3% of sets
+Charm * 9, 24.3% of sets
+Flame Charge * 9, 24.3% of sets
+Protect * 9, 24.3% of sets
+
+
+Items:
+Firium Z * 19, 51.4% of sets
+Focus Sash * 9, 24.3% of sets
+Charcoal * 9, 24.3% of sets

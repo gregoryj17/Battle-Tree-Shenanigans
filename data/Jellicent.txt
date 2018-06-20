@@ -1,0 +1,21 @@
+Jellicent, 39 sets
+Moves:
+Recover * 21, 53.8% of sets
+Will-o-wisp * 18, 46.2% of sets
+Rain Dance * 18, 46.2% of sets
+Hydro Pump * 18, 46.2% of sets
+Ice Beam * 18, 46.2% of sets
+Confuse Ray * 18, 46.2% of sets
+Water Spout * 13, 33.3% of sets
+Trick Room * 13, 33.3% of sets
+Scald * 8, 20.5% of sets
+Hex * 5, 12.8% of sets
+Acid Armor * 3, 7.7% of sets
+Ominous Wind * 3, 7.7% of sets
+
+
+Items:
+Damp Rock * 18, 46.2% of sets
+Mental Herb * 13, 33.3% of sets
+Sitrus Berry * 5, 12.8% of sets
+Bright Powder * 3, 7.7% of sets

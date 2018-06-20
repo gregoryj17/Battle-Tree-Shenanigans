@@ -1,0 +1,22 @@
+Darmanitan, 34 sets
+Moves:
+Psychic * 25, 73.5% of sets
+Flare Blitz * 19, 55.9% of sets
+Earthquake * 10, 29.4% of sets
+Overheat * 10, 29.4% of sets
+Stone Edge * 9, 26.5% of sets
+U-turn * 9, 26.5% of sets
+Superpower * 9, 26.5% of sets
+Fire Punch * 9, 26.5% of sets
+Protect * 9, 26.5% of sets
+Will-o-wisp * 9, 26.5% of sets
+Flamethrower * 6, 17.6% of sets
+Round * 6, 17.6% of sets
+Confide * 6, 17.6% of sets
+
+
+Items:
+Assault Vest * 10, 29.4% of sets
+Choice Scarf * 9, 26.5% of sets
+Firium Z * 9, 26.5% of sets
+Luminous Moss * 6, 17.6% of sets

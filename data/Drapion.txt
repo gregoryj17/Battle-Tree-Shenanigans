@@ -1,0 +1,19 @@
+Drapion, 29 sets
+Moves:
+Night Slash * 26, 89.7% of sets
+Cross Poison * 20, 69% of sets
+Earthquake * 17, 58.6% of sets
+Swords Dance * 9, 31% of sets
+Taunt * 9, 31% of sets
+Toxic Spikes * 9, 31% of sets
+X-scissor * 9, 31% of sets
+Fire Fang * 8, 27.6% of sets
+Crunch * 3, 10.3% of sets
+Scary Face * 3, 10.3% of sets
+Screech * 3, 10.3% of sets
+
+
+Items:
+Scope Lens * 17, 58.6% of sets
+Razor Claw * 9, 31% of sets
+Shuca Berry * 3, 10.3% of sets

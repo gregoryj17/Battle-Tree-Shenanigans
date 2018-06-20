@@ -1,0 +1,23 @@
+Houndoom, 36 sets
+Moves:
+Flame Charge * 19, 52.8% of sets
+Will-o-wisp * 18, 50% of sets
+Fire Fang * 11, 30.6% of sets
+Sucker Punch * 11, 30.6% of sets
+Fire Blast * 10, 27.8% of sets
+Dark Pulse * 10, 27.8% of sets
+Solar Beam * 10, 27.8% of sets
+Sunny Day * 10, 27.8% of sets
+Counter * 8, 22.2% of sets
+Roar * 8, 22.2% of sets
+Protect * 8, 22.2% of sets
+Flamethrower * 7, 19.4% of sets
+Shadow Ball * 7, 19.4% of sets
+Sludge Bomb * 7, 19.4% of sets
+
+
+Items:
+Charcoal * 11, 30.6% of sets
+Houndoominite * 10, 27.8% of sets
+Focus Sash * 8, 22.2% of sets
+Air Balloon * 7, 19.4% of sets

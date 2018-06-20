@@ -1,0 +1,23 @@
+Ampharos, 31 sets
+Moves:
+Thunder Wave * 17, 54.8% of sets
+Charge Beam * 17, 54.8% of sets
+Hyper Beam * 10, 32.3% of sets
+Rest * 10, 32.3% of sets
+Thunder * 9, 29% of sets
+Focus Blast * 9, 29% of sets
+Dragon Pulse * 9, 29% of sets
+Confuse Ray * 9, 29% of sets
+Power Gem * 7, 22.6% of sets
+Discharge * 7, 22.6% of sets
+Brick Break * 5, 16.1% of sets
+Thunder Punch * 5, 16.1% of sets
+Screech * 5, 16.1% of sets
+Odor Sleuth * 5, 16.1% of sets
+
+
+Items:
+Chesto Berry * 10, 32.3% of sets
+Ampharosite * 9, 29% of sets
+Shuca Berry * 7, 22.6% of sets
+Lum Berry * 5, 16.1% of sets

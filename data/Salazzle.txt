@@ -1,0 +1,22 @@
+Salazzle, 45 sets
+Moves:
+Nasty Plot * 29, 64.4% of sets
+Fake Out * 25, 55.6% of sets
+Venoshock * 17, 37.8% of sets
+Flamethrower * 17, 37.8% of sets
+Toxic * 17, 37.8% of sets
+Sludge Bomb * 15, 33.3% of sets
+Overheat * 13, 28.9% of sets
+Sludge Wave * 13, 28.9% of sets
+Dragon Pulse * 13, 28.9% of sets
+Fire Blast * 12, 26.7% of sets
+Disable * 3, 6.7% of sets
+Protect * 3, 6.7% of sets
+Encore * 3, 6.7% of sets
+
+
+Items:
+Poisonium Z * 17, 37.8% of sets
+Firium Z * 13, 28.9% of sets
+Focus Sash * 12, 26.7% of sets
+Bright Powder * 3, 6.7% of sets

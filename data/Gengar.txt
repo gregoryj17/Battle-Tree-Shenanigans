@@ -1,0 +1,23 @@
+Gengar, 39 sets
+Moves:
+Shadow Ball * 36, 92.3% of sets
+Dream Eater * 15, 38.5% of sets
+Nightmare * 15, 38.5% of sets
+Hypnosis * 15, 38.5% of sets
+Sludge Bomb * 11, 28.2% of sets
+Thunderbolt * 11, 28.2% of sets
+Destiny Bond * 11, 28.2% of sets
+Energy Ball * 10, 25.6% of sets
+Dazzling Gleam * 10, 25.6% of sets
+Round * 10, 25.6% of sets
+Sucker Punch * 3, 7.7% of sets
+Fire Punch * 3, 7.7% of sets
+Ice Punch * 3, 7.7% of sets
+Will-o-wisp * 3, 7.7% of sets
+
+
+Items:
+Focus Sash * 15, 38.5% of sets
+Gengarite * 11, 28.2% of sets
+Payapa Berry * 10, 25.6% of sets
+Expert Belt * 3, 7.7% of sets

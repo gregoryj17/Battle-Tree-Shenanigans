@@ -1,0 +1,23 @@
+Nidoqueen, 36 sets
+Moves:
+Earth Power * 16, 44.4% of sets
+Sludge Bomb * 11, 30.6% of sets
+Flamethrower * 11, 30.6% of sets
+Ice Beam * 11, 30.6% of sets
+Chip Away * 10, 27.8% of sets
+Swagger * 10, 27.8% of sets
+Helping Hand * 10, 27.8% of sets
+Flatter * 10, 27.8% of sets
+Poison Jab * 10, 27.8% of sets
+Dragon Tail * 10, 27.8% of sets
+Bulldoze * 10, 27.8% of sets
+Earthquake * 10, 27.8% of sets
+Thunderbolt * 5, 13.9% of sets
+Hyper Beam * 5, 13.9% of sets
+Counter * 5, 13.9% of sets
+
+
+Items:
+Black Sludge * 21, 58.3% of sets
+Payapa Berry * 10, 27.8% of sets
+Absorb Bulb * 5, 13.9% of sets

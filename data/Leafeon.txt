@@ -1,0 +1,20 @@
+Leafeon, 38 sets
+Moves:
+Leaf Blade * 38, 100% of sets
+X-scissor * 29, 76.3% of sets
+Sunny Day * 15, 39.5% of sets
+Synthesis * 15, 39.5% of sets
+Giga Impact * 9, 23.7% of sets
+Substitute * 9, 23.7% of sets
+Yawn * 9, 23.7% of sets
+Aerial Ace * 8, 21.1% of sets
+Detect * 8, 21.1% of sets
+Swords Dance * 6, 15.8% of sets
+Grass Whistle * 6, 15.8% of sets
+
+
+Items:
+Heat Rock * 15, 39.5% of sets
+Liechi Berry * 9, 23.7% of sets
+Quick Claw * 8, 21.1% of sets
+Scope Lens * 6, 15.8% of sets

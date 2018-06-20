@@ -1,0 +1,20 @@
+Drifblim, 28 sets
+Moves:
+Calm Mind * 15, 53.6% of sets
+Stockpile * 15, 53.6% of sets
+Ominous Wind * 15, 53.6% of sets
+Baton Pass * 15, 53.6% of sets
+Thunderbolt * 13, 46.4% of sets
+Shadow Ball * 10, 35.7% of sets
+Destiny Bond * 10, 35.7% of sets
+Hypnosis * 9, 32.1% of sets
+Tailwind * 4, 14.3% of sets
+Hex * 3, 10.7% of sets
+Dream Eater * 3, 10.7% of sets
+
+
+Items:
+Salac Berry * 15, 53.6% of sets
+Custap Berry * 6, 21.4% of sets
+Ghostium Z * 4, 14.3% of sets
+Wide Lens * 3, 10.7% of sets

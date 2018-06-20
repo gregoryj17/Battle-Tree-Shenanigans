@@ -1,0 +1,23 @@
+Shuckle, 34 sets
+Moves:
+Power Trick * 14, 41.2% of sets
+Toxic * 12, 35.3% of sets
+Protect * 12, 35.3% of sets
+Sandstorm * 12, 35.3% of sets
+Wrap * 12, 35.3% of sets
+Encore * 11, 32.4% of sets
+Gyro Ball * 11, 32.4% of sets
+Double Team * 11, 32.4% of sets
+Substitute * 11, 32.4% of sets
+Power Split * 8, 23.5% of sets
+Gastro Acid * 8, 23.5% of sets
+Sand Tomb * 8, 23.5% of sets
+Rock Slide * 3, 8.8% of sets
+Bug Bite * 3, 8.8% of sets
+
+
+Items:
+Leftovers * 12, 35.3% of sets
+Lax Incense * 11, 32.4% of sets
+Binding Band * 8, 23.5% of sets
+Quick Claw * 3, 8.8% of sets

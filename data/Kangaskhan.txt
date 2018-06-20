@@ -1,0 +1,19 @@
+Kangaskhan, 31 sets
+Moves:
+Fake Out * 27, 87.1% of sets
+Sucker Punch * 21, 67.7% of sets
+Rock Slide * 12, 38.7% of sets
+Dizzy Punch * 10, 32.3% of sets
+Chip Away * 10, 32.3% of sets
+Roar * 10, 32.3% of sets
+Double-edge * 9, 29% of sets
+Earthquake * 9, 29% of sets
+Facade * 8, 25.8% of sets
+Endure * 4, 12.9% of sets
+Reversal * 4, 12.9% of sets
+
+
+Items:
+Kangaskhanite * 17, 54.8% of sets
+Normalium Z * 10, 32.3% of sets
+Salac Berry * 4, 12.9% of sets

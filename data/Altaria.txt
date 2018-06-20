@@ -1,0 +1,23 @@
+Altaria, 26 sets
+Moves:
+Cotton Guard * 18, 69.2% of sets
+Flamethrower * 12, 46.2% of sets
+Dragon Pulse * 12, 46.2% of sets
+Roost * 12, 46.2% of sets
+Dragon Dance * 8, 30.8% of sets
+Sing * 6, 23.1% of sets
+Moonblast * 6, 23.1% of sets
+Dream Eater * 6, 23.1% of sets
+Dragon Rush * 5, 19.2% of sets
+Giga Impact * 5, 19.2% of sets
+Earthquake * 5, 19.2% of sets
+Dragon Claw * 3, 11.5% of sets
+Pluck * 3, 11.5% of sets
+Steel Wing * 3, 11.5% of sets
+
+
+Items:
+Sitrus Berry * 12, 46.2% of sets
+Wide Lens * 6, 23.1% of sets
+Altarianite * 5, 19.2% of sets
+Snowball * 3, 11.5% of sets

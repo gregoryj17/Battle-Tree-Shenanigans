@@ -1,0 +1,23 @@
+Shiftry, 42 sets
+Moves:
+Solar Beam * 20, 47.6% of sets
+Fake Out * 15, 35.7% of sets
+Sunny Day * 14, 33.3% of sets
+Dark Pulse * 14, 33.3% of sets
+Explosion * 14, 33.3% of sets
+Fling * 13, 31% of sets
+Razor Leaf * 13, 31% of sets
+Brick Break * 13, 31% of sets
+Swords Dance * 13, 31% of sets
+X-scissor * 9, 21.4% of sets
+Leaf Blade * 9, 21.4% of sets
+Protect * 9, 21.4% of sets
+Extrasensory * 6, 14.3% of sets
+Swagger * 6, 14.3% of sets
+
+
+Items:
+Heat Rock * 14, 33.3% of sets
+Iron Ball * 13, 31% of sets
+Focus Sash * 9, 21.4% of sets
+Miracle Seed * 6, 14.3% of sets

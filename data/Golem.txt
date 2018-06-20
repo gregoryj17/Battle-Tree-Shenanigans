@@ -1,0 +1,20 @@
+Golem, 32 sets
+Moves:
+Earthquake * 25, 78.1% of sets
+Rock Slide * 19, 59.4% of sets
+Explosion * 19, 59.4% of sets
+Autotomize * 16, 50% of sets
+Rock Polish * 9, 28.1% of sets
+Wild Charge * 7, 21.9% of sets
+Smack Down * 7, 21.9% of sets
+Bulldoze * 7, 21.9% of sets
+Counter * 7, 21.9% of sets
+Stone Edge * 6, 18.8% of sets
+Sandstorm * 6, 18.8% of sets
+
+
+Items:
+Focus Sash * 10, 31.2% of sets
+Air Balloon * 9, 28.1% of sets
+Quick Claw * 7, 21.9% of sets
+Absorb Bulb * 6, 18.8% of sets

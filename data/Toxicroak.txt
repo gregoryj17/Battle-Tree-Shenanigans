@@ -1,0 +1,21 @@
+Toxicroak, 40 sets
+Moves:
+Sucker Punch * 22, 55% of sets
+Taunt * 22, 55% of sets
+Sludge Bomb * 18, 45% of sets
+Focus Blast * 18, 45% of sets
+Fake Out * 12, 30% of sets
+Brick Break * 12, 30% of sets
+Shadow Ball * 11, 27.5% of sets
+Dark Pulse * 11, 27.5% of sets
+Cross Chop * 10, 25% of sets
+Poison Jab * 10, 25% of sets
+Substitute * 7, 17.5% of sets
+Protect * 7, 17.5% of sets
+
+
+Items:
+Payapa Berry * 12, 30% of sets
+Focus Sash * 11, 27.5% of sets
+Wide Lens * 10, 25% of sets
+Petaya Berry * 7, 17.5% of sets

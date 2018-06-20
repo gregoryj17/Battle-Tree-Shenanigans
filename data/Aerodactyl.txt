@@ -1,0 +1,19 @@
+Aerodactyl, 41 sets
+Moves:
+Sky Drop * 19, 46.3% of sets
+Rock Slide * 18, 43.9% of sets
+Crunch * 18, 43.9% of sets
+Iron Head * 12, 29.3% of sets
+Fire Fang * 12, 29.3% of sets
+Thunder Fang * 12, 29.3% of sets
+Stone Edge * 11, 26.8% of sets
+Aerial Ace * 11, 26.8% of sets
+Earthquake * 11, 26.8% of sets
+Roost * 7, 17.1% of sets
+
+
+Items:
+Aerodactylite * 12, 29.3% of sets
+Choice Scarf * 11, 26.8% of sets
+Choice Band * 11, 26.8% of sets
+Passho Berry * 7, 17.1% of sets

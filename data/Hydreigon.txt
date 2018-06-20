@@ -1,0 +1,22 @@
+Hydreigon, 41 sets
+Moves:
+Earth Power * 24, 58.5% of sets
+Dragon Tail * 23, 56.1% of sets
+Dragon Rush * 17, 41.5% of sets
+Draco Meteor * 14, 34.1% of sets
+Taunt * 14, 34.1% of sets
+Flamethrower * 14, 34.1% of sets
+Earthquake * 13, 31.7% of sets
+Crunch * 13, 31.7% of sets
+Dragon Pulse * 10, 24.4% of sets
+Surf * 10, 24.4% of sets
+Focus Blast * 4, 9.8% of sets
+Fire Blast * 4, 9.8% of sets
+Work Up * 4, 9.8% of sets
+
+
+Items:
+Dragonium Z * 14, 34.1% of sets
+Roseli Berry * 13, 31.7% of sets
+Dragon Fang * 10, 24.4% of sets
+Wide Lens * 4, 9.8% of sets

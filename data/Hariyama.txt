@@ -1,0 +1,22 @@
+Hariyama, 28 sets
+Moves:
+Fake Out * 16, 57.1% of sets
+Belly Drum * 12, 42.9% of sets
+Bullet Punch * 12, 42.9% of sets
+Feint * 10, 35.7% of sets
+Smack Down * 10, 35.7% of sets
+Vital Throw * 10, 35.7% of sets
+Brick Break * 7, 25% of sets
+Counter * 7, 25% of sets
+Close Combat * 6, 21.4% of sets
+Detect * 6, 21.4% of sets
+Earthquake * 6, 21.4% of sets
+Reversal * 5, 17.9% of sets
+Protect * 5, 17.9% of sets
+
+
+Items:
+Kings Rock * 10, 35.7% of sets
+Sitrus Berry * 7, 25% of sets
+Flame Orb * 6, 21.4% of sets
+Custap Berry * 5, 17.9% of sets

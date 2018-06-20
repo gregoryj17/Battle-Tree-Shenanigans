@@ -1,0 +1,24 @@
+Ninetales, 54 sets
+Moves:
+Hypnosis * 23, 42.6% of sets
+Will-o-wisp * 19, 35.2% of sets
+Hex * 19, 35.2% of sets
+Confuse Ray * 19, 35.2% of sets
+Flame Burst * 19, 35.2% of sets
+Fire Blast * 18, 33.3% of sets
+Dark Pulse * 18, 33.3% of sets
+Energy Ball * 18, 33.3% of sets
+Freeze-dry * 12, 22.2% of sets
+Dazzling Gleam * 12, 22.2% of sets
+Extrasensory * 12, 22.2% of sets
+Ice Shard * 12, 22.2% of sets
+Aurora Veil * 5, 9.3% of sets
+Dream Eater * 5, 9.3% of sets
+Blizzard * 5, 9.3% of sets
+
+
+Items:
+Passho Berry * 19, 35.2% of sets
+Wide Lens * 18, 33.3% of sets
+Psychium Z * 12, 22.2% of sets
+Icium Z * 5, 9.3% of sets

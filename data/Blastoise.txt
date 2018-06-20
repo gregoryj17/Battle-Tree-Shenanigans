@@ -1,0 +1,22 @@
+Blastoise, 33 sets
+Moves:
+Rock Slide * 18, 54.5% of sets
+Aqua Tail * 18, 54.5% of sets
+Dark Pulse * 15, 45.5% of sets
+Fake Out * 10, 30.3% of sets
+Earthquake * 10, 30.3% of sets
+Yawn * 9, 27.3% of sets
+Hydro Pump * 9, 27.3% of sets
+Blizzard * 9, 27.3% of sets
+Aqua Ring * 8, 24.2% of sets
+Iron Defense * 8, 24.2% of sets
+Water Pulse * 6, 18.2% of sets
+Aura Sphere * 6, 18.2% of sets
+Dragon Pulse * 6, 18.2% of sets
+
+
+Items:
+Leftovers * 10, 30.3% of sets
+Custap Berry * 9, 27.3% of sets
+Zoom Lens * 8, 24.2% of sets
+Blastoisinite * 6, 18.2% of sets

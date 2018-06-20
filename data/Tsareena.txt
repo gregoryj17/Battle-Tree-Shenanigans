@@ -1,0 +1,18 @@
+Tsareena, 26 sets
+Moves:
+Trop Kick * 26, 100% of sets
+Play Rough * 26, 100% of sets
+High Jump Kick * 13, 50% of sets
+U-turn * 7, 26.9% of sets
+Synthesis * 7, 26.9% of sets
+Captivate * 7, 26.9% of sets
+Payback * 6, 23.1% of sets
+Low Sweep * 6, 23.1% of sets
+Feint * 6, 23.1% of sets
+
+
+Items:
+Choice Scarf * 7, 26.9% of sets
+Rocky Helmet * 7, 26.9% of sets
+Assault Vest * 6, 23.1% of sets
+Occa Berry * 6, 23.1% of sets

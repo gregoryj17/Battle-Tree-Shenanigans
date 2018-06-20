@@ -1,0 +1,24 @@
+Aggron, 43 sets
+Moves:
+Metal Burst * 23, 53.5% of sets
+Heavy Slam * 17, 39.5% of sets
+Dragon Rush * 17, 39.5% of sets
+Thunder Wave * 17, 39.5% of sets
+Stone Edge * 17, 39.5% of sets
+Taunt * 15, 34.9% of sets
+Earthquake * 15, 34.9% of sets
+Shadow Claw * 15, 34.9% of sets
+Protect * 8, 18.6% of sets
+Roar * 8, 18.6% of sets
+Stealth Rock * 8, 18.6% of sets
+Surf * 3, 7% of sets
+Flash Cannon * 3, 7% of sets
+Focus Blast * 3, 7% of sets
+Round * 3, 7% of sets
+
+
+Items:
+Aggronite * 17, 39.5% of sets
+Shuca Berry * 15, 34.9% of sets
+Focus Sash * 8, 18.6% of sets
+Kings Rock * 3, 7% of sets

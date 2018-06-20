@@ -1,0 +1,23 @@
+Bewear, 36 sets
+Moves:
+Hammer Arm * 17, 47.2% of sets
+Payback * 16, 44.4% of sets
+Thrash * 13, 36.1% of sets
+Brutal Swing * 13, 36.1% of sets
+Low Sweep * 13, 36.1% of sets
+Wide Guard * 13, 36.1% of sets
+Giga Impact * 10, 27.8% of sets
+Earthquake * 10, 27.8% of sets
+Ice Punch * 7, 19.4% of sets
+Thunder Punch * 7, 19.4% of sets
+Swords Dance * 7, 19.4% of sets
+Bulk Up * 6, 16.7% of sets
+Rest * 6, 16.7% of sets
+Force Palm * 6, 16.7% of sets
+
+
+Items:
+Persim Berry * 13, 36.1% of sets
+Normalium Z * 10, 27.8% of sets
+Quick Claw * 7, 19.4% of sets
+Chesto Berry * 6, 16.7% of sets

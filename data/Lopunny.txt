@@ -1,0 +1,21 @@
+Lopunny, 28 sets
+Moves:
+Fake Out * 18, 64.3% of sets
+High Jump Kick * 13, 46.4% of sets
+Ice Punch * 13, 46.4% of sets
+Encore * 10, 35.7% of sets
+Fling * 10, 35.7% of sets
+Dizzy Punch * 10, 35.7% of sets
+Sweet Kiss * 8, 28.6% of sets
+Quick Attack * 5, 17.9% of sets
+Double Hit * 5, 17.9% of sets
+Charm * 5, 17.9% of sets
+Focus Punch * 5, 17.9% of sets
+Substitute * 5, 17.9% of sets
+Thunder Punch * 5, 17.9% of sets
+
+
+Items:
+Lopunnite * 13, 46.4% of sets
+Toxic Orb * 10, 35.7% of sets
+Liechi Berry * 5, 17.9% of sets

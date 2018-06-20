@@ -1,0 +1,21 @@
+Wailord, 22 sets
+Moves:
+Waterfall * 12, 54.5% of sets
+Curse * 12, 54.5% of sets
+Rest * 11, 50% of sets
+Fissure * 11, 50% of sets
+Heavy Slam * 6, 27.3% of sets
+Aqua Ring * 6, 27.3% of sets
+Hydro Pump * 5, 22.7% of sets
+Blizzard * 5, 22.7% of sets
+Hyper Beam * 5, 22.7% of sets
+Water Spout * 5, 22.7% of sets
+Sleep Talk * 5, 22.7% of sets
+Ice Beam * 5, 22.7% of sets
+
+
+Items:
+Chesto Berry * 6, 27.3% of sets
+Leftovers * 6, 27.3% of sets
+Zoom Lens * 5, 22.7% of sets
+Quick Claw * 5, 22.7% of sets

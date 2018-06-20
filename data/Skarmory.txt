@@ -1,0 +1,20 @@
+Skarmory, 29 sets
+Moves:
+Spikes * 20, 69% of sets
+Stealth Rock * 20, 69% of sets
+Whirlwind * 20, 69% of sets
+Sky Drop * 11, 37.9% of sets
+Brave Bird * 9, 31% of sets
+Steel Wing * 9, 31% of sets
+Toxic * 9, 31% of sets
+Night Slash * 6, 20.7% of sets
+Rock Slide * 6, 20.7% of sets
+Swords Dance * 3, 10.3% of sets
+Roar * 3, 10.3% of sets
+
+
+Items:
+Lax Incense * 11, 37.9% of sets
+Poisonium Z * 9, 31% of sets
+Choice Scarf * 6, 20.7% of sets
+Cell Battery * 3, 10.3% of sets

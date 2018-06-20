@@ -1,0 +1,20 @@
+Musharna, 34 sets
+Moves:
+Shadow Ball * 25, 73.5% of sets
+Calm Mind * 18, 52.9% of sets
+Psychic * 16, 47.1% of sets
+Energy Ball * 16, 47.1% of sets
+Stored Power * 9, 26.5% of sets
+Rest * 9, 26.5% of sets
+Hypnosis * 9, 26.5% of sets
+Dream Eater * 9, 26.5% of sets
+Helping Hand * 9, 26.5% of sets
+Yawn * 8, 23.5% of sets
+Trick Room * 8, 23.5% of sets
+
+
+Items:
+Chesto Berry * 9, 26.5% of sets
+Zoom Lens * 9, 26.5% of sets
+Scope Lens * 8, 23.5% of sets
+Lum Berry * 8, 23.5% of sets

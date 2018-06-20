@@ -1,0 +1,20 @@
+Golurk, 20 sets
+Moves:
+Shadow Punch * 17, 85% of sets
+Earthquake * 9, 45% of sets
+Hammer Arm * 8, 40% of sets
+Iron Defense * 8, 40% of sets
+Bulldoze * 8, 40% of sets
+Heavy Slam * 8, 40% of sets
+Rock Slide * 7, 35% of sets
+Fling * 5, 25% of sets
+Dynamic Punch * 4, 20% of sets
+Curse * 3, 15% of sets
+Gyro Ball * 3, 15% of sets
+
+
+Items:
+Muscle Band * 8, 40% of sets
+Iron Ball * 5, 25% of sets
+Ghostium Z * 4, 20% of sets
+Wide Lens * 3, 15% of sets

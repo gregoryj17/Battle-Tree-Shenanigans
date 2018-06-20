@@ -1,0 +1,22 @@
+Medicham, 27 sets
+Moves:
+High Jump Kick * 22, 81.5% of sets
+Fake Out * 15, 55.6% of sets
+Psycho Cut * 8, 29.6% of sets
+Detect * 8, 29.6% of sets
+Zen Headbutt * 7, 25.9% of sets
+Ice Punch * 7, 25.9% of sets
+Bullet Punch * 7, 25.9% of sets
+Bulk Up * 7, 25.9% of sets
+Feint * 7, 25.9% of sets
+Psychic * 5, 18.5% of sets
+Shadow Ball * 5, 18.5% of sets
+Energy Ball * 5, 18.5% of sets
+Calm Mind * 5, 18.5% of sets
+
+
+Items:
+Medichamite * 8, 29.6% of sets
+Expert Belt * 7, 25.9% of sets
+Fightinium Z * 7, 25.9% of sets
+Psychium Z * 5, 18.5% of sets

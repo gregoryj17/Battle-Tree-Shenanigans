@@ -1,0 +1,21 @@
+Froslass, 36 sets
+Moves:
+Hail * 20, 55.6% of sets
+Ice Shard * 15, 41.7% of sets
+Ice Beam * 14, 38.9% of sets
+Ominous Wind * 14, 38.9% of sets
+Thunderbolt * 14, 38.9% of sets
+Blizzard * 13, 36.1% of sets
+Shadow Ball * 13, 36.1% of sets
+Thunder Wave * 9, 25% of sets
+Hex * 9, 25% of sets
+Taunt * 9, 25% of sets
+Icy Wind * 7, 19.4% of sets
+Destiny Bond * 7, 19.4% of sets
+
+
+Items:
+Colbur Berry * 14, 38.9% of sets
+Kasib Berry * 9, 25% of sets
+Focus Sash * 7, 19.4% of sets
+Icy Rock * 6, 16.7% of sets

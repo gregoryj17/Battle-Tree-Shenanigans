@@ -1,0 +1,22 @@
+Togekiss, 48 sets
+Moves:
+Grass Knot * 29, 60.4% of sets
+Air Slash * 29, 60.4% of sets
+Dazzling Gleam * 28, 58.3% of sets
+Thunder Wave * 15, 31.2% of sets
+Shadow Ball * 15, 31.2% of sets
+Aura Sphere * 14, 29.2% of sets
+Encore * 14, 29.2% of sets
+Follow Me * 14, 29.2% of sets
+Reflect * 14, 29.2% of sets
+Extreme Speed * 5, 10.4% of sets
+Aerial Ace * 5, 10.4% of sets
+Steel Wing * 5, 10.4% of sets
+Brick Break * 5, 10.4% of sets
+
+
+Items:
+Kings Rock * 15, 31.2% of sets
+Expert Belt * 14, 29.2% of sets
+Sitrus Berry * 14, 29.2% of sets
+Liechi Berry * 5, 10.4% of sets

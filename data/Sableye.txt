@@ -1,0 +1,21 @@
+Sableye, 29 sets
+Moves:
+Recover * 20, 69% of sets
+Foul Play * 15, 51.7% of sets
+Knock Off * 14, 48.3% of sets
+Shadow Ball * 14, 48.3% of sets
+Confuse Ray * 14, 48.3% of sets
+Will-o-wisp * 12, 41.4% of sets
+Snarl * 6, 20.7% of sets
+Metal Burst * 6, 20.7% of sets
+Fake Out * 6, 20.7% of sets
+Captivate * 3, 10.3% of sets
+Mean Look * 3, 10.3% of sets
+Moonlight * 3, 10.3% of sets
+
+
+Items:
+Lax Incense * 14, 48.3% of sets
+Sablenite * 6, 20.7% of sets
+Focus Sash * 6, 20.7% of sets
+Normalium Z * 3, 10.3% of sets

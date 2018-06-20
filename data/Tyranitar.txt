@@ -1,0 +1,20 @@
+Tyranitar, 65 sets
+Moves:
+Rock Slide * 48, 73.8% of sets
+Earthquake * 37, 56.9% of sets
+Crunch * 31, 47.7% of sets
+Dragon Dance * 31, 47.7% of sets
+Stealth Rock * 17, 26.2% of sets
+Thunder Wave * 17, 26.2% of sets
+Fling * 17, 26.2% of sets
+Stone Edge * 17, 26.2% of sets
+Ice Fang * 17, 26.2% of sets
+Payback * 17, 26.2% of sets
+Ice Beam * 11, 16.9% of sets
+
+
+Items:
+Chople Berry * 20, 30.8% of sets
+Iron Ball * 17, 26.2% of sets
+Tyranitarite * 17, 26.2% of sets
+Kings Rock * 11, 16.9% of sets

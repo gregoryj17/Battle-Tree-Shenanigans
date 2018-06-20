@@ -1,0 +1,21 @@
+Infernape, 34 sets
+Moves:
+Fake Out * 29, 85.3% of sets
+Encore * 19, 55.9% of sets
+Close Combat * 19, 55.9% of sets
+Fling * 10, 29.4% of sets
+Acrobatics * 10, 29.4% of sets
+Overheat * 10, 29.4% of sets
+Stone Edge * 10, 29.4% of sets
+Flare Blitz * 9, 26.5% of sets
+Heat Wave * 5, 14.7% of sets
+Will-o-wisp * 5, 14.7% of sets
+Grass Knot * 5, 14.7% of sets
+Calm Mind * 5, 14.7% of sets
+
+
+Items:
+Kings Rock * 10, 29.4% of sets
+Life Orb * 10, 29.4% of sets
+Focus Sash * 9, 26.5% of sets
+Charcoal * 5, 14.7% of sets

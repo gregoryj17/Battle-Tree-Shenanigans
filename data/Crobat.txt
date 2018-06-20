@@ -1,0 +1,21 @@
+Crobat, 52 sets
+Moves:
+Cross Poison * 49, 94.2% of sets
+X-scissor * 35, 67.3% of sets
+Hypnosis * 32, 61.5% of sets
+U-turn * 18, 34.6% of sets
+Brave Bird * 17, 32.7% of sets
+Zen Headbutt * 17, 32.7% of sets
+Aerial Ace * 14, 26.9% of sets
+Taunt * 14, 26.9% of sets
+Air Slash * 3, 5.8% of sets
+Shadow Ball * 3, 5.8% of sets
+Confuse Ray * 3, 5.8% of sets
+Nasty Plot * 3, 5.8% of sets
+
+
+Items:
+Charti Berry * 18, 34.6% of sets
+Razor Claw * 17, 32.7% of sets
+Wide Lens * 14, 26.9% of sets
+Sharp Beak * 3, 5.8% of sets

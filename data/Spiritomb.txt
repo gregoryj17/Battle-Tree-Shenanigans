@@ -1,0 +1,19 @@
+Spiritomb, 35 sets
+Moves:
+Will-o-wisp * 24, 68.6% of sets
+Sucker Punch * 24, 68.6% of sets
+Pain Split * 21, 60% of sets
+Shadow Sneak * 14, 40% of sets
+Swagger * 11, 31.4% of sets
+Psych Up * 11, 31.4% of sets
+Toxic * 11, 31.4% of sets
+Grudge * 11, 31.4% of sets
+Substitute * 10, 28.6% of sets
+Taunt * 3, 8.6% of sets
+
+
+Items:
+Leftovers * 11, 31.4% of sets
+Sitrus Berry * 11, 31.4% of sets
+Custap Berry * 10, 28.6% of sets
+Quick Claw * 3, 8.6% of sets

@@ -1,0 +1,21 @@
+Honchkrow, 30 sets
+Moves:
+Psychic * 16, 53.3% of sets
+Dark Pulse * 16, 53.3% of sets
+Protect * 16, 53.3% of sets
+Sucker Punch * 14, 46.7% of sets
+Nasty Plot * 9, 30% of sets
+Swagger * 7, 23.3% of sets
+Shadow Ball * 7, 23.3% of sets
+Night Slash * 7, 23.3% of sets
+Drill Peck * 7, 23.3% of sets
+Thunder Wave * 7, 23.3% of sets
+Taunt * 7, 23.3% of sets
+Pursuit * 7, 23.3% of sets
+
+
+Items:
+Kee Berry * 9, 30% of sets
+Darkinium Z * 7, 23.3% of sets
+Life Orb * 7, 23.3% of sets
+Black Glasses * 7, 23.3% of sets

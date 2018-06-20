@@ -1,0 +1,20 @@
+Archeops, 40 sets
+Moves:
+Earthquake * 32, 80% of sets
+Aerial Ace * 27, 67.5% of sets
+U-turn * 22, 55% of sets
+Head Smash * 14, 35% of sets
+Rock Slide * 13, 32.5% of sets
+Protect * 13, 32.5% of sets
+Quick Attack * 8, 20% of sets
+Acrobatics * 8, 20% of sets
+Crunch * 8, 20% of sets
+Earth Power * 5, 12.5% of sets
+Endeavor * 5, 12.5% of sets
+Ancient Power * 5, 12.5% of sets
+
+
+Items:
+Sitrus Berry * 21, 52.5% of sets
+Choice Band * 14, 35% of sets
+Enigma Berry * 5, 12.5% of sets

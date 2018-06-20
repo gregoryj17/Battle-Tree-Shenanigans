@@ -1,0 +1,25 @@
+Electivire, 51 sets
+Moves:
+Thunder * 18, 35.3% of sets
+Focus Blast * 18, 35.3% of sets
+Flamethrower * 18, 35.3% of sets
+Psychic * 18, 35.3% of sets
+Wild Charge * 13, 25.5% of sets
+Feint * 13, 25.5% of sets
+Ice Punch * 13, 25.5% of sets
+Cross Chop * 13, 25.5% of sets
+Electric Terrain * 10, 19.6% of sets
+Hammer Arm * 10, 19.6% of sets
+Thunder Punch * 10, 19.6% of sets
+Bulldoze * 10, 19.6% of sets
+Thunder Wave * 10, 19.6% of sets
+Focus Punch * 10, 19.6% of sets
+Rock Slide * 10, 19.6% of sets
+Fire Punch * 10, 19.6% of sets
+
+
+Items:
+Expert Belt * 18, 35.3% of sets
+Shuca Berry * 13, 25.5% of sets
+Electric Seed * 10, 19.6% of sets
+Bright Powder * 10, 19.6% of sets

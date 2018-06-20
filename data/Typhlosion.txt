@@ -1,0 +1,20 @@
+Typhlosion, 39 sets
+Moves:
+Extrasensory * 26, 66.7% of sets
+Flamethrower * 24, 61.5% of sets
+Solar Beam * 23, 59% of sets
+Focus Blast * 16, 41% of sets
+Flame Burst * 13, 33.3% of sets
+Sunny Day * 13, 33.3% of sets
+Eruption * 11, 28.2% of sets
+Lava Plume * 10, 25.6% of sets
+Bulldoze * 10, 25.6% of sets
+Inferno * 5, 12.8% of sets
+Will-o-wisp * 5, 12.8% of sets
+
+
+Items:
+Passho Berry * 13, 33.3% of sets
+Choice Scarf * 11, 28.2% of sets
+Power Herb * 10, 25.6% of sets
+Wide Lens * 5, 12.8% of sets

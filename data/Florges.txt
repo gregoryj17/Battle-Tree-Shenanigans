@@ -1,0 +1,21 @@
+Florges, 34 sets
+Moves:
+Psychic * 19, 55.9% of sets
+Moonblast * 19, 55.9% of sets
+Round * 16, 47.1% of sets
+Petal Dance * 10, 29.4% of sets
+Calm Mind * 9, 26.5% of sets
+Grass Knot * 9, 26.5% of sets
+Flower Shield * 9, 26.5% of sets
+Dazzling Gleam * 9, 26.5% of sets
+Energy Ball * 9, 26.5% of sets
+Wish * 9, 26.5% of sets
+Misty Terrain * 6, 17.6% of sets
+Grassy Terrain * 6, 17.6% of sets
+Nature Power * 6, 17.6% of sets
+
+
+Items:
+Kebia Berry * 15, 44.1% of sets
+Lum Berry * 10, 29.4% of sets
+Babiri Berry * 9, 26.5% of sets

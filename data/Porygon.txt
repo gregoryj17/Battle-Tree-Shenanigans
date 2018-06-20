@@ -1,0 +1,19 @@
+Porygon, 35 sets
+Moves:
+Tri Attack * 21, 60% of sets
+Ice Beam * 18, 51.4% of sets
+Blizzard * 14, 40% of sets
+Magic Coat * 14, 40% of sets
+Lock-on * 14, 40% of sets
+Zap Cannon * 14, 40% of sets
+Psychic * 11, 31.4% of sets
+Thunder Wave * 10, 28.6% of sets
+Shadow Ball * 10, 28.6% of sets
+Thunderbolt * 8, 22.9% of sets
+Double Team * 3, 8.6% of sets
+Recover * 3, 8.6% of sets
+
+
+Items:
+Eviolite * 21, 60% of sets
+Sitrus Berry * 14, 40% of sets

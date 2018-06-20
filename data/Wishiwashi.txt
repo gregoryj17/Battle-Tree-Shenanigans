@@ -1,0 +1,21 @@
+Wishiwashi, 53 sets
+Moves:
+Ice Beam * 48, 90.6% of sets
+U-turn * 26, 49.1% of sets
+Waterfall * 22, 41.5% of sets
+Double-edge * 22, 41.5% of sets
+Rain Dance * 22, 41.5% of sets
+Earthquake * 19, 35.8% of sets
+Aqua Tail * 14, 26.4% of sets
+Hydro Pump * 12, 22.6% of sets
+Endeavor * 12, 22.6% of sets
+Dive * 5, 9.4% of sets
+Aqua Ring * 5, 9.4% of sets
+Protect * 5, 9.4% of sets
+
+
+Items:
+Sitrus Berry * 22, 41.5% of sets
+Wacan Berry * 14, 26.4% of sets
+Rindo Berry * 12, 22.6% of sets
+Leftovers * 5, 9.4% of sets

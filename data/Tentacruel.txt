@@ -1,0 +1,24 @@
+Tentacruel, 45 sets
+Moves:
+Surf * 14, 31.1% of sets
+Toxic * 14, 31.1% of sets
+Venoshock * 14, 31.1% of sets
+Protect * 14, 31.1% of sets
+Hydro Pump * 13, 28.9% of sets
+Sludge Bomb * 13, 28.9% of sets
+Blizzard * 13, 28.9% of sets
+Mirror Coat * 13, 28.9% of sets
+Ice Beam * 11, 24.4% of sets
+Sludge Wave * 11, 24.4% of sets
+Hex * 11, 24.4% of sets
+Toxic Spikes * 11, 24.4% of sets
+Rapid Spin * 7, 15.6% of sets
+Poison Jab * 7, 15.6% of sets
+Waterfall * 7, 15.6% of sets
+Swords Dance * 7, 15.6% of sets
+
+
+Items:
+Black Sludge * 25, 55.6% of sets
+Focus Sash * 13, 28.9% of sets
+Poisonium Z * 7, 15.6% of sets

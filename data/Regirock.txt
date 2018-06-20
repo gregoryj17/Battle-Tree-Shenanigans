@@ -1,0 +1,19 @@
+Regirock, 30 sets
+Moves:
+Hammer Arm * 24, 80% of sets
+Rock Slide * 15, 50% of sets
+Stone Edge * 15, 50% of sets
+Earthquake * 15, 50% of sets
+Explosion * 15, 50% of sets
+Sandstorm * 9, 30% of sets
+Curse * 9, 30% of sets
+Thunder Wave * 6, 20% of sets
+Rock Polish * 6, 20% of sets
+Superpower * 6, 20% of sets
+
+
+Items:
+Leftovers * 9, 30% of sets
+Custap Berry * 9, 30% of sets
+Rockium Z * 6, 20% of sets
+Sitrus Berry * 6, 20% of sets

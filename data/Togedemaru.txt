@@ -1,0 +1,20 @@
+Togedemaru, 40 sets
+Moves:
+Spiky Shield * 33, 82.5% of sets
+Nuzzle * 24, 60% of sets
+Wild Charge * 16, 40% of sets
+U-turn * 16, 40% of sets
+Wish * 15, 37.5% of sets
+Reflect * 15, 37.5% of sets
+Fell Stinger * 9, 22.5% of sets
+Poison Jab * 9, 22.5% of sets
+Reversal * 9, 22.5% of sets
+Electric Terrain * 7, 17.5% of sets
+Fake Out * 7, 17.5% of sets
+
+
+Items:
+Rocky Helmet * 15, 37.5% of sets
+Air Balloon * 9, 22.5% of sets
+Electrium Z * 9, 22.5% of sets
+Terrain Extender * 7, 17.5% of sets

@@ -1,0 +1,25 @@
+Raichu, 37 sets
+Moves:
+Volt Switch * 15, 40.5% of sets
+Safeguard * 15, 40.5% of sets
+Psyshock * 15, 40.5% of sets
+Disarming Voice * 15, 40.5% of sets
+Thunderbolt * 9, 24.3% of sets
+Psychic * 9, 24.3% of sets
+Grass Knot * 9, 24.3% of sets
+Nasty Plot * 9, 24.3% of sets
+Fake Out * 8, 21.6% of sets
+Volt Tackle * 8, 21.6% of sets
+Reversal * 8, 21.6% of sets
+Light Screen * 8, 21.6% of sets
+Nuzzle * 5, 13.5% of sets
+Focus Blast * 5, 13.5% of sets
+Sweet Kiss * 5, 13.5% of sets
+Charge Beam * 5, 13.5% of sets
+
+
+Items:
+Twisted Spoon * 15, 40.5% of sets
+Focus Sash * 9, 24.3% of sets
+Air Balloon * 8, 21.6% of sets
+Shuca Berry * 5, 13.5% of sets

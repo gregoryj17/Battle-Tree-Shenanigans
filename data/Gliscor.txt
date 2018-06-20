@@ -1,0 +1,20 @@
+Gliscor, 29 sets
+Moves:
+Acrobatics * 23, 79.3% of sets
+Swords Dance * 18, 62.1% of sets
+U-turn * 14, 48.3% of sets
+Earthquake * 11, 37.9% of sets
+Agility * 9, 31% of sets
+Baton Pass * 9, 31% of sets
+Fling * 9, 31% of sets
+Aerial Ace * 6, 20.7% of sets
+X-scissor * 6, 20.7% of sets
+Stone Edge * 6, 20.7% of sets
+Counter * 5, 17.2% of sets
+
+
+Items:
+Liechi Berry * 9, 31% of sets
+Razor Fang * 9, 31% of sets
+Expert Belt * 6, 20.7% of sets
+Focus Sash * 5, 17.2% of sets

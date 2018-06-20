@@ -1,0 +1,25 @@
+Decidueye, 34 sets
+Moves:
+Spirit Shackle * 10, 29.4% of sets
+Leaf Blade * 10, 29.4% of sets
+Sucker Punch * 10, 29.4% of sets
+Smack Down * 10, 29.4% of sets
+Nasty Plot * 9, 26.5% of sets
+Shadow Ball * 9, 26.5% of sets
+Grass Knot * 9, 26.5% of sets
+Baton Pass * 9, 26.5% of sets
+Brave Bird * 8, 23.5% of sets
+Feather Dance * 8, 23.5% of sets
+Ominous Wind * 8, 23.5% of sets
+Defog * 8, 23.5% of sets
+Curse * 7, 20.6% of sets
+Confuse Ray * 7, 20.6% of sets
+Roost * 7, 20.6% of sets
+Energy Ball * 7, 20.6% of sets
+
+
+Items:
+Life Orb * 10, 29.4% of sets
+Bright Powder * 9, 26.5% of sets
+Flyinium Z * 8, 23.5% of sets
+Sitrus Berry * 7, 20.6% of sets

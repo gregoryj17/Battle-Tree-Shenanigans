@@ -1,0 +1,23 @@
+Flygon, 32 sets
+Moves:
+Earthquake * 19, 59.4% of sets
+U-turn * 13, 40.6% of sets
+Dragon Rush * 11, 34.4% of sets
+Crunch * 11, 34.4% of sets
+Stone Edge * 11, 34.4% of sets
+Draco Meteor * 10, 31.2% of sets
+Earth Power * 10, 31.2% of sets
+Flamethrower * 10, 31.2% of sets
+Dragon Claw * 8, 25% of sets
+Endure * 8, 25% of sets
+Fire Blast * 8, 25% of sets
+Swagger * 3, 9.4% of sets
+Quick Attack * 3, 9.4% of sets
+Rock Slide * 3, 9.4% of sets
+
+
+Items:
+Rockium Z * 11, 34.4% of sets
+White Herb * 10, 31.2% of sets
+Weakness Policy * 8, 25% of sets
+Haban Berry * 3, 9.4% of sets

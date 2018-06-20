@@ -1,0 +1,21 @@
+Gastrodon, 51 sets
+Moves:
+Amnesia * 19, 37.3% of sets
+Curse * 19, 37.3% of sets
+Waterfall * 19, 37.3% of sets
+Rain Dance * 16, 31.4% of sets
+Sludge Bomb * 16, 31.4% of sets
+Muddy Water * 16, 31.4% of sets
+Counter * 16, 31.4% of sets
+Sandstorm * 16, 31.4% of sets
+Mud Bomb * 16, 31.4% of sets
+Surf * 16, 31.4% of sets
+Recover * 16, 31.4% of sets
+Earthquake * 13, 25.5% of sets
+Yawn * 6, 11.8% of sets
+
+
+Items:
+Leftovers * 29, 56.9% of sets
+Damp Rock * 16, 31.4% of sets
+Rindo Berry * 6, 11.8% of sets

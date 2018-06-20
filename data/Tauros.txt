@@ -1,0 +1,21 @@
+Tauros, 47 sets
+Moves:
+Earthquake * 36, 76.6% of sets
+Zen Headbutt * 25, 53.2% of sets
+Giga Impact * 23, 48.9% of sets
+Rock Slide * 14, 29.8% of sets
+Substitute * 14, 29.8% of sets
+Thrash * 12, 25.5% of sets
+Payback * 12, 25.5% of sets
+Wild Charge * 11, 23.4% of sets
+Swagger * 11, 23.4% of sets
+Toxic * 10, 21.3% of sets
+Protect * 10, 21.3% of sets
+Double Team * 10, 21.3% of sets
+
+
+Items:
+Liechi Berry * 14, 29.8% of sets
+Life Orb * 12, 25.5% of sets
+Expert Belt * 11, 23.4% of sets
+Sitrus Berry * 10, 21.3% of sets

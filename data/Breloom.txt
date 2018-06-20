@@ -1,0 +1,20 @@
+Breloom, 38 sets
+Moves:
+Focus Punch * 21, 55.3% of sets
+Seed Bomb * 20, 52.6% of sets
+Spore * 20, 52.6% of sets
+Substitute * 19, 50% of sets
+Rock Slide * 11, 28.9% of sets
+Protect * 10, 26.3% of sets
+Leech Seed * 10, 26.3% of sets
+Wake-up Slap * 9, 23.7% of sets
+Fake Tears * 8, 21.1% of sets
+Helping Hand * 8, 21.1% of sets
+Mach Punch * 8, 21.1% of sets
+Stun Spore * 8, 21.1% of sets
+
+
+Items:
+Toxic Orb * 19, 50% of sets
+Focus Sash * 11, 28.9% of sets
+Fightinium Z * 8, 21.1% of sets

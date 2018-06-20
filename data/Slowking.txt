@@ -1,0 +1,23 @@
+Slowking, 33 sets
+Moves:
+Psychic * 21, 63.6% of sets
+Trick Room * 21, 63.6% of sets
+Surf * 13, 39.4% of sets
+Ice Beam * 13, 39.4% of sets
+Shadow Ball * 8, 24.2% of sets
+Scald * 8, 24.2% of sets
+Focus Blast * 8, 24.2% of sets
+Psyshock * 8, 24.2% of sets
+Water Pulse * 8, 24.2% of sets
+Heal Pulse * 8, 24.2% of sets
+Zen Headbutt * 4, 12.1% of sets
+Earthquake * 4, 12.1% of sets
+Swagger * 4, 12.1% of sets
+Psych Up * 4, 12.1% of sets
+
+
+Items:
+Waterium Z * 13, 39.4% of sets
+Choice Specs * 8, 24.2% of sets
+Sitrus Berry * 8, 24.2% of sets
+Kings Rock * 4, 12.1% of sets

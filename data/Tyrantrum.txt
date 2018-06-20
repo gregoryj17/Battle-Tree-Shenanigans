@@ -1,0 +1,22 @@
+Tyrantrum, 27 sets
+Moves:
+Earthquake * 16, 59.3% of sets
+Crunch * 12, 44.4% of sets
+Dragon Claw * 12, 44.4% of sets
+Stealth Rock * 10, 37% of sets
+Dragon Tail * 10, 37% of sets
+Double Team * 10, 37% of sets
+Head Smash * 6, 22.2% of sets
+Charm * 6, 22.2% of sets
+Sandstorm * 6, 22.2% of sets
+Horn Drill * 5, 18.5% of sets
+Stone Edge * 5, 18.5% of sets
+Rest * 5, 18.5% of sets
+Sleep Talk * 5, 18.5% of sets
+
+
+Items:
+Lax Incense * 10, 37% of sets
+Choice Band * 6, 22.2% of sets
+Leftovers * 6, 22.2% of sets
+Wide Lens * 5, 18.5% of sets

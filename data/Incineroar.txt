@@ -1,0 +1,24 @@
+Incineroar, 40 sets
+Moves:
+Darkest Lariat * 14, 35% of sets
+Throat Chop * 14, 35% of sets
+Earthquake * 14, 35% of sets
+Outrage * 14, 35% of sets
+Flare Blitz * 11, 27.5% of sets
+Cross Chop * 11, 27.5% of sets
+Crunch * 11, 27.5% of sets
+U-turn * 11, 27.5% of sets
+Brutal Swing * 8, 20% of sets
+Fire Fang * 8, 20% of sets
+Bulk Up * 8, 20% of sets
+Lick * 8, 20% of sets
+Fake Out * 7, 17.5% of sets
+Heat Wave * 7, 17.5% of sets
+Snarl * 7, 17.5% of sets
+Will-o-wisp * 7, 17.5% of sets
+
+
+Items:
+Firium Z * 21, 52.5% of sets
+Quick Claw * 11, 27.5% of sets
+Razor Fang * 8, 20% of sets

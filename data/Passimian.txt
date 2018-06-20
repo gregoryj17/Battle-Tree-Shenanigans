@@ -1,0 +1,19 @@
+Passimian, 28 sets
+Moves:
+Close Combat * 21, 75% of sets
+Rock Slide * 21, 75% of sets
+Feint * 16, 57.1% of sets
+Fling * 13, 46.4% of sets
+Iron Head * 10, 35.7% of sets
+Seismic Toss * 7, 25% of sets
+Vital Throw * 7, 25% of sets
+Gyro Ball * 7, 25% of sets
+Earthquake * 5, 17.9% of sets
+U-turn * 5, 17.9% of sets
+
+
+Items:
+Coba Berry * 10, 35.7% of sets
+Iron Ball * 7, 25% of sets
+Hard Stone * 6, 21.4% of sets
+Choice Scarf * 5, 17.9% of sets

@@ -1,0 +1,20 @@
+Staraptor, 39 sets
+Moves:
+Brave Bird * 27, 69.2% of sets
+U-turn * 22, 56.4% of sets
+Close Combat * 20, 51.3% of sets
+Feather Dance * 19, 48.7% of sets
+Quick Attack * 12, 30.8% of sets
+Endeavor * 12, 30.8% of sets
+Giga Impact * 10, 25.6% of sets
+Pursuit * 10, 25.6% of sets
+Final Gambit * 10, 25.6% of sets
+Double-edge * 7, 17.9% of sets
+Roost * 7, 17.9% of sets
+
+
+Items:
+Focus Sash * 12, 30.8% of sets
+Choice Band * 10, 25.6% of sets
+Choice Scarf * 10, 25.6% of sets
+Flyinium Z * 7, 17.9% of sets

@@ -1,0 +1,21 @@
+Unfezant, 25 sets
+Moves:
+Sky Attack * 15, 60% of sets
+Giga Impact * 11, 44% of sets
+Quick Attack * 11, 44% of sets
+Hypnosis * 11, 44% of sets
+U-turn * 11, 44% of sets
+Detect * 7, 28% of sets
+Aerial Ace * 7, 28% of sets
+Razor Wind * 7, 28% of sets
+Tailwind * 7, 28% of sets
+Return * 4, 16% of sets
+Feather Dance * 3, 12% of sets
+Toxic * 3, 12% of sets
+Fly * 3, 12% of sets
+
+
+Items:
+Power Herb * 15, 60% of sets
+Enigma Berry * 7, 28% of sets
+Bright Powder * 3, 12% of sets

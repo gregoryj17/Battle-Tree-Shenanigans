@@ -1,0 +1,22 @@
+Durant, 22 sets
+Moves:
+Dig * 13, 59.1% of sets
+X-scissor * 9, 40.9% of sets
+Iron Head * 9, 40.9% of sets
+Crunch * 9, 40.9% of sets
+Bug Bite * 9, 40.9% of sets
+Metal Sound * 9, 40.9% of sets
+Entrainment * 5, 22.7% of sets
+Protect * 5, 22.7% of sets
+Iron Defense * 4, 18.2% of sets
+Agility * 4, 18.2% of sets
+Baton Pass * 4, 18.2% of sets
+Rock Slide * 4, 18.2% of sets
+Shadow Claw * 4, 18.2% of sets
+
+
+Items:
+Sitrus Berry * 9, 40.9% of sets
+Focus Sash * 5, 22.7% of sets
+Power Herb * 4, 18.2% of sets
+Occa Berry * 4, 18.2% of sets

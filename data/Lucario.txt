@@ -1,0 +1,23 @@
+Lucario, 41 sets
+Moves:
+Aura Sphere * 26, 63.4% of sets
+Close Combat * 15, 36.6% of sets
+Metal Sound * 15, 36.6% of sets
+Dark Pulse * 15, 36.6% of sets
+Heal Pulse * 15, 36.6% of sets
+Dragon Pulse * 11, 26.8% of sets
+Stone Edge * 11, 26.8% of sets
+Extreme Speed * 11, 26.8% of sets
+Rock Slide * 10, 24.4% of sets
+Blaze Kick * 10, 24.4% of sets
+Bullet Punch * 10, 24.4% of sets
+Bulk Up * 5, 12.2% of sets
+Endure * 5, 12.2% of sets
+Reversal * 5, 12.2% of sets
+
+
+Items:
+Fightinium Z * 15, 36.6% of sets
+Weakness Policy * 11, 26.8% of sets
+Lucarionite * 10, 24.4% of sets
+Liechi Berry * 5, 12.2% of sets

@@ -1,0 +1,24 @@
+Landorus, 26 sets
+Moves:
+Earthquake * 14, 53.8% of sets
+Sandstorm * 8, 30.8% of sets
+Rock Slide * 8, 30.8% of sets
+Protect * 8, 30.8% of sets
+Rest * 6, 23.1% of sets
+Sleep Talk * 6, 23.1% of sets
+Smack Down * 6, 23.1% of sets
+Fissure * 6, 23.1% of sets
+Earth Power * 6, 23.1% of sets
+Extrasensory * 6, 23.1% of sets
+Focus Blast * 6, 23.1% of sets
+Grass Knot * 6, 23.1% of sets
+Hammer Arm * 6, 23.1% of sets
+Explosion * 6, 23.1% of sets
+U-turn * 6, 23.1% of sets
+
+
+Items:
+Smooth Rock * 8, 30.8% of sets
+Bright Powder * 6, 23.1% of sets
+Choice Scarf * 6, 23.1% of sets
+White Herb * 6, 23.1% of sets

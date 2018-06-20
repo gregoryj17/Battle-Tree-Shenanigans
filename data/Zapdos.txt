@@ -1,0 +1,21 @@
+Zapdos, 34 sets
+Moves:
+Ancient Power * 18, 52.9% of sets
+Drill Peck * 16, 47.1% of sets
+Thunder Wave * 16, 47.1% of sets
+Roost * 16, 47.1% of sets
+Thunder * 9, 26.5% of sets
+Light Screen * 9, 26.5% of sets
+Rain Dance * 9, 26.5% of sets
+Thunderbolt * 9, 26.5% of sets
+U-turn * 9, 26.5% of sets
+Charge Beam * 9, 26.5% of sets
+Double Team * 9, 26.5% of sets
+Wild Charge * 7, 20.6% of sets
+
+
+Items:
+Petaya Berry * 9, 26.5% of sets
+Rockium Z * 9, 26.5% of sets
+Bright Powder * 9, 26.5% of sets
+Flyinium Z * 7, 20.6% of sets

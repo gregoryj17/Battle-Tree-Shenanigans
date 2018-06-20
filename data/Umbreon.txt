@@ -1,0 +1,21 @@
+Umbreon, 44 sets
+Moves:
+Payback * 33, 75% of sets
+Moonlight * 25, 56.8% of sets
+Curse * 24, 54.5% of sets
+Confuse Ray * 16, 36.4% of sets
+Feint Attack * 11, 25% of sets
+Swagger * 11, 25% of sets
+Psych Up * 11, 25% of sets
+Screech * 11, 25% of sets
+Stored Power * 9, 20.5% of sets
+Work Up * 9, 20.5% of sets
+Trump Card * 8, 18.2% of sets
+Rest * 8, 18.2% of sets
+
+
+Items:
+Leftovers * 16, 36.4% of sets
+Sitrus Berry * 11, 25% of sets
+Normalium Z * 9, 20.5% of sets
+Chesto Berry * 8, 18.2% of sets

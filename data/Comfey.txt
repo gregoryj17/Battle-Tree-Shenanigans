@@ -1,0 +1,24 @@
+Comfey, 34 sets
+Moves:
+Dazzling Gleam * 22, 64.7% of sets
+Energy Ball * 15, 44.1% of sets
+Flower Shield * 15, 44.1% of sets
+Endure * 15, 44.1% of sets
+Petal Blizzard * 7, 20.6% of sets
+Grassy Terrain * 7, 20.6% of sets
+Floral Healing * 7, 20.6% of sets
+Draining Kiss * 7, 20.6% of sets
+Calm Mind * 7, 20.6% of sets
+Sweet Kiss * 7, 20.6% of sets
+Leech Seed * 7, 20.6% of sets
+U-turn * 5, 14.7% of sets
+Play Rough * 5, 14.7% of sets
+Petal Dance * 5, 14.7% of sets
+Acrobatics * 5, 14.7% of sets
+
+
+Items:
+Petaya Berry * 15, 44.1% of sets
+Grassium Z * 7, 20.6% of sets
+Big Root * 7, 20.6% of sets
+Muscle Band * 5, 14.7% of sets

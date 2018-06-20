@@ -1,0 +1,20 @@
+Braviary, 27 sets
+Moves:
+Rock Slide * 16, 59.3% of sets
+Tailwind * 15, 55.6% of sets
+U-turn * 12, 44.4% of sets
+Superpower * 11, 40.7% of sets
+Air Slash * 11, 40.7% of sets
+Sky Drop * 11, 40.7% of sets
+Brave Bird * 9, 33.3% of sets
+Thrash * 7, 25.9% of sets
+Bulk Up * 7, 25.9% of sets
+Return * 5, 18.5% of sets
+Giga Impact * 4, 14.8% of sets
+
+
+Items:
+Kings Rock * 11, 40.7% of sets
+Persim Berry * 7, 25.9% of sets
+Choice Scarf * 5, 18.5% of sets
+Wacan Berry * 4, 14.8% of sets

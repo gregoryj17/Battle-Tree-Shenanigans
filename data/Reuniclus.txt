@@ -1,0 +1,21 @@
+Reuniclus, 37 sets
+Moves:
+Psychic * 30, 81.1% of sets
+Recover * 19, 51.4% of sets
+Focus Blast * 18, 48.6% of sets
+Energy Ball * 12, 32.4% of sets
+Wonder Room * 12, 32.4% of sets
+Calm Mind * 11, 29.7% of sets
+Shadow Ball * 11, 29.7% of sets
+Rock Slide * 7, 18.9% of sets
+Explosion * 7, 18.9% of sets
+Gyro Ball * 7, 18.9% of sets
+Trick Room * 7, 18.9% of sets
+Trick * 7, 18.9% of sets
+
+
+Items:
+Kee Berry * 12, 32.4% of sets
+Colbur Berry * 11, 29.7% of sets
+Kings Rock * 7, 18.9% of sets
+Toxic Orb * 7, 18.9% of sets

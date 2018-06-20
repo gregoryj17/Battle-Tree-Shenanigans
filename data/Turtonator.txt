@@ -1,0 +1,24 @@
+Turtonator, 39 sets
+Moves:
+Shell Trap * 16, 41% of sets
+Shell Smash * 12, 30.8% of sets
+Fire Blast * 12, 30.8% of sets
+Dragon Pulse * 12, 30.8% of sets
+Flash Cannon * 12, 30.8% of sets
+Head Smash * 11, 28.2% of sets
+Explosion * 11, 28.2% of sets
+Overheat * 11, 28.2% of sets
+Dragon Claw * 11, 28.2% of sets
+Solar Beam * 9, 23.1% of sets
+Flamethrower * 9, 23.1% of sets
+Sunny Day * 9, 23.1% of sets
+Dragon Tail * 7, 17.9% of sets
+Fire Spin * 7, 17.9% of sets
+Taunt * 7, 17.9% of sets
+
+
+Items:
+Sitrus Berry * 12, 30.8% of sets
+Normalium Z * 11, 28.2% of sets
+Smooth Rock * 9, 23.1% of sets
+Rocky Helmet * 7, 17.9% of sets

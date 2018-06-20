@@ -1,0 +1,25 @@
+Vikavolt, 34 sets
+Moves:
+Mud Shot * 11, 32.4% of sets
+Thunder * 11, 32.4% of sets
+Bug Buzz * 11, 32.4% of sets
+Guillotine * 11, 32.4% of sets
+Thunderbolt * 10, 29.4% of sets
+Air Slash * 10, 29.4% of sets
+Flash Cannon * 10, 29.4% of sets
+Thunder Wave * 10, 29.4% of sets
+Charge Beam * 8, 23.5% of sets
+Energy Ball * 8, 23.5% of sets
+Mud-slap * 8, 23.5% of sets
+Charge * 8, 23.5% of sets
+Wild Charge * 5, 14.7% of sets
+Bug Bite * 5, 14.7% of sets
+Sky Drop * 5, 14.7% of sets
+Electroweb * 5, 14.7% of sets
+
+
+Items:
+Groundium Z * 11, 32.4% of sets
+Electrium Z * 10, 29.4% of sets
+Focus Band * 8, 23.5% of sets
+Magnet * 5, 14.7% of sets

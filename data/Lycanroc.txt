@@ -1,0 +1,21 @@
+Lycanroc, 39 sets
+Moves:
+Accelerock * 25, 64.1% of sets
+Stealth Rock * 17, 43.6% of sets
+Rock Polish * 17, 43.6% of sets
+Rock Climb * 17, 43.6% of sets
+Rock Slide * 15, 38.5% of sets
+Thunder Fang * 15, 38.5% of sets
+Sucker Punch * 14, 35.9% of sets
+Quick Attack * 8, 20.5% of sets
+Counter * 7, 17.9% of sets
+Reversal * 7, 17.9% of sets
+Stone Edge * 7, 17.9% of sets
+Fire Fang * 7, 17.9% of sets
+
+
+Items:
+Rockium Z * 17, 43.6% of sets
+Life Orb * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets
+Expert Belt * 7, 17.9% of sets

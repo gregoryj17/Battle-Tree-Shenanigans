@@ -1,0 +1,20 @@
+Heatran, 38 sets
+Moves:
+Earth Power * 28, 73.7% of sets
+Flash Cannon * 28, 73.7% of sets
+Dark Pulse * 18, 47.4% of sets
+Lava Plume * 10, 26.3% of sets
+Overheat * 10, 26.3% of sets
+Will-o-wisp * 10, 26.3% of sets
+Protect * 10, 26.3% of sets
+Sunny Day * 10, 26.3% of sets
+Fire Blast * 10, 26.3% of sets
+Solar Beam * 10, 26.3% of sets
+Magma Storm * 8, 21.1% of sets
+
+
+Items:
+Focus Sash * 10, 26.3% of sets
+White Herb * 10, 26.3% of sets
+Shuca Berry * 10, 26.3% of sets
+Choice Scarf * 8, 21.1% of sets

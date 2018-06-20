@@ -1,0 +1,18 @@
+Ludicolo, 50 sets
+Moves:
+Leech Seed * 42, 84% of sets
+Rain Dance * 31, 62% of sets
+Giga Drain * 31, 62% of sets
+Fake Out * 19, 38% of sets
+Grass Knot * 19, 38% of sets
+Toxic * 17, 34% of sets
+Protect * 14, 28% of sets
+Hydro Pump * 11, 22% of sets
+Surf * 8, 16% of sets
+Tickle * 8, 16% of sets
+
+
+Items:
+Leftovers * 31, 62% of sets
+Kee Berry * 11, 22% of sets
+Tanga Berry * 8, 16% of sets

@@ -1,0 +1,22 @@
+Dugtrio, 46 sets
+Moves:
+Sandstorm * 30, 65.2% of sets
+Iron Head * 26, 56.5% of sets
+Dig * 22, 47.8% of sets
+Rock Slide * 16, 34.8% of sets
+Fissure * 14, 30.4% of sets
+Toxic * 14, 30.4% of sets
+Substitute * 14, 30.4% of sets
+Earthquake * 10, 21.7% of sets
+Night Slash * 10, 21.7% of sets
+Stone Edge * 10, 21.7% of sets
+Sand Attack * 6, 13% of sets
+Pursuit * 6, 13% of sets
+Tri Attack * 6, 13% of sets
+
+
+Items:
+Expert Belt * 16, 34.8% of sets
+Bright Powder * 14, 30.4% of sets
+Choice Band * 10, 21.7% of sets
+Passho Berry * 6, 13% of sets

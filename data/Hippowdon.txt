@@ -1,0 +1,17 @@
+Hippowdon, 51 sets
+Moves:
+Crunch * 51, 100% of sets
+Earthquake * 42, 82.4% of sets
+Yawn * 30, 58.8% of sets
+Curse * 21, 41.2% of sets
+Whirlwind * 17, 33.3% of sets
+Slack Off * 13, 25.5% of sets
+Rest * 12, 23.5% of sets
+Rock Slide * 9, 17.6% of sets
+Protect * 9, 17.6% of sets
+
+
+Items:
+Sitrus Berry * 22, 43.1% of sets
+Soft Sand * 17, 33.3% of sets
+Chesto Berry * 12, 23.5% of sets

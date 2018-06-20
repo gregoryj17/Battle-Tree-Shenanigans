@@ -1,0 +1,25 @@
+Sandslash, 35 sets
+Moves:
+Dig * 12, 34.3% of sets
+Poison Jab * 12, 34.3% of sets
+Swagger * 12, 34.3% of sets
+Sand Attack * 12, 34.3% of sets
+Sandstorm * 10, 28.6% of sets
+Earthquake * 10, 28.6% of sets
+Stone Edge * 10, 28.6% of sets
+X-scissor * 10, 28.6% of sets
+Counter * 7, 20% of sets
+Defense Curl * 7, 20% of sets
+Ice Ball * 7, 20% of sets
+Gyro Ball * 7, 20% of sets
+Hail * 6, 17.1% of sets
+Icicle Spear * 6, 17.1% of sets
+Iron Head * 6, 17.1% of sets
+Aurora Veil * 6, 17.1% of sets
+
+
+Items:
+Quick Claw * 12, 34.3% of sets
+Smooth Rock * 10, 28.6% of sets
+Focus Sash * 7, 20% of sets
+Icium Z * 6, 17.1% of sets

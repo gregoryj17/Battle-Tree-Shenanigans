@@ -1,0 +1,21 @@
+Mandibuzz, 31 sets
+Moves:
+Roost * 18, 58.1% of sets
+Nasty Plot * 13, 41.9% of sets
+Dark Pulse * 13, 41.9% of sets
+Air Slash * 13, 41.9% of sets
+Taunt * 11, 35.5% of sets
+Flatter * 11, 35.5% of sets
+Toxic * 11, 35.5% of sets
+Tailwind * 8, 25.8% of sets
+Substitute * 7, 22.6% of sets
+Swagger * 7, 22.6% of sets
+Punishment * 7, 22.6% of sets
+Shadow Ball * 5, 16.1% of sets
+
+
+Items:
+Wacan Berry * 11, 35.5% of sets
+Sitrus Berry * 8, 25.8% of sets
+Leftovers * 7, 22.6% of sets
+Roseli Berry * 5, 16.1% of sets

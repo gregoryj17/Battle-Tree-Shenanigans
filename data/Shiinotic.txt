@@ -1,0 +1,21 @@
+Shiinotic, 45 sets
+Moves:
+Moonblast * 36, 80% of sets
+Spore * 25, 55.6% of sets
+Giga Drain * 24, 53.3% of sets
+Strength Sap * 13, 28.9% of sets
+Grass Knot * 12, 26.7% of sets
+Moonlight * 12, 26.7% of sets
+Sludge Bomb * 11, 24.4% of sets
+Charge Beam * 11, 24.4% of sets
+Flash * 9, 20% of sets
+Light Screen * 9, 20% of sets
+Confuse Ray * 9, 20% of sets
+Dazzling Gleam * 9, 20% of sets
+
+
+Items:
+Leftovers * 13, 28.9% of sets
+Weakness Policy * 12, 26.7% of sets
+Assault Vest * 11, 24.4% of sets
+Normalium Z * 9, 20% of sets

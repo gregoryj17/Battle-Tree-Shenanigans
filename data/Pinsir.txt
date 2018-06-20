@@ -1,0 +1,20 @@
+Pinsir, 26 sets
+Moves:
+X-scissor * 18, 69.2% of sets
+Thrash * 14, 53.8% of sets
+Bug Bite * 13, 50% of sets
+Stone Edge * 11, 42.3% of sets
+Brick Break * 8, 30.8% of sets
+Swords Dance * 8, 30.8% of sets
+Earthquake * 7, 26.9% of sets
+Close Combat * 7, 26.9% of sets
+Guillotine * 7, 26.9% of sets
+Superpower * 6, 23.1% of sets
+Feint * 5, 19.2% of sets
+
+
+Items:
+Persim Berry * 8, 30.8% of sets
+Choice Scarf * 7, 26.9% of sets
+Pinsirite * 6, 23.1% of sets
+Rockium Z * 5, 19.2% of sets

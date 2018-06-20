@@ -1,0 +1,21 @@
+Mamoswine, 40 sets
+Moves:
+Earthquake * 31, 77.5% of sets
+Stone Edge * 21, 52.5% of sets
+Ice Fang * 21, 52.5% of sets
+Double-edge * 12, 30% of sets
+Hail * 10, 25% of sets
+Avalanche * 10, 25% of sets
+Fissure * 10, 25% of sets
+Bulldoze * 9, 22.5% of sets
+Blizzard * 9, 22.5% of sets
+Double Hit * 9, 22.5% of sets
+Icicle Crash * 9, 22.5% of sets
+Stealth Rock * 9, 22.5% of sets
+
+
+Items:
+Life Orb * 12, 30% of sets
+Lax Incense * 10, 25% of sets
+Zoom Lens * 9, 22.5% of sets
+Passho Berry * 9, 22.5% of sets

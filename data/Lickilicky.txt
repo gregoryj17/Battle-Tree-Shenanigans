@@ -1,0 +1,23 @@
+Lickilicky, 58 sets
+Moves:
+Hammer Arm * 34, 58.6% of sets
+Body Slam * 20, 34.5% of sets
+Knock Off * 20, 34.5% of sets
+Zen Headbutt * 20, 34.5% of sets
+Explosion * 14, 24.1% of sets
+Brutal Swing * 14, 24.1% of sets
+Dragon Tail * 14, 24.1% of sets
+Defense Curl * 12, 20.7% of sets
+Rollout * 12, 20.7% of sets
+Me First * 12, 20.7% of sets
+Power Whip * 12, 20.7% of sets
+Blizzard * 12, 20.7% of sets
+Muddy Water * 12, 20.7% of sets
+Fire Blast * 12, 20.7% of sets
+Thunder * 12, 20.7% of sets
+
+
+Items:
+Normalium Z * 26, 44.8% of sets
+Quick Claw * 20, 34.5% of sets
+Expert Belt * 12, 20.7% of sets

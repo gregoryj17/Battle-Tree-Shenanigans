@@ -1,0 +1,20 @@
+Slowbro, 34 sets
+Moves:
+Psychic * 30, 88.2% of sets
+Surf * 24, 70.6% of sets
+Slack Off * 15, 44.1% of sets
+Blizzard * 13, 38.2% of sets
+Trick Room * 13, 38.2% of sets
+Amnesia * 11, 32.4% of sets
+Water Pulse * 10, 29.4% of sets
+Yawn * 6, 17.6% of sets
+Calm Mind * 6, 17.6% of sets
+Flamethrower * 4, 11.8% of sets
+Ice Beam * 4, 11.8% of sets
+
+
+Items:
+Slowbronite * 13, 38.2% of sets
+Leftovers * 11, 32.4% of sets
+Sitrus Berry * 6, 17.6% of sets
+Quick Claw * 4, 11.8% of sets

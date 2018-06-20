@@ -1,0 +1,22 @@
+Goodra, 51 sets
+Moves:
+Thunder * 35, 68.6% of sets
+Muddy Water * 29, 56.9% of sets
+Dragon Pulse * 29, 56.9% of sets
+Rain Dance * 19, 37.3% of sets
+Draco Meteor * 16, 31.4% of sets
+Blizzard * 16, 31.4% of sets
+Fire Blast * 16, 31.4% of sets
+Substitute * 10, 19.6% of sets
+Sludge Wave * 10, 19.6% of sets
+Aqua Tail * 6, 11.8% of sets
+Body Slam * 6, 11.8% of sets
+Earthquake * 6, 11.8% of sets
+Outrage * 6, 11.8% of sets
+
+
+Items:
+Damp Rock * 19, 37.3% of sets
+White Herb * 16, 31.4% of sets
+Lax Incense * 10, 19.6% of sets
+Lum Berry * 6, 11.8% of sets

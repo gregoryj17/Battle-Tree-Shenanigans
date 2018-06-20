@@ -1,0 +1,19 @@
+Arcanine, 51 sets
+Moves:
+Extreme Speed * 35, 68.6% of sets
+Solar Beam * 31, 60.8% of sets
+Sunny Day * 31, 60.8% of sets
+Overheat * 25, 49% of sets
+Crunch * 20, 39.2% of sets
+Flamethrower * 16, 31.4% of sets
+Burn Up * 16, 31.4% of sets
+Roar * 10, 19.6% of sets
+Close Combat * 10, 19.6% of sets
+Flare Blitz * 10, 19.6% of sets
+
+
+Items:
+Firium Z * 16, 31.4% of sets
+White Herb * 15, 29.4% of sets
+Weakness Policy * 10, 19.6% of sets
+Fightinium Z * 10, 19.6% of sets

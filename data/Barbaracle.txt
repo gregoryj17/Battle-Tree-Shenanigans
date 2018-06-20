@@ -1,0 +1,23 @@
+Barbaracle, 44 sets
+Moves:
+Stone Edge * 25, 56.8% of sets
+Razor Shell * 25, 56.8% of sets
+Cross Chop * 13, 29.5% of sets
+Shadow Claw * 13, 29.5% of sets
+Shell Smash * 12, 27.3% of sets
+Double Team * 12, 27.3% of sets
+Dragon Claw * 12, 27.3% of sets
+Earthquake * 12, 27.3% of sets
+X-scissor * 12, 27.3% of sets
+Night Slash * 12, 27.3% of sets
+Ancient Power * 7, 15.9% of sets
+Blizzard * 7, 15.9% of sets
+Surf * 7, 15.9% of sets
+Focus Blast * 7, 15.9% of sets
+
+
+Items:
+Razor Claw * 13, 29.5% of sets
+Bright Powder * 12, 27.3% of sets
+Expert Belt * 12, 27.3% of sets
+Wise Glasses * 7, 15.9% of sets

@@ -1,0 +1,22 @@
+Delphox, 36 sets
+Moves:
+Psychic * 29, 80.6% of sets
+Shadow Ball * 15, 41.7% of sets
+Sunny Day * 15, 41.7% of sets
+Solar Beam * 15, 41.7% of sets
+Fire Blast * 15, 41.7% of sets
+Overheat * 8, 22.2% of sets
+Psyshock * 8, 22.2% of sets
+Role Play * 7, 19.4% of sets
+Switcheroo * 7, 19.4% of sets
+Mystical Fire * 7, 19.4% of sets
+Confide * 6, 16.7% of sets
+Flamethrower * 6, 16.7% of sets
+Round * 6, 16.7% of sets
+
+
+Items:
+Heat Rock * 15, 41.7% of sets
+White Herb * 8, 22.2% of sets
+Flame Orb * 7, 19.4% of sets
+Petaya Berry * 6, 16.7% of sets

@@ -1,0 +1,23 @@
+Latios, 42 sets
+Moves:
+Draco Meteor * 21, 50% of sets
+Psychic * 21, 50% of sets
+Thunder * 12, 28.6% of sets
+Energy Ball * 12, 28.6% of sets
+Zen Headbutt * 12, 28.6% of sets
+Earthquake * 12, 28.6% of sets
+Dragon Dance * 12, 28.6% of sets
+Dragon Claw * 12, 28.6% of sets
+Calm Mind * 9, 21.4% of sets
+Luster Purge * 9, 21.4% of sets
+Dragon Pulse * 9, 21.4% of sets
+Recover * 9, 21.4% of sets
+Thunderbolt * 9, 21.4% of sets
+Protect * 9, 21.4% of sets
+
+
+Items:
+Choice Specs * 12, 28.6% of sets
+Latiosite * 12, 28.6% of sets
+Lax Incense * 9, 21.4% of sets
+White Herb * 9, 21.4% of sets

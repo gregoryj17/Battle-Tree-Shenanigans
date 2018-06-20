@@ -1,0 +1,25 @@
+Dragonite, 41 sets
+Moves:
+Outrage * 13, 31.7% of sets
+Earthquake * 13, 31.7% of sets
+Giga Impact * 13, 31.7% of sets
+Stone Edge * 13, 31.7% of sets
+Dragon Rush * 12, 29.3% of sets
+Iron Tail * 12, 29.3% of sets
+Extreme Speed * 12, 29.3% of sets
+Fire Punch * 12, 29.3% of sets
+Toxic * 9, 22% of sets
+Thunder Wave * 9, 22% of sets
+Roost * 9, 22% of sets
+Rock Slide * 9, 22% of sets
+Dragon Pulse * 7, 17.1% of sets
+Ice Beam * 7, 17.1% of sets
+Thunderbolt * 7, 17.1% of sets
+Safeguard * 7, 17.1% of sets
+
+
+Items:
+Choice Band * 13, 31.7% of sets
+Snowball * 12, 29.3% of sets
+Custap Berry * 9, 22% of sets
+Salac Berry * 7, 17.1% of sets

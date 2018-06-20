@@ -1,0 +1,5510 @@
+Abomasnow, 28 sets
+Moves:
+Blizzard * 18, 64.3% of sets
+Frost Breath * 10, 35.7% of sets
+Icy Wind * 10, 35.7% of sets
+Leech Seed * 10, 35.7% of sets
+Ingrain * 10, 35.7% of sets
+Focus Blast * 9, 32.1% of sets
+Ice Shard * 9, 32.1% of sets
+Wood Hammer * 9, 32.1% of sets
+Brick Break * 9, 32.1% of sets
+Double Team * 9, 32.1% of sets
+Sheer Cold * 5, 17.9% of sets
+Protect * 4, 14.3% of sets
+
+
+Items:
+Leftovers * 10, 35.7% of sets
+Miracle Seed * 9, 32.1% of sets
+Focus Sash * 5, 17.9% of sets
+Abomasite * 4, 14.3% of sets
+
+Absol, 31 sets
+Moves:
+Sucker Punch * 18, 58.1% of sets
+Play Rough * 15, 48.4% of sets
+Payback * 13, 41.9% of sets
+Mean Look * 13, 41.9% of sets
+Double Team * 13, 41.9% of sets
+Baton Pass * 13, 41.9% of sets
+Night Slash * 9, 29% of sets
+Zen Headbutt * 9, 29% of sets
+Megahorn * 6, 19.4% of sets
+Stone Edge * 6, 19.4% of sets
+Magic Coat * 3, 9.7% of sets
+Psycho Cut * 3, 9.7% of sets
+Taunt * 3, 9.7% of sets
+
+
+Items:
+Sitrus Berry * 13, 41.9% of sets
+Focus Sash * 9, 29% of sets
+Absolite * 6, 19.4% of sets
+Chople Berry * 3, 9.7% of sets
+
+Accelgor, 29 sets
+Moves:
+Bug Buzz * 29, 100% of sets
+Encore * 17, 58.6% of sets
+Focus Blast * 13, 44.8% of sets
+Giga Drain * 12, 41.4% of sets
+Me First * 12, 41.4% of sets
+U-turn * 8, 27.6% of sets
+Final Gambit * 8, 27.6% of sets
+Protect * 5, 17.2% of sets
+Energy Ball * 4, 13.8% of sets
+Sludge Bomb * 4, 13.8% of sets
+Endure * 4, 13.8% of sets
+
+
+Items:
+Focus Sash * 25, 86.2% of sets
+Weakness Policy * 4, 13.8% of sets
+
+Aerodactyl, 41 sets
+Moves:
+Sky Drop * 19, 46.3% of sets
+Rock Slide * 18, 43.9% of sets
+Crunch * 18, 43.9% of sets
+Iron Head * 12, 29.3% of sets
+Fire Fang * 12, 29.3% of sets
+Thunder Fang * 12, 29.3% of sets
+Stone Edge * 11, 26.8% of sets
+Aerial Ace * 11, 26.8% of sets
+Earthquake * 11, 26.8% of sets
+Roost * 7, 17.1% of sets
+
+
+Items:
+Aerodactylite * 12, 29.3% of sets
+Choice Scarf * 11, 26.8% of sets
+Choice Band * 11, 26.8% of sets
+Passho Berry * 7, 17.1% of sets
+
+Aggron, 43 sets
+Moves:
+Metal Burst * 23, 53.5% of sets
+Heavy Slam * 17, 39.5% of sets
+Dragon Rush * 17, 39.5% of sets
+Thunder Wave * 17, 39.5% of sets
+Stone Edge * 17, 39.5% of sets
+Taunt * 15, 34.9% of sets
+Earthquake * 15, 34.9% of sets
+Shadow Claw * 15, 34.9% of sets
+Protect * 8, 18.6% of sets
+Roar * 8, 18.6% of sets
+Stealth Rock * 8, 18.6% of sets
+Surf * 3, 7% of sets
+Flash Cannon * 3, 7% of sets
+Focus Blast * 3, 7% of sets
+Round * 3, 7% of sets
+
+
+Items:
+Aggronite * 17, 39.5% of sets
+Shuca Berry * 15, 34.9% of sets
+Focus Sash * 8, 18.6% of sets
+Kings Rock * 3, 7% of sets
+
+Alakazam, 53 sets
+Moves:
+Psychic * 53, 100% of sets
+Focus Blast * 31, 58.5% of sets
+Shadow Ball * 16, 30.2% of sets
+Grass Knot * 16, 30.2% of sets
+Energy Ball * 16, 30.2% of sets
+Telekinesis * 16, 30.2% of sets
+Guard Split * 16, 30.2% of sets
+Dazzling Gleam * 15, 28.3% of sets
+Trick * 15, 28.3% of sets
+Psych Up * 6, 11.3% of sets
+Encore * 6, 11.3% of sets
+Protect * 6, 11.3% of sets
+
+
+Items:
+Alakazite * 16, 30.2% of sets
+Twisted Spoon * 16, 30.2% of sets
+Choice Specs * 15, 28.3% of sets
+Focus Sash * 6, 11.3% of sets
+
+Altaria, 26 sets
+Moves:
+Cotton Guard * 18, 69.2% of sets
+Flamethrower * 12, 46.2% of sets
+Dragon Pulse * 12, 46.2% of sets
+Roost * 12, 46.2% of sets
+Dragon Dance * 8, 30.8% of sets
+Sing * 6, 23.1% of sets
+Moonblast * 6, 23.1% of sets
+Dream Eater * 6, 23.1% of sets
+Dragon Rush * 5, 19.2% of sets
+Giga Impact * 5, 19.2% of sets
+Earthquake * 5, 19.2% of sets
+Dragon Claw * 3, 11.5% of sets
+Pluck * 3, 11.5% of sets
+Steel Wing * 3, 11.5% of sets
+
+
+Items:
+Sitrus Berry * 12, 46.2% of sets
+Wide Lens * 6, 23.1% of sets
+Altarianite * 5, 19.2% of sets
+Snowball * 3, 11.5% of sets
+
+Ambipom, 39 sets
+Moves:
+Fling * 24, 61.5% of sets
+Fake Out * 23, 59% of sets
+Payback * 17, 43.6% of sets
+Thief * 15, 38.5% of sets
+U-turn * 15, 38.5% of sets
+Taunt * 9, 23.1% of sets
+Return * 9, 23.1% of sets
+Double Hit * 8, 20.5% of sets
+Brick Break * 8, 20.5% of sets
+Grass Knot * 7, 17.9% of sets
+Thunderbolt * 7, 17.9% of sets
+Nasty Plot * 7, 17.9% of sets
+Counter * 7, 17.9% of sets
+
+
+Items:
+Kings Rock * 24, 61.5% of sets
+Life Orb * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets
+
+Amoonguss, 41 sets
+Moves:
+Giga Drain * 28, 68.3% of sets
+Spore * 25, 61% of sets
+Toxic * 16, 39% of sets
+Rage Powder * 14, 34.1% of sets
+Sludge Bomb * 14, 34.1% of sets
+Energy Ball * 13, 31.7% of sets
+Venoshock * 13, 31.7% of sets
+Confide * 13, 31.7% of sets
+Clear Smog * 11, 26.8% of sets
+Synthesis * 11, 26.8% of sets
+Double Team * 3, 7.3% of sets
+Swagger * 3, 7.3% of sets
+
+
+Items:
+Rocky Helmet * 14, 34.1% of sets
+Petaya Berry * 13, 31.7% of sets
+Black Sludge * 11, 26.8% of sets
+Bright Powder * 3, 7.3% of sets
+
+Ampharos, 31 sets
+Moves:
+Thunder Wave * 17, 54.8% of sets
+Charge Beam * 17, 54.8% of sets
+Hyper Beam * 10, 32.3% of sets
+Rest * 10, 32.3% of sets
+Thunder * 9, 29% of sets
+Focus Blast * 9, 29% of sets
+Dragon Pulse * 9, 29% of sets
+Confuse Ray * 9, 29% of sets
+Power Gem * 7, 22.6% of sets
+Discharge * 7, 22.6% of sets
+Brick Break * 5, 16.1% of sets
+Thunder Punch * 5, 16.1% of sets
+Screech * 5, 16.1% of sets
+Odor Sleuth * 5, 16.1% of sets
+
+
+Items:
+Chesto Berry * 10, 32.3% of sets
+Ampharosite * 9, 29% of sets
+Shuca Berry * 7, 22.6% of sets
+Lum Berry * 5, 16.1% of sets
+
+Araquanid, 24 sets
+Moves:
+Stockpile * 14, 58.3% of sets
+Lunge * 13, 54.2% of sets
+Liquidation * 13, 54.2% of sets
+Double Team * 8, 33.3% of sets
+Toxic * 8, 33.3% of sets
+Aqua Ring * 8, 33.3% of sets
+Poison Jab * 7, 29.2% of sets
+Protect * 7, 29.2% of sets
+Crunch * 6, 25% of sets
+Mirror Coat * 3, 12.5% of sets
+Leech Life * 3, 12.5% of sets
+Blizzard * 3, 12.5% of sets
+Scald * 3, 12.5% of sets
+
+
+Items:
+Leftovers * 13, 54.2% of sets
+Bright Powder * 8, 33.3% of sets
+Sitrus Berry * 3, 12.5% of sets
+
+Arcanine, 51 sets
+Moves:
+Extreme Speed * 35, 68.6% of sets
+Solar Beam * 31, 60.8% of sets
+Sunny Day * 31, 60.8% of sets
+Overheat * 25, 49% of sets
+Crunch * 20, 39.2% of sets
+Flamethrower * 16, 31.4% of sets
+Burn Up * 16, 31.4% of sets
+Roar * 10, 19.6% of sets
+Close Combat * 10, 19.6% of sets
+Flare Blitz * 10, 19.6% of sets
+
+
+Items:
+Firium Z * 16, 31.4% of sets
+White Herb * 15, 29.4% of sets
+Weakness Policy * 10, 19.6% of sets
+Fightinium Z * 10, 19.6% of sets
+
+Archeops, 40 sets
+Moves:
+Earthquake * 32, 80% of sets
+Aerial Ace * 27, 67.5% of sets
+U-turn * 22, 55% of sets
+Head Smash * 14, 35% of sets
+Rock Slide * 13, 32.5% of sets
+Protect * 13, 32.5% of sets
+Quick Attack * 8, 20% of sets
+Acrobatics * 8, 20% of sets
+Crunch * 8, 20% of sets
+Earth Power * 5, 12.5% of sets
+Endeavor * 5, 12.5% of sets
+Ancient Power * 5, 12.5% of sets
+
+
+Items:
+Sitrus Berry * 21, 52.5% of sets
+Choice Band * 14, 35% of sets
+Enigma Berry * 5, 12.5% of sets
+
+Armaldo, 40 sets
+Moves:
+X-scissor * 40, 100% of sets
+Earthquake * 29, 72.5% of sets
+Rock Slide * 20, 50% of sets
+Iron Defense * 12, 30% of sets
+Rock Blast * 11, 27.5% of sets
+Rest * 11, 27.5% of sets
+Curse * 11, 27.5% of sets
+Cross Poison * 9, 22.5% of sets
+Stone Edge * 9, 22.5% of sets
+Rock Polish * 8, 20% of sets
+
+
+Items:
+Life Orb * 12, 30% of sets
+Chesto Berry * 11, 27.5% of sets
+Choice Band * 9, 22.5% of sets
+Razor Fang * 8, 20% of sets
+
+Aromatisse, 46 sets
+Moves:
+Dazzling Gleam * 19, 41.3% of sets
+Charm * 17, 37% of sets
+Sweet Kiss * 17, 37% of sets
+Attract * 17, 37% of sets
+Draining Kiss * 17, 37% of sets
+Aromatic Mist * 15, 32.6% of sets
+Heal Pulse * 15, 32.6% of sets
+Trick Room * 15, 32.6% of sets
+Flash Cannon * 10, 21.7% of sets
+Thunder * 10, 21.7% of sets
+Psyshock * 10, 21.7% of sets
+Moonblast * 10, 21.7% of sets
+Round * 4, 8.7% of sets
+Psychic * 4, 8.7% of sets
+Energy Ball * 4, 8.7% of sets
+
+
+Items:
+Lax Incense * 17, 37% of sets
+Leftovers * 15, 32.6% of sets
+Expert Belt * 10, 21.7% of sets
+Assault Vest * 4, 8.7% of sets
+
+Articuno, 24 sets
+Moves:
+Blizzard * 12, 50% of sets
+Hail * 8, 33.3% of sets
+Fly * 8, 33.3% of sets
+Roost * 8, 33.3% of sets
+Sheer Cold * 8, 33.3% of sets
+Mind Reader * 8, 33.3% of sets
+Ice Shard * 8, 33.3% of sets
+Ice Beam * 8, 33.3% of sets
+Frost Breath * 4, 16.7% of sets
+Reflect * 4, 16.7% of sets
+Steel Wing * 4, 16.7% of sets
+U-turn * 4, 16.7% of sets
+Tailwind * 4, 16.7% of sets
+Sky Drop * 4, 16.7% of sets
+Protect * 4, 16.7% of sets
+
+
+Items:
+Icy Rock * 8, 33.3% of sets
+Lum Berry * 8, 33.3% of sets
+Charti Berry * 4, 16.7% of sets
+Leftovers * 4, 16.7% of sets
+
+Audino, 34 sets
+Moves:
+Draining Kiss * 18, 52.9% of sets
+Hyper Voice * 16, 47.1% of sets
+Fire Blast * 16, 47.1% of sets
+Heal Pulse * 10, 29.4% of sets
+Toxic * 10, 29.4% of sets
+Thunder Wave * 10, 29.4% of sets
+Flamethrower * 8, 23.5% of sets
+Healing Wish * 8, 23.5% of sets
+Calm Mind * 8, 23.5% of sets
+Yawn * 8, 23.5% of sets
+Trick Room * 8, 23.5% of sets
+Thunder * 8, 23.5% of sets
+Blizzard * 8, 23.5% of sets
+
+
+Items:
+Leftovers * 10, 29.4% of sets
+Audinite * 8, 23.5% of sets
+Firium Z * 8, 23.5% of sets
+Choice Specs * 8, 23.5% of sets
+
+Aurorus, 32 sets
+Moves:
+Hyper Beam * 10, 31.2% of sets
+Flash Cannon * 10, 31.2% of sets
+Thunder * 10, 31.2% of sets
+Psychic * 10, 31.2% of sets
+Substitute * 9, 28.1% of sets
+Thunder Wave * 9, 28.1% of sets
+Round * 9, 28.1% of sets
+Thunderbolt * 9, 28.1% of sets
+Ancient Power * 7, 21.9% of sets
+Hail * 7, 21.9% of sets
+Sandstorm * 7, 21.9% of sets
+Freeze-dry * 7, 21.9% of sets
+Giga Impact * 6, 18.8% of sets
+Earthquake * 6, 18.8% of sets
+Stone Edge * 6, 18.8% of sets
+Frost Breath * 6, 18.8% of sets
+
+
+Items:
+Life Orb * 10, 31.2% of sets
+Sitrus Berry * 9, 28.1% of sets
+Leftovers * 7, 21.9% of sets
+Expert Belt * 6, 18.8% of sets
+
+Avalugg, 33 sets
+Moves:
+Avalanche * 20, 60.6% of sets
+Confide * 11, 33.3% of sets
+Protect * 11, 33.3% of sets
+Toxic * 11, 33.3% of sets
+Stone Edge * 9, 27.3% of sets
+Gyro Ball * 9, 27.3% of sets
+Earthquake * 9, 27.3% of sets
+Rest * 7, 21.2% of sets
+Curse * 7, 21.2% of sets
+Frost Breath * 7, 21.2% of sets
+Skull Bash * 7, 21.2% of sets
+Hail * 6, 18.2% of sets
+Blizzard * 6, 18.2% of sets
+Recover * 6, 18.2% of sets
+Flash Cannon * 6, 18.2% of sets
+
+
+Items:
+Leftovers * 11, 33.3% of sets
+Iron Ball * 9, 27.3% of sets
+Apicot Berry * 7, 21.2% of sets
+Icy Rock * 6, 18.2% of sets
+
+Azelf, 32 sets
+Moves:
+Explosion * 8, 25% of sets
+Payback * 8, 25% of sets
+Acrobatics * 8, 25% of sets
+Rest * 8, 25% of sets
+Charge Beam * 8, 25% of sets
+Extrasensory * 8, 25% of sets
+Thunder Wave * 8, 25% of sets
+Grass Knot * 8, 25% of sets
+Nasty Plot * 8, 25% of sets
+Psyshock * 8, 25% of sets
+Energy Ball * 8, 25% of sets
+Thunderbolt * 8, 25% of sets
+Psychic * 8, 25% of sets
+Fire Blast * 8, 25% of sets
+Thunder * 8, 25% of sets
+Shadow Ball * 8, 25% of sets
+
+
+Items:
+Weakness Policy * 8, 25% of sets
+Electrium Z * 8, 25% of sets
+Focus Sash * 8, 25% of sets
+Expert Belt * 8, 25% of sets
+
+Banette, 18 sets
+Moves:
+Shadow Claw * 9, 50% of sets
+Will-o-wisp * 7, 38.9% of sets
+Gunk Shot * 7, 38.9% of sets
+Knock Off * 6, 33.3% of sets
+Curse * 6, 33.3% of sets
+Pursuit * 6, 33.3% of sets
+Dazzling Gleam * 5, 27.8% of sets
+Snatch * 5, 27.8% of sets
+Dark Pulse * 5, 27.8% of sets
+Ominous Wind * 5, 27.8% of sets
+Shadow Sneak * 4, 22.2% of sets
+Destiny Bond * 4, 22.2% of sets
+Sucker Punch * 3, 16.7% of sets
+
+
+Items:
+Banettite * 7, 38.9% of sets
+Muscle Band * 6, 33.3% of sets
+Fairium Z * 5, 27.8% of sets
+
+Barbaracle, 44 sets
+Moves:
+Stone Edge * 25, 56.8% of sets
+Razor Shell * 25, 56.8% of sets
+Cross Chop * 13, 29.5% of sets
+Shadow Claw * 13, 29.5% of sets
+Shell Smash * 12, 27.3% of sets
+Double Team * 12, 27.3% of sets
+Dragon Claw * 12, 27.3% of sets
+Earthquake * 12, 27.3% of sets
+X-scissor * 12, 27.3% of sets
+Night Slash * 12, 27.3% of sets
+Ancient Power * 7, 15.9% of sets
+Blizzard * 7, 15.9% of sets
+Surf * 7, 15.9% of sets
+Focus Blast * 7, 15.9% of sets
+
+
+Items:
+Razor Claw * 13, 29.5% of sets
+Bright Powder * 12, 27.3% of sets
+Expert Belt * 12, 27.3% of sets
+Wise Glasses * 7, 15.9% of sets
+
+Bastiodon, 43 sets
+Moves:
+Wide Guard * 25, 58.1% of sets
+Metal Burst * 25, 58.1% of sets
+Iron Defense * 18, 41.9% of sets
+Rock Slide * 15, 34.9% of sets
+Curse * 15, 34.9% of sets
+Stone Edge * 12, 27.9% of sets
+Fissure * 12, 27.9% of sets
+Double Team * 12, 27.9% of sets
+Iron Head * 10, 23.3% of sets
+Taunt * 10, 23.3% of sets
+Round * 6, 14% of sets
+Rest * 6, 14% of sets
+Ancient Power * 6, 14% of sets
+
+
+Items:
+Sitrus Berry * 15, 34.9% of sets
+Leftovers * 12, 27.9% of sets
+Enigma Berry * 10, 23.3% of sets
+Chesto Berry * 6, 14% of sets
+
+Beartic, 44 sets
+Moves:
+Avalanche * 25, 56.8% of sets
+Icy Wind * 19, 43.2% of sets
+Rock Slide * 19, 43.2% of sets
+Brick Break * 19, 43.2% of sets
+Shadow Claw * 13, 29.5% of sets
+Stone Edge * 13, 29.5% of sets
+Bulk Up * 13, 29.5% of sets
+Hail * 12, 27.3% of sets
+Grass Knot * 12, 27.3% of sets
+Blizzard * 12, 27.3% of sets
+Swords Dance * 12, 27.3% of sets
+Icicle Crash * 7, 15.9% of sets
+
+
+Items:
+Sitrus Berry * 25, 56.8% of sets
+Lax Incense * 12, 27.3% of sets
+Icium Z * 7, 15.9% of sets
+
+Beedrill, 32 sets
+Moves:
+Poison Jab * 29, 90.6% of sets
+Toxic * 17, 53.1% of sets
+Brick Break * 15, 46.9% of sets
+Pursuit * 14, 43.8% of sets
+Fell Stinger * 14, 43.8% of sets
+Protect * 10, 31.2% of sets
+U-turn * 8, 25% of sets
+X-scissor * 8, 25% of sets
+Pin Missile * 7, 21.9% of sets
+Infestation * 3, 9.4% of sets
+Attract * 3, 9.4% of sets
+
+
+Items:
+Beedrillite * 15, 46.9% of sets
+Expert Belt * 14, 43.8% of sets
+Occa Berry * 3, 9.4% of sets
+
+Bewear, 36 sets
+Moves:
+Hammer Arm * 17, 47.2% of sets
+Payback * 16, 44.4% of sets
+Thrash * 13, 36.1% of sets
+Brutal Swing * 13, 36.1% of sets
+Low Sweep * 13, 36.1% of sets
+Wide Guard * 13, 36.1% of sets
+Giga Impact * 10, 27.8% of sets
+Earthquake * 10, 27.8% of sets
+Ice Punch * 7, 19.4% of sets
+Thunder Punch * 7, 19.4% of sets
+Swords Dance * 7, 19.4% of sets
+Bulk Up * 6, 16.7% of sets
+Rest * 6, 16.7% of sets
+Force Palm * 6, 16.7% of sets
+
+
+Items:
+Persim Berry * 13, 36.1% of sets
+Normalium Z * 10, 27.8% of sets
+Quick Claw * 7, 19.4% of sets
+Chesto Berry * 6, 16.7% of sets
+
+Bisharp, 47 sets
+Moves:
+Night Slash * 31, 66% of sets
+Iron Head * 30, 63.8% of sets
+Taunt * 30, 63.8% of sets
+Metal Burst * 30, 63.8% of sets
+Sucker Punch * 27, 57.4% of sets
+Low Sweep * 17, 36.2% of sets
+Metal Claw * 17, 36.2% of sets
+Aerial Ace * 3, 6.4% of sets
+Scary Face * 3, 6.4% of sets
+
+
+Items:
+Chople Berry * 17, 36.2% of sets
+Sitrus Berry * 17, 36.2% of sets
+Focus Sash * 13, 27.7% of sets
+
+Blastoise, 33 sets
+Moves:
+Rock Slide * 18, 54.5% of sets
+Aqua Tail * 18, 54.5% of sets
+Dark Pulse * 15, 45.5% of sets
+Fake Out * 10, 30.3% of sets
+Earthquake * 10, 30.3% of sets
+Yawn * 9, 27.3% of sets
+Hydro Pump * 9, 27.3% of sets
+Blizzard * 9, 27.3% of sets
+Aqua Ring * 8, 24.2% of sets
+Iron Defense * 8, 24.2% of sets
+Water Pulse * 6, 18.2% of sets
+Aura Sphere * 6, 18.2% of sets
+Dragon Pulse * 6, 18.2% of sets
+
+
+Items:
+Leftovers * 10, 30.3% of sets
+Custap Berry * 9, 27.3% of sets
+Zoom Lens * 8, 24.2% of sets
+Blastoisinite * 6, 18.2% of sets
+
+Blaziken, 31 sets
+Moves:
+High Jump Kick * 19, 61.3% of sets
+Flare Blitz * 19, 61.3% of sets
+Shadow Claw * 10, 32.3% of sets
+Earthquake * 10, 32.3% of sets
+Counter * 9, 29% of sets
+Flamethrower * 9, 29% of sets
+Will-o-wisp * 9, 29% of sets
+Night Slash * 9, 29% of sets
+Stone Edge * 9, 29% of sets
+Brave Bird * 9, 29% of sets
+Blaze Kick * 3, 9.7% of sets
+Flame Charge * 3, 9.7% of sets
+Endure * 3, 9.7% of sets
+Reversal * 3, 9.7% of sets
+
+
+Items:
+Salac Berry * 12, 38.7% of sets
+Choice Band * 10, 32.3% of sets
+Blazikenite * 9, 29% of sets
+
+Blissey, 42 sets
+Moves:
+Thunderbolt * 12, 28.6% of sets
+Ice Beam * 12, 28.6% of sets
+Counter * 12, 28.6% of sets
+Calm Mind * 12, 28.6% of sets
+Toxic * 12, 28.6% of sets
+Minimize * 12, 28.6% of sets
+Mud Bomb * 12, 28.6% of sets
+Soft-boiled * 12, 28.6% of sets
+Attract * 10, 23.8% of sets
+Round * 10, 23.8% of sets
+Heal Pulse * 10, 23.8% of sets
+Aromatherapy * 10, 23.8% of sets
+Charge Beam * 8, 19% of sets
+Shadow Ball * 8, 19% of sets
+Grass Knot * 8, 19% of sets
+Thunder Wave * 8, 19% of sets
+
+
+Items:
+Leftovers * 22, 52.4% of sets
+Chople Berry * 12, 28.6% of sets
+Custap Berry * 8, 19% of sets
+
+Bouffalant, 26 sets
+Moves:
+Head Charge * 26, 100% of sets
+Pursuit * 15, 57.7% of sets
+Earthquake * 11, 42.3% of sets
+Payback * 11, 42.3% of sets
+Scary Face * 10, 38.5% of sets
+Aerial Ace * 10, 38.5% of sets
+Swords Dance * 6, 23.1% of sets
+Protect * 5, 19.2% of sets
+Revenge * 5, 19.2% of sets
+Swagger * 5, 19.2% of sets
+
+
+Items:
+Silk Scarf * 10, 38.5% of sets
+Sitrus Berry * 6, 23.1% of sets
+Life Orb * 5, 19.2% of sets
+Chople Berry * 5, 19.2% of sets
+
+Braviary, 27 sets
+Moves:
+Rock Slide * 16, 59.3% of sets
+Tailwind * 15, 55.6% of sets
+U-turn * 12, 44.4% of sets
+Superpower * 11, 40.7% of sets
+Air Slash * 11, 40.7% of sets
+Sky Drop * 11, 40.7% of sets
+Brave Bird * 9, 33.3% of sets
+Thrash * 7, 25.9% of sets
+Bulk Up * 7, 25.9% of sets
+Return * 5, 18.5% of sets
+Giga Impact * 4, 14.8% of sets
+
+
+Items:
+Kings Rock * 11, 40.7% of sets
+Persim Berry * 7, 25.9% of sets
+Choice Scarf * 5, 18.5% of sets
+Wacan Berry * 4, 14.8% of sets
+
+Breloom, 38 sets
+Moves:
+Focus Punch * 21, 55.3% of sets
+Seed Bomb * 20, 52.6% of sets
+Spore * 20, 52.6% of sets
+Substitute * 19, 50% of sets
+Rock Slide * 11, 28.9% of sets
+Protect * 10, 26.3% of sets
+Leech Seed * 10, 26.3% of sets
+Wake-up Slap * 9, 23.7% of sets
+Fake Tears * 8, 21.1% of sets
+Helping Hand * 8, 21.1% of sets
+Mach Punch * 8, 21.1% of sets
+Stun Spore * 8, 21.1% of sets
+
+
+Items:
+Toxic Orb * 19, 50% of sets
+Focus Sash * 11, 28.9% of sets
+Fightinium Z * 8, 21.1% of sets
+
+Bronzong, 41 sets
+Moves:
+Gyro Ball * 34, 82.9% of sets
+Trick Room * 26, 63.4% of sets
+Rain Dance * 22, 53.7% of sets
+Rock Slide * 19, 46.3% of sets
+Hypnosis * 15, 36.6% of sets
+Safeguard * 11, 26.8% of sets
+Earthquake * 8, 19.5% of sets
+Explosion * 8, 19.5% of sets
+Light Screen * 7, 17.1% of sets
+Charge Beam * 7, 17.1% of sets
+Grass Knot * 7, 17.1% of sets
+
+
+Items:
+Sitrus Berry * 15, 36.6% of sets
+Steelium Z * 11, 26.8% of sets
+Quick Claw * 8, 19.5% of sets
+Damp Rock * 7, 17.1% of sets
+
+Bruxish, 41 sets
+Moves:
+Aqua Jet * 31, 75.6% of sets
+Psychic Fangs * 26, 63.4% of sets
+Ice Fang * 26, 63.4% of sets
+Rain Dance * 16, 39% of sets
+Psychic * 10, 24.4% of sets
+Scald * 10, 24.4% of sets
+Blizzard * 10, 24.4% of sets
+Disable * 10, 24.4% of sets
+Crunch * 10, 24.4% of sets
+Screech * 5, 12.2% of sets
+Confide * 5, 12.2% of sets
+Facade * 5, 12.2% of sets
+
+
+Items:
+Waterium Z * 16, 39% of sets
+Wacan Berry * 10, 24.4% of sets
+Expert Belt * 10, 24.4% of sets
+Normalium Z * 5, 12.2% of sets
+
+Camerupt, 30 sets
+Moves:
+Earth Power * 15, 50% of sets
+Flash Cannon * 15, 50% of sets
+Sunny Day * 8, 26.7% of sets
+Solar Beam * 8, 26.7% of sets
+Eruption * 8, 26.7% of sets
+Ancient Power * 8, 26.7% of sets
+Fire Blast * 8, 26.7% of sets
+Will-o-wisp * 8, 26.7% of sets
+Yawn * 7, 23.3% of sets
+Flamethrower * 7, 23.3% of sets
+Earthquake * 7, 23.3% of sets
+Stone Edge * 7, 23.3% of sets
+Heat Wave * 7, 23.3% of sets
+Protect * 7, 23.3% of sets
+
+
+Items:
+Cameruptite * 15, 50% of sets
+Firium Z * 8, 26.7% of sets
+Passho Berry * 7, 23.3% of sets
+
+Carbink, 40 sets
+Moves:
+Dazzling Gleam * 28, 70% of sets
+Power Gem * 26, 65% of sets
+Trick Room * 14, 35% of sets
+Gyro Ball * 14, 35% of sets
+Reflect * 14, 35% of sets
+Light Screen * 14, 35% of sets
+Safeguard * 14, 35% of sets
+Explosion * 8, 20% of sets
+Psychic * 8, 20% of sets
+Moonblast * 8, 20% of sets
+Toxic * 4, 10% of sets
+Protect * 4, 10% of sets
+Sandstorm * 4, 10% of sets
+
+
+Items:
+Iron Ball * 14, 35% of sets
+Light Clay * 14, 35% of sets
+Scope Lens * 8, 20% of sets
+Smooth Rock * 4, 10% of sets
+
+Carracosta, 43 sets
+Moves:
+Rock Slide * 43, 100% of sets
+Waterfall * 29, 67.4% of sets
+Earthquake * 29, 67.4% of sets
+Rain Dance * 16, 37.2% of sets
+Aqua Jet * 13, 30.2% of sets
+Aqua Tail * 8, 18.6% of sets
+Shell Smash * 8, 18.6% of sets
+Iron Defense * 8, 18.6% of sets
+Swagger * 6, 14% of sets
+Blizzard * 6, 14% of sets
+Hydro Pump * 6, 14% of sets
+
+
+Items:
+Damp Rock * 16, 37.2% of sets
+Weakness Policy * 13, 30.2% of sets
+Sitrus Berry * 8, 18.6% of sets
+Wide Lens * 6, 14% of sets
+
+Chandelure, 33 sets
+Moves:
+Will-o-wisp * 33, 100% of sets
+Shadow Ball * 19, 57.6% of sets
+Heat Wave * 15, 45.5% of sets
+Calm Mind * 10, 30.3% of sets
+Flamethrower * 9, 27.3% of sets
+Confuse Ray * 9, 27.3% of sets
+Hex * 9, 27.3% of sets
+Overheat * 9, 27.3% of sets
+Protect * 9, 27.3% of sets
+Energy Ball * 5, 15.2% of sets
+Rest * 5, 15.2% of sets
+
+
+Items:
+Leftovers * 10, 30.3% of sets
+Spell Tag * 9, 27.3% of sets
+White Herb * 9, 27.3% of sets
+Chesto Berry * 5, 15.2% of sets
+
+Charizard, 44 sets
+Moves:
+Rock Slide * 18, 40.9% of sets
+Dragon Dance * 18, 40.9% of sets
+Dragon Claw * 17, 38.6% of sets
+Shadow Claw * 17, 38.6% of sets
+Heat Wave * 15, 34.1% of sets
+Solar Beam * 15, 34.1% of sets
+Air Slash * 15, 34.1% of sets
+Focus Blast * 15, 34.1% of sets
+Dragon Rush * 12, 27.3% of sets
+Flare Blitz * 12, 27.3% of sets
+Fire Fang * 11, 25% of sets
+Belly Drum * 11, 25% of sets
+
+
+Items:
+Charizardite Y * 15, 34.1% of sets
+Charizardite X * 12, 27.3% of sets
+Salac Berry * 11, 25% of sets
+Charti Berry * 6, 13.6% of sets
+
+Chesnaught, 26 sets
+Moves:
+Wood Hammer * 15, 57.7% of sets
+Earthquake * 12, 46.2% of sets
+Hammer Arm * 9, 34.6% of sets
+Stone Edge * 9, 34.6% of sets
+Focus Blast * 8, 30.8% of sets
+Energy Ball * 8, 30.8% of sets
+Sludge Bomb * 8, 30.8% of sets
+Round * 8, 30.8% of sets
+Taunt * 6, 23.1% of sets
+Spiky Shield * 6, 23.1% of sets
+Feint * 6, 23.1% of sets
+Dragon Claw * 3, 11.5% of sets
+Seed Bomb * 3, 11.5% of sets
+Brick Break * 3, 11.5% of sets
+
+
+Items:
+White Herb * 9, 34.6% of sets
+Life Orb * 8, 30.8% of sets
+Leftovers * 6, 23.1% of sets
+Expert Belt * 3, 11.5% of sets
+
+Clawitzer, 34 sets
+Moves:
+Crabhammer * 10, 29.4% of sets
+Return * 10, 29.4% of sets
+U-turn * 10, 29.4% of sets
+Flail * 10, 29.4% of sets
+Water Pulse * 10, 29.4% of sets
+Dark Pulse * 10, 29.4% of sets
+Dragon Pulse * 10, 29.4% of sets
+Aura Sphere * 10, 29.4% of sets
+Heal Pulse * 9, 26.5% of sets
+Muddy Water * 9, 26.5% of sets
+Double Team * 9, 26.5% of sets
+Confide * 9, 26.5% of sets
+Flash Cannon * 5, 14.7% of sets
+Scald * 5, 14.7% of sets
+Sludge Wave * 5, 14.7% of sets
+Round * 5, 14.7% of sets
+
+
+Items:
+Focus Sash * 10, 29.4% of sets
+Choice Specs * 10, 29.4% of sets
+Bright Powder * 9, 26.5% of sets
+Petaya Berry * 5, 14.7% of sets
+
+Cobalion, 22 sets
+Moves:
+Iron Head * 16, 72.7% of sets
+Focus Blast * 6, 27.3% of sets
+Flash Cannon * 6, 27.3% of sets
+Calm Mind * 6, 27.3% of sets
+Rest * 6, 27.3% of sets
+Metal Burst * 6, 27.3% of sets
+Sacred Sword * 6, 27.3% of sets
+Quick Attack * 6, 27.3% of sets
+Swagger * 5, 22.7% of sets
+Substitute * 5, 22.7% of sets
+Psych Up * 5, 22.7% of sets
+Close Combat * 5, 22.7% of sets
+Quick Guard * 5, 22.7% of sets
+Protect * 5, 22.7% of sets
+
+
+Items:
+Chesto Berry * 6, 27.3% of sets
+Maranga Berry * 6, 27.3% of sets
+Lax Incense * 5, 22.7% of sets
+Life Orb * 5, 22.7% of sets
+
+Cofagrigus, 33 sets
+Moves:
+Will-o-wisp * 33, 100% of sets
+Shadow Ball * 18, 54.5% of sets
+Destiny Bond * 13, 39.4% of sets
+Trick Room * 13, 39.4% of sets
+Night Shade * 10, 30.3% of sets
+Mean Look * 10, 30.3% of sets
+Rest * 10, 30.3% of sets
+Energy Ball * 5, 15.2% of sets
+Nasty Plot * 5, 15.2% of sets
+Toxic * 5, 15.2% of sets
+Hex * 5, 15.2% of sets
+Calm Mind * 5, 15.2% of sets
+
+
+Items:
+Maranga Berry * 13, 39.4% of sets
+Chesto Berry * 10, 30.3% of sets
+Spell Tag * 5, 15.2% of sets
+Leftovers * 5, 15.2% of sets
+
+Comfey, 34 sets
+Moves:
+Dazzling Gleam * 22, 64.7% of sets
+Energy Ball * 15, 44.1% of sets
+Flower Shield * 15, 44.1% of sets
+Endure * 15, 44.1% of sets
+Petal Blizzard * 7, 20.6% of sets
+Grassy Terrain * 7, 20.6% of sets
+Floral Healing * 7, 20.6% of sets
+Draining Kiss * 7, 20.6% of sets
+Calm Mind * 7, 20.6% of sets
+Sweet Kiss * 7, 20.6% of sets
+Leech Seed * 7, 20.6% of sets
+U-turn * 5, 14.7% of sets
+Play Rough * 5, 14.7% of sets
+Petal Dance * 5, 14.7% of sets
+Acrobatics * 5, 14.7% of sets
+
+
+Items:
+Petaya Berry * 15, 44.1% of sets
+Grassium Z * 7, 20.6% of sets
+Big Root * 7, 20.6% of sets
+Muscle Band * 5, 14.7% of sets
+
+Conkeldurr, 36 sets
+Moves:
+Bulk Up * 25, 69.4% of sets
+Rock Slide * 18, 50% of sets
+Fling * 16, 44.4% of sets
+Mach Punch * 16, 44.4% of sets
+Drain Punch * 13, 36.1% of sets
+Payback * 13, 36.1% of sets
+Stone Edge * 13, 36.1% of sets
+Superpower * 11, 30.6% of sets
+Force Palm * 7, 19.4% of sets
+Smelling Salts * 7, 19.4% of sets
+Hammer Arm * 5, 13.9% of sets
+
+
+Items:
+Iron Ball * 16, 44.4% of sets
+Sitrus Berry * 13, 36.1% of sets
+Black Belt * 7, 19.4% of sets
+
+Crabominable, 31 sets
+Moves:
+Rock Slide * 20, 64.5% of sets
+Ice Hammer * 18, 58.1% of sets
+Superpower * 13, 41.9% of sets
+Ice Punch * 13, 41.9% of sets
+Payback * 13, 41.9% of sets
+Close Combat * 13, 41.9% of sets
+Protect * 7, 22.6% of sets
+Stone Edge * 6, 19.4% of sets
+Earthquake * 6, 19.4% of sets
+Rest * 5, 16.1% of sets
+Iron Defense * 5, 16.1% of sets
+Dynamic Punch * 5, 16.1% of sets
+
+
+Items:
+Expert Belt * 13, 41.9% of sets
+Weakness Policy * 7, 22.6% of sets
+Sitrus Berry * 6, 19.4% of sets
+Chesto Berry * 5, 16.1% of sets
+
+Cradily, 32 sets
+Moves:
+Protect * 19, 59.4% of sets
+Earthquake * 17, 53.1% of sets
+Stockpile * 15, 46.9% of sets
+Sandstorm * 12, 37.5% of sets
+Toxic * 12, 37.5% of sets
+Round * 8, 25% of sets
+Gastro Acid * 8, 25% of sets
+Swallow * 8, 25% of sets
+Ingrain * 7, 21.9% of sets
+Giga Drain * 7, 21.9% of sets
+Confuse Ray * 5, 15.6% of sets
+Energy Ball * 5, 15.6% of sets
+Stone Edge * 5, 15.6% of sets
+
+
+Items:
+Leftovers * 12, 37.5% of sets
+Tanga Berry * 8, 25% of sets
+Big Root * 7, 21.9% of sets
+Quick Claw * 5, 15.6% of sets
+
+Cresselia, 30 sets
+Moves:
+Psychic * 17, 56.7% of sets
+Shadow Ball * 17, 56.7% of sets
+Double Team * 13, 43.3% of sets
+Moonlight * 13, 43.3% of sets
+Moonblast * 11, 36.7% of sets
+Trick Room * 11, 36.7% of sets
+Future Sight * 7, 23.3% of sets
+Swagger * 7, 23.3% of sets
+Calm Mind * 6, 20% of sets
+Rest * 6, 20% of sets
+Toxic * 6, 20% of sets
+Protect * 6, 20% of sets
+
+
+Items:
+Iron Ball * 11, 36.7% of sets
+Lum Berry * 7, 23.3% of sets
+Chesto Berry * 6, 20% of sets
+Leftovers * 6, 20% of sets
+
+Crobat, 52 sets
+Moves:
+Cross Poison * 49, 94.2% of sets
+X-scissor * 35, 67.3% of sets
+Hypnosis * 32, 61.5% of sets
+U-turn * 18, 34.6% of sets
+Brave Bird * 17, 32.7% of sets
+Zen Headbutt * 17, 32.7% of sets
+Aerial Ace * 14, 26.9% of sets
+Taunt * 14, 26.9% of sets
+Air Slash * 3, 5.8% of sets
+Shadow Ball * 3, 5.8% of sets
+Confuse Ray * 3, 5.8% of sets
+Nasty Plot * 3, 5.8% of sets
+
+
+Items:
+Charti Berry * 18, 34.6% of sets
+Razor Claw * 17, 32.7% of sets
+Wide Lens * 14, 26.9% of sets
+Sharp Beak * 3, 5.8% of sets
+
+Darmanitan, 34 sets
+Moves:
+Psychic * 25, 73.5% of sets
+Flare Blitz * 19, 55.9% of sets
+Earthquake * 10, 29.4% of sets
+Overheat * 10, 29.4% of sets
+Stone Edge * 9, 26.5% of sets
+U-turn * 9, 26.5% of sets
+Superpower * 9, 26.5% of sets
+Fire Punch * 9, 26.5% of sets
+Protect * 9, 26.5% of sets
+Will-o-wisp * 9, 26.5% of sets
+Flamethrower * 6, 17.6% of sets
+Round * 6, 17.6% of sets
+Confide * 6, 17.6% of sets
+
+
+Items:
+Assault Vest * 10, 29.4% of sets
+Choice Scarf * 9, 26.5% of sets
+Firium Z * 9, 26.5% of sets
+Luminous Moss * 6, 17.6% of sets
+
+Decidueye, 34 sets
+Moves:
+Spirit Shackle * 10, 29.4% of sets
+Leaf Blade * 10, 29.4% of sets
+Sucker Punch * 10, 29.4% of sets
+Smack Down * 10, 29.4% of sets
+Nasty Plot * 9, 26.5% of sets
+Shadow Ball * 9, 26.5% of sets
+Grass Knot * 9, 26.5% of sets
+Baton Pass * 9, 26.5% of sets
+Brave Bird * 8, 23.5% of sets
+Feather Dance * 8, 23.5% of sets
+Ominous Wind * 8, 23.5% of sets
+Defog * 8, 23.5% of sets
+Curse * 7, 20.6% of sets
+Confuse Ray * 7, 20.6% of sets
+Roost * 7, 20.6% of sets
+Energy Ball * 7, 20.6% of sets
+
+
+Items:
+Life Orb * 10, 29.4% of sets
+Bright Powder * 9, 26.5% of sets
+Flyinium Z * 8, 23.5% of sets
+Sitrus Berry * 7, 20.6% of sets
+
+Delphox, 36 sets
+Moves:
+Psychic * 29, 80.6% of sets
+Shadow Ball * 15, 41.7% of sets
+Sunny Day * 15, 41.7% of sets
+Solar Beam * 15, 41.7% of sets
+Fire Blast * 15, 41.7% of sets
+Overheat * 8, 22.2% of sets
+Psyshock * 8, 22.2% of sets
+Role Play * 7, 19.4% of sets
+Switcheroo * 7, 19.4% of sets
+Mystical Fire * 7, 19.4% of sets
+Confide * 6, 16.7% of sets
+Flamethrower * 6, 16.7% of sets
+Round * 6, 16.7% of sets
+
+
+Items:
+Heat Rock * 15, 41.7% of sets
+White Herb * 8, 22.2% of sets
+Flame Orb * 7, 19.4% of sets
+Petaya Berry * 6, 16.7% of sets
+
+Dhelmise, 36 sets
+Moves:
+Phantom Force * 21, 58.3% of sets
+Energy Ball * 15, 41.7% of sets
+Anchor Shot * 11, 30.6% of sets
+Protect * 11, 30.6% of sets
+Giga Drain * 11, 30.6% of sets
+Gyro Ball * 10, 27.8% of sets
+Rock Slide * 10, 27.8% of sets
+Brick Break * 10, 27.8% of sets
+Heavy Slam * 8, 22.2% of sets
+Shadow Claw * 8, 22.2% of sets
+Switcheroo * 8, 22.2% of sets
+Metal Sound * 7, 19.4% of sets
+Flash Cannon * 7, 19.4% of sets
+Shadow Ball * 7, 19.4% of sets
+
+
+Items:
+Leftovers * 11, 30.6% of sets
+Expert Belt * 10, 27.8% of sets
+Float Stone * 8, 22.2% of sets
+Steelium Z * 7, 19.4% of sets
+
+Dragonite, 41 sets
+Moves:
+Outrage * 13, 31.7% of sets
+Earthquake * 13, 31.7% of sets
+Giga Impact * 13, 31.7% of sets
+Stone Edge * 13, 31.7% of sets
+Dragon Rush * 12, 29.3% of sets
+Iron Tail * 12, 29.3% of sets
+Extreme Speed * 12, 29.3% of sets
+Fire Punch * 12, 29.3% of sets
+Toxic * 9, 22% of sets
+Thunder Wave * 9, 22% of sets
+Roost * 9, 22% of sets
+Rock Slide * 9, 22% of sets
+Dragon Pulse * 7, 17.1% of sets
+Ice Beam * 7, 17.1% of sets
+Thunderbolt * 7, 17.1% of sets
+Safeguard * 7, 17.1% of sets
+
+
+Items:
+Choice Band * 13, 31.7% of sets
+Snowball * 12, 29.3% of sets
+Custap Berry * 9, 22% of sets
+Salac Berry * 7, 17.1% of sets
+
+Drampa, 36 sets
+Moves:
+Dragon Pulse * 21, 58.3% of sets
+Roost * 16, 44.4% of sets
+Hyper Voice * 13, 36.1% of sets
+Fire Blast * 13, 36.1% of sets
+Draco Meteor * 12, 33.3% of sets
+Focus Blast * 12, 33.3% of sets
+Hurricane * 12, 33.3% of sets
+Glare * 12, 33.3% of sets
+Thunderbolt * 8, 22.2% of sets
+Flamethrower * 8, 22.2% of sets
+Surf * 8, 22.2% of sets
+Snarl * 3, 8.3% of sets
+Play Nice * 3, 8.3% of sets
+Dragon Breath * 3, 8.3% of sets
+
+
+Items:
+Quick Claw * 13, 36.1% of sets
+Dragonium Z * 12, 33.3% of sets
+Shell Bell * 8, 22.2% of sets
+Sitrus Berry * 3, 8.3% of sets
+
+Drapion, 29 sets
+Moves:
+Night Slash * 26, 89.7% of sets
+Cross Poison * 20, 69% of sets
+Earthquake * 17, 58.6% of sets
+Swords Dance * 9, 31% of sets
+Taunt * 9, 31% of sets
+Toxic Spikes * 9, 31% of sets
+X-scissor * 9, 31% of sets
+Fire Fang * 8, 27.6% of sets
+Crunch * 3, 10.3% of sets
+Scary Face * 3, 10.3% of sets
+Screech * 3, 10.3% of sets
+
+
+Items:
+Scope Lens * 17, 58.6% of sets
+Razor Claw * 9, 31% of sets
+Shuca Berry * 3, 10.3% of sets
+
+Drifblim, 28 sets
+Moves:
+Calm Mind * 15, 53.6% of sets
+Stockpile * 15, 53.6% of sets
+Ominous Wind * 15, 53.6% of sets
+Baton Pass * 15, 53.6% of sets
+Thunderbolt * 13, 46.4% of sets
+Shadow Ball * 10, 35.7% of sets
+Destiny Bond * 10, 35.7% of sets
+Hypnosis * 9, 32.1% of sets
+Tailwind * 4, 14.3% of sets
+Hex * 3, 10.7% of sets
+Dream Eater * 3, 10.7% of sets
+
+
+Items:
+Salac Berry * 15, 53.6% of sets
+Custap Berry * 6, 21.4% of sets
+Ghostium Z * 4, 14.3% of sets
+Wide Lens * 3, 10.7% of sets
+
+Druddigon, 20 sets
+Moves:
+Crunch * 14, 70% of sets
+Dragon Tail * 13, 65% of sets
+Scary Face * 10, 50% of sets
+Glare * 10, 50% of sets
+Earthquake * 7, 35% of sets
+Dragon Claw * 7, 35% of sets
+Rock Slide * 4, 20% of sets
+Outrage * 3, 15% of sets
+Superpower * 3, 15% of sets
+Night Slash * 3, 15% of sets
+Slash * 3, 15% of sets
+Hone Claws * 3, 15% of sets
+
+
+Items:
+Roseli Berry * 10, 50% of sets
+Quick Claw * 4, 20% of sets
+Choice Band * 3, 15% of sets
+Scope Lens * 3, 15% of sets
+
+Dugtrio, 46 sets
+Moves:
+Sandstorm * 30, 65.2% of sets
+Iron Head * 26, 56.5% of sets
+Dig * 22, 47.8% of sets
+Rock Slide * 16, 34.8% of sets
+Fissure * 14, 30.4% of sets
+Toxic * 14, 30.4% of sets
+Substitute * 14, 30.4% of sets
+Earthquake * 10, 21.7% of sets
+Night Slash * 10, 21.7% of sets
+Stone Edge * 10, 21.7% of sets
+Sand Attack * 6, 13% of sets
+Pursuit * 6, 13% of sets
+Tri Attack * 6, 13% of sets
+
+
+Items:
+Expert Belt * 16, 34.8% of sets
+Bright Powder * 14, 30.4% of sets
+Choice Band * 10, 21.7% of sets
+Passho Berry * 6, 13% of sets
+
+Durant, 22 sets
+Moves:
+Dig * 13, 59.1% of sets
+X-scissor * 9, 40.9% of sets
+Iron Head * 9, 40.9% of sets
+Crunch * 9, 40.9% of sets
+Bug Bite * 9, 40.9% of sets
+Metal Sound * 9, 40.9% of sets
+Entrainment * 5, 22.7% of sets
+Protect * 5, 22.7% of sets
+Iron Defense * 4, 18.2% of sets
+Agility * 4, 18.2% of sets
+Baton Pass * 4, 18.2% of sets
+Rock Slide * 4, 18.2% of sets
+Shadow Claw * 4, 18.2% of sets
+
+
+Items:
+Sitrus Berry * 9, 40.9% of sets
+Focus Sash * 5, 22.7% of sets
+Power Herb * 4, 18.2% of sets
+Occa Berry * 4, 18.2% of sets
+
+Dusknoir, 31 sets
+Moves:
+Pain Split * 19, 61.3% of sets
+Will-o-wisp * 16, 51.6% of sets
+Shadow Sneak * 15, 48.4% of sets
+Trick Room * 15, 48.4% of sets
+Destiny Bond * 10, 32.3% of sets
+Disable * 9, 29% of sets
+Mean Look * 9, 29% of sets
+Toxic * 7, 22.6% of sets
+Protect * 7, 22.6% of sets
+Double Team * 7, 22.6% of sets
+Fire Punch * 5, 16.1% of sets
+Fling * 5, 16.1% of sets
+
+
+Items:
+Leftovers * 16, 51.6% of sets
+Ghostium Z * 10, 32.3% of sets
+Iron Ball * 5, 16.1% of sets
+
+Eelektross, 37 sets
+Moves:
+Grass Knot * 27, 73% of sets
+Brick Break * 16, 43.2% of sets
+Wild Charge * 16, 43.2% of sets
+Charge Beam * 14, 37.8% of sets
+Flamethrower * 14, 37.8% of sets
+Protect * 14, 37.8% of sets
+U-turn * 13, 35.1% of sets
+Discharge * 7, 18.9% of sets
+Gastro Acid * 7, 18.9% of sets
+Thunderbolt * 7, 18.9% of sets
+Thunder Wave * 7, 18.9% of sets
+Crunch * 3, 8.1% of sets
+Coil * 3, 8.1% of sets
+
+
+Items:
+Leftovers * 14, 37.8% of sets
+Assault Vest * 13, 35.1% of sets
+Magnet * 7, 18.9% of sets
+Expert Belt * 3, 8.1% of sets
+
+Electivire, 51 sets
+Moves:
+Thunder * 18, 35.3% of sets
+Focus Blast * 18, 35.3% of sets
+Flamethrower * 18, 35.3% of sets
+Psychic * 18, 35.3% of sets
+Wild Charge * 13, 25.5% of sets
+Feint * 13, 25.5% of sets
+Ice Punch * 13, 25.5% of sets
+Cross Chop * 13, 25.5% of sets
+Electric Terrain * 10, 19.6% of sets
+Hammer Arm * 10, 19.6% of sets
+Thunder Punch * 10, 19.6% of sets
+Bulldoze * 10, 19.6% of sets
+Thunder Wave * 10, 19.6% of sets
+Focus Punch * 10, 19.6% of sets
+Rock Slide * 10, 19.6% of sets
+Fire Punch * 10, 19.6% of sets
+
+
+Items:
+Expert Belt * 18, 35.3% of sets
+Shuca Berry * 13, 25.5% of sets
+Electric Seed * 10, 19.6% of sets
+Bright Powder * 10, 19.6% of sets
+
+Electrode, 41 sets
+Moves:
+Light Screen * 25, 61% of sets
+Taunt * 18, 43.9% of sets
+Protect * 16, 39% of sets
+Rain Dance * 15, 36.6% of sets
+Thunder * 15, 36.6% of sets
+Thunderbolt * 13, 31.7% of sets
+Mirror Coat * 13, 31.7% of sets
+Thief * 13, 31.7% of sets
+Swagger * 10, 24.4% of sets
+Charge Beam * 10, 24.4% of sets
+Thunder Wave * 10, 24.4% of sets
+Electro Ball * 3, 7.3% of sets
+Explosion * 3, 7.3% of sets
+
+
+Items:
+Damp Rock * 15, 36.6% of sets
+Air Balloon * 13, 31.7% of sets
+Shuca Berry * 10, 24.4% of sets
+Focus Sash * 3, 7.3% of sets
+
+Emboar, 26 sets
+Moves:
+Flare Blitz * 8, 30.8% of sets
+Brick Break * 8, 30.8% of sets
+Flame Charge * 8, 30.8% of sets
+Earthquake * 8, 30.8% of sets
+Substitute * 7, 26.9% of sets
+Flamethrower * 7, 26.9% of sets
+Focus Blast * 7, 26.9% of sets
+Scald * 7, 26.9% of sets
+Gyro Ball * 6, 23.1% of sets
+Curse * 6, 23.1% of sets
+Rest * 6, 23.1% of sets
+Sleep Talk * 6, 23.1% of sets
+Yawn * 5, 19.2% of sets
+Wild Charge * 5, 19.2% of sets
+Bulldoze * 5, 19.2% of sets
+Heat Crash * 5, 19.2% of sets
+
+
+Items:
+Quick Claw * 13, 50% of sets
+Salac Berry * 7, 26.9% of sets
+Chesto Berry * 6, 23.1% of sets
+
+Empoleon, 25 sets
+Moves:
+Surf * 17, 68% of sets
+Substitute * 9, 36% of sets
+Blizzard * 9, 36% of sets
+Whirlpool * 9, 36% of sets
+Ice Beam * 8, 32% of sets
+Mist * 8, 32% of sets
+Icy Wind * 8, 32% of sets
+Aqua Jet * 8, 32% of sets
+Metal Claw * 8, 32% of sets
+Yawn * 5, 20% of sets
+Swords Dance * 5, 20% of sets
+Drill Peck * 3, 12% of sets
+Feather Dance * 3, 12% of sets
+
+
+Items:
+Petaya Berry * 9, 36% of sets
+Icium Z * 8, 32% of sets
+Sitrus Berry * 5, 20% of sets
+Muscle Band * 3, 12% of sets
+
+Entei, 32 sets
+Moves:
+Stone Edge * 16, 50% of sets
+Overheat * 9, 28.1% of sets
+Flame Charge * 9, 28.1% of sets
+Fire Fang * 9, 28.1% of sets
+Calm Mind * 9, 28.1% of sets
+Will-o-wisp * 9, 28.1% of sets
+Flamethrower * 9, 28.1% of sets
+Rest * 9, 28.1% of sets
+Eruption * 7, 21.9% of sets
+Fire Blast * 7, 21.9% of sets
+Extrasensory * 7, 21.9% of sets
+Solar Beam * 7, 21.9% of sets
+Sacred Fire * 7, 21.9% of sets
+Bulldoze * 7, 21.9% of sets
+Protect * 7, 21.9% of sets
+
+
+Items:
+Focus Sash * 9, 28.1% of sets
+Chesto Berry * 9, 28.1% of sets
+Choice Scarf * 7, 21.9% of sets
+Life Orb * 7, 21.9% of sets
+
+Escavalier, 28 sets
+Moves:
+Megahorn * 25, 89.3% of sets
+Reversal * 19, 67.9% of sets
+Swords Dance * 15, 53.6% of sets
+Iron Head * 13, 46.4% of sets
+Quick Guard * 12, 42.9% of sets
+Swagger * 7, 25% of sets
+Iron Defense * 6, 21.4% of sets
+Poison Jab * 6, 21.4% of sets
+Pursuit * 3, 10.7% of sets
+Counter * 3, 10.7% of sets
+X-scissor * 3, 10.7% of sets
+
+
+Items:
+Liechi Berry * 12, 42.9% of sets
+Custap Berry * 7, 25% of sets
+Life Orb * 6, 21.4% of sets
+Quick Claw * 3, 10.7% of sets
+
+Espeon, 40 sets
+Moves:
+Grass Knot * 26, 65% of sets
+Psychic * 21, 52.5% of sets
+Shadow Ball * 21, 52.5% of sets
+Dazzling Gleam * 14, 35% of sets
+Yawn * 14, 35% of sets
+Dream Eater * 14, 35% of sets
+Calm Mind * 14, 35% of sets
+Protect * 14, 35% of sets
+Hyper Beam * 12, 30% of sets
+Psyshock * 5, 12.5% of sets
+Charm * 5, 12.5% of sets
+
+
+Items:
+Focus Sash * 14, 35% of sets
+Lum Berry * 12, 30% of sets
+Expert Belt * 9, 22.5% of sets
+Kasib Berry * 5, 12.5% of sets
+
+Excadrill, 40 sets
+Moves:
+Rock Slide * 36, 90% of sets
+Earthquake * 21, 52.5% of sets
+Poison Jab * 21, 52.5% of sets
+Hone Claws * 15, 37.5% of sets
+Drill Run * 15, 37.5% of sets
+Iron Defense * 15, 37.5% of sets
+Sandstorm * 12, 30% of sets
+Aerial Ace * 9, 22.5% of sets
+Dig * 4, 10% of sets
+Metal Sound * 4, 10% of sets
+Metal Claw * 4, 10% of sets
+Swords Dance * 4, 10% of sets
+
+
+Items:
+Soft Sand * 15, 37.5% of sets
+Bright Powder * 12, 30% of sets
+Life Orb * 9, 22.5% of sets
+Steelium Z * 4, 10% of sets
+
+Exeggutor, 53 sets
+Moves:
+Leaf Storm * 20, 37.7% of sets
+Psychic * 20, 37.7% of sets
+Sludge Bomb * 20, 37.7% of sets
+Grassy Terrain * 20, 37.7% of sets
+Psyshock * 14, 26.4% of sets
+Grass Knot * 14, 26.4% of sets
+Light Screen * 14, 26.4% of sets
+Synthesis * 14, 26.4% of sets
+Dragon Hammer * 12, 22.6% of sets
+Wood Hammer * 12, 22.6% of sets
+Earthquake * 12, 22.6% of sets
+Brick Break * 12, 22.6% of sets
+Dragon Tail * 7, 13.2% of sets
+Flamethrower * 7, 13.2% of sets
+Hypnosis * 7, 13.2% of sets
+Giga Drain * 7, 13.2% of sets
+
+
+Items:
+Grassium Z * 20, 37.7% of sets
+Petaya Berry * 14, 26.4% of sets
+Assault Vest * 12, 22.6% of sets
+Sitrus Berry * 7, 13.2% of sets
+
+Exploud, 31 sets
+Moves:
+Hyper Voice * 24, 77.4% of sets
+Fire Blast * 18, 58.1% of sets
+Roar * 18, 58.1% of sets
+Uproar * 18, 58.1% of sets
+Crunch * 7, 22.6% of sets
+Blizzard * 6, 19.4% of sets
+Focus Blast * 6, 19.4% of sets
+Shadow Ball * 6, 19.4% of sets
+Earthquake * 4, 12.9% of sets
+Brick Break * 4, 12.9% of sets
+Ice Fang * 4, 12.9% of sets
+Fake Tears * 3, 9.7% of sets
+Ice Beam * 3, 9.7% of sets
+Giga Impact * 3, 9.7% of sets
+
+
+Items:
+Chople Berry * 18, 58.1% of sets
+Life Orb * 6, 19.4% of sets
+Expert Belt * 4, 12.9% of sets
+Darkinium Z * 3, 9.7% of sets
+
+Feraligatr, 28 sets
+Moves:
+Waterfall * 17, 60.7% of sets
+Aqua Jet * 16, 57.1% of sets
+Earthquake * 16, 57.1% of sets
+Dragon Dance * 12, 42.9% of sets
+Ice Punch * 9, 32.1% of sets
+Crunch * 8, 28.6% of sets
+Substitute * 8, 28.6% of sets
+Screech * 7, 25% of sets
+Block * 7, 25% of sets
+Superpower * 4, 14.3% of sets
+Aqua Tail * 4, 14.3% of sets
+Ice Fang * 4, 14.3% of sets
+
+
+Items:
+Liechi Berry * 12, 42.9% of sets
+Lum Berry * 9, 32.1% of sets
+Lax Incense * 7, 25% of sets
+
+Ferrothorn, 40 sets
+Moves:
+Ingrain * 25, 62.5% of sets
+Gyro Ball * 24, 60% of sets
+Iron Head * 16, 40% of sets
+Thunder Wave * 16, 40% of sets
+Sandstorm * 16, 40% of sets
+Curse * 16, 40% of sets
+Payback * 15, 37.5% of sets
+Seed Bomb * 9, 22.5% of sets
+Protect * 8, 20% of sets
+Explosion * 8, 20% of sets
+Rest * 7, 17.5% of sets
+
+
+Items:
+Leftovers * 25, 62.5% of sets
+Custap Berry * 8, 20% of sets
+Chesto Berry * 7, 17.5% of sets
+
+Flareon, 37 sets
+Moves:
+Flare Blitz * 19, 51.4% of sets
+Will-o-wisp * 19, 51.4% of sets
+Quick Attack * 18, 48.6% of sets
+Return * 10, 27% of sets
+Overheat * 10, 27% of sets
+Bite * 9, 24.3% of sets
+Giga Impact * 9, 24.3% of sets
+Flail * 9, 24.3% of sets
+Work Up * 9, 24.3% of sets
+Fire Blast * 9, 24.3% of sets
+Charm * 9, 24.3% of sets
+Flame Charge * 9, 24.3% of sets
+Protect * 9, 24.3% of sets
+
+
+Items:
+Firium Z * 19, 51.4% of sets
+Focus Sash * 9, 24.3% of sets
+Charcoal * 9, 24.3% of sets
+
+Florges, 34 sets
+Moves:
+Psychic * 19, 55.9% of sets
+Moonblast * 19, 55.9% of sets
+Round * 16, 47.1% of sets
+Petal Dance * 10, 29.4% of sets
+Calm Mind * 9, 26.5% of sets
+Grass Knot * 9, 26.5% of sets
+Flower Shield * 9, 26.5% of sets
+Dazzling Gleam * 9, 26.5% of sets
+Energy Ball * 9, 26.5% of sets
+Wish * 9, 26.5% of sets
+Misty Terrain * 6, 17.6% of sets
+Grassy Terrain * 6, 17.6% of sets
+Nature Power * 6, 17.6% of sets
+
+
+Items:
+Kebia Berry * 15, 44.1% of sets
+Lum Berry * 10, 29.4% of sets
+Babiri Berry * 9, 26.5% of sets
+
+Flygon, 32 sets
+Moves:
+Earthquake * 19, 59.4% of sets
+U-turn * 13, 40.6% of sets
+Dragon Rush * 11, 34.4% of sets
+Crunch * 11, 34.4% of sets
+Stone Edge * 11, 34.4% of sets
+Draco Meteor * 10, 31.2% of sets
+Earth Power * 10, 31.2% of sets
+Flamethrower * 10, 31.2% of sets
+Dragon Claw * 8, 25% of sets
+Endure * 8, 25% of sets
+Fire Blast * 8, 25% of sets
+Swagger * 3, 9.4% of sets
+Quick Attack * 3, 9.4% of sets
+Rock Slide * 3, 9.4% of sets
+
+
+Items:
+Rockium Z * 11, 34.4% of sets
+White Herb * 10, 31.2% of sets
+Weakness Policy * 8, 25% of sets
+Haban Berry * 3, 9.4% of sets
+
+Froslass, 36 sets
+Moves:
+Hail * 20, 55.6% of sets
+Ice Shard * 15, 41.7% of sets
+Ice Beam * 14, 38.9% of sets
+Ominous Wind * 14, 38.9% of sets
+Thunderbolt * 14, 38.9% of sets
+Blizzard * 13, 36.1% of sets
+Shadow Ball * 13, 36.1% of sets
+Thunder Wave * 9, 25% of sets
+Hex * 9, 25% of sets
+Taunt * 9, 25% of sets
+Icy Wind * 7, 19.4% of sets
+Destiny Bond * 7, 19.4% of sets
+
+
+Items:
+Colbur Berry * 14, 38.9% of sets
+Kasib Berry * 9, 25% of sets
+Focus Sash * 7, 19.4% of sets
+Icy Rock * 6, 16.7% of sets
+
+Gallade, 33 sets
+Moves:
+Psycho Cut * 33, 100% of sets
+Shadow Sneak * 20, 60.6% of sets
+Brick Break * 11, 33.3% of sets
+Swords Dance * 11, 33.3% of sets
+Close Combat * 10, 30.3% of sets
+Rock Slide * 10, 30.3% of sets
+Destiny Bond * 10, 30.3% of sets
+Stone Edge * 9, 27.3% of sets
+X-scissor * 9, 27.3% of sets
+Leaf Blade * 3, 9.1% of sets
+Slash * 3, 9.1% of sets
+Protect * 3, 9.1% of sets
+
+
+Items:
+Scope Lens * 12, 36.4% of sets
+Expert Belt * 11, 33.3% of sets
+Galladite * 10, 30.3% of sets
+
+Garchomp, 46 sets
+Moves:
+Earthquake * 43, 93.5% of sets
+Sandstorm * 29, 63% of sets
+Outrage * 17, 37% of sets
+Fire Fang * 17, 37% of sets
+Crunch * 17, 37% of sets
+Stone Edge * 16, 34.8% of sets
+Dragon Claw * 16, 34.8% of sets
+Protect * 10, 21.7% of sets
+Sand Tomb * 10, 21.7% of sets
+Fire Blast * 3, 6.5% of sets
+Dragon Breath * 3, 6.5% of sets
+Surf * 3, 6.5% of sets
+
+
+Items:
+Choice Scarf * 17, 37% of sets
+Garchompite * 16, 34.8% of sets
+Lax Incense * 10, 21.7% of sets
+Focus Sash * 3, 6.5% of sets
+
+Gardevoir, 40 sets
+Moves:
+Psychic * 25, 62.5% of sets
+Shadow Ball * 25, 62.5% of sets
+Dazzling Gleam * 23, 57.5% of sets
+Hyper Beam * 13, 32.5% of sets
+Focus Blast * 13, 32.5% of sets
+Energy Ball * 12, 30% of sets
+Hypnosis * 11, 27.5% of sets
+Dream Eater * 11, 27.5% of sets
+Imprison * 11, 27.5% of sets
+Stored Power * 4, 10% of sets
+Thunderbolt * 4, 10% of sets
+Calm Mind * 4, 10% of sets
+Double Team * 4, 10% of sets
+
+
+Items:
+Gardevoirite * 13, 32.5% of sets
+Lum Berry * 12, 30% of sets
+Psychium Z * 11, 27.5% of sets
+Bright Powder * 4, 10% of sets
+
+Gastrodon, 51 sets
+Moves:
+Amnesia * 19, 37.3% of sets
+Curse * 19, 37.3% of sets
+Waterfall * 19, 37.3% of sets
+Rain Dance * 16, 31.4% of sets
+Sludge Bomb * 16, 31.4% of sets
+Muddy Water * 16, 31.4% of sets
+Counter * 16, 31.4% of sets
+Sandstorm * 16, 31.4% of sets
+Mud Bomb * 16, 31.4% of sets
+Surf * 16, 31.4% of sets
+Recover * 16, 31.4% of sets
+Earthquake * 13, 25.5% of sets
+Yawn * 6, 11.8% of sets
+
+
+Items:
+Leftovers * 29, 56.9% of sets
+Damp Rock * 16, 31.4% of sets
+Rindo Berry * 6, 11.8% of sets
+
+Gengar, 39 sets
+Moves:
+Shadow Ball * 36, 92.3% of sets
+Dream Eater * 15, 38.5% of sets
+Nightmare * 15, 38.5% of sets
+Hypnosis * 15, 38.5% of sets
+Sludge Bomb * 11, 28.2% of sets
+Thunderbolt * 11, 28.2% of sets
+Destiny Bond * 11, 28.2% of sets
+Energy Ball * 10, 25.6% of sets
+Dazzling Gleam * 10, 25.6% of sets
+Round * 10, 25.6% of sets
+Sucker Punch * 3, 7.7% of sets
+Fire Punch * 3, 7.7% of sets
+Ice Punch * 3, 7.7% of sets
+Will-o-wisp * 3, 7.7% of sets
+
+
+Items:
+Focus Sash * 15, 38.5% of sets
+Gengarite * 11, 28.2% of sets
+Payapa Berry * 10, 25.6% of sets
+Expert Belt * 3, 7.7% of sets
+
+Gigalith, 40 sets
+Moves:
+Curse * 22, 55% of sets
+Earthquake * 21, 52.5% of sets
+Rock Blast * 19, 47.5% of sets
+Sandstorm * 18, 45% of sets
+Bulldoze * 12, 30% of sets
+Gravity * 12, 30% of sets
+Stone Edge * 11, 27.5% of sets
+Explosion * 11, 27.5% of sets
+Rock Slide * 10, 25% of sets
+Stealth Rock * 10, 25% of sets
+Iron Defense * 7, 17.5% of sets
+Lock-on * 7, 17.5% of sets
+
+
+Items:
+Rawst Berry * 12, 30% of sets
+Custap Berry * 11, 27.5% of sets
+Leftovers * 10, 25% of sets
+Hard Stone * 7, 17.5% of sets
+
+Glaceon, 45 sets
+Moves:
+Blizzard * 34, 75.6% of sets
+Mirror Coat * 24, 53.3% of sets
+Shadow Ball * 21, 46.7% of sets
+Ice Shard * 13, 28.9% of sets
+Helping Hand * 13, 28.9% of sets
+Hail * 11, 24.4% of sets
+Hyper Beam * 11, 24.4% of sets
+Frost Breath * 11, 24.4% of sets
+Rest * 11, 24.4% of sets
+Barrier * 11, 24.4% of sets
+Aurora Veil * 10, 22.2% of sets
+Detect * 10, 22.2% of sets
+
+
+Items:
+Quick Claw * 13, 28.9% of sets
+Focus Sash * 11, 24.4% of sets
+Chesto Berry * 11, 24.4% of sets
+Bright Powder * 10, 22.2% of sets
+
+Glalie, 39 sets
+Moves:
+Shadow Ball * 26, 66.7% of sets
+Weather Ball * 26, 66.7% of sets
+Hail * 14, 35.9% of sets
+Blizzard * 14, 35.9% of sets
+Protect * 13, 33.3% of sets
+Rain Dance * 12, 30.8% of sets
+Dark Pulse * 12, 30.8% of sets
+Earthquake * 7, 17.9% of sets
+Explosion * 7, 17.9% of sets
+Freeze-dry * 7, 17.9% of sets
+Substitute * 6, 15.4% of sets
+Sheer Cold * 6, 15.4% of sets
+Frost Breath * 6, 15.4% of sets
+
+
+Items:
+Icy Rock * 14, 35.9% of sets
+Normalium Z * 12, 30.8% of sets
+Glalitite * 7, 17.9% of sets
+Leftovers * 6, 15.4% of sets
+
+Gliscor, 29 sets
+Moves:
+Acrobatics * 23, 79.3% of sets
+Swords Dance * 18, 62.1% of sets
+U-turn * 14, 48.3% of sets
+Earthquake * 11, 37.9% of sets
+Agility * 9, 31% of sets
+Baton Pass * 9, 31% of sets
+Fling * 9, 31% of sets
+Aerial Ace * 6, 20.7% of sets
+X-scissor * 6, 20.7% of sets
+Stone Edge * 6, 20.7% of sets
+Counter * 5, 17.2% of sets
+
+
+Items:
+Liechi Berry * 9, 31% of sets
+Razor Fang * 9, 31% of sets
+Expert Belt * 6, 20.7% of sets
+Focus Sash * 5, 17.2% of sets
+
+Gogoat, 33 sets
+Moves:
+Horn Leech * 16, 48.5% of sets
+Payback * 16, 48.5% of sets
+Surf * 9, 27.3% of sets
+Energy Ball * 9, 27.3% of sets
+Rock Slide * 9, 27.3% of sets
+Grass Knot * 9, 27.3% of sets
+Substitute * 9, 27.3% of sets
+Bulk Up * 9, 27.3% of sets
+Earthquake * 8, 24.2% of sets
+Leaf Blade * 8, 24.2% of sets
+Wild Charge * 8, 24.2% of sets
+Brick Break * 8, 24.2% of sets
+Leech Seed * 7, 21.2% of sets
+Protect * 7, 21.2% of sets
+
+
+Items:
+Occa Berry * 9, 27.3% of sets
+Yache Berry * 9, 27.3% of sets
+Choice Band * 8, 24.2% of sets
+Big Root * 7, 21.2% of sets
+
+Golem, 32 sets
+Moves:
+Earthquake * 25, 78.1% of sets
+Rock Slide * 19, 59.4% of sets
+Explosion * 19, 59.4% of sets
+Autotomize * 16, 50% of sets
+Rock Polish * 9, 28.1% of sets
+Wild Charge * 7, 21.9% of sets
+Smack Down * 7, 21.9% of sets
+Bulldoze * 7, 21.9% of sets
+Counter * 7, 21.9% of sets
+Stone Edge * 6, 18.8% of sets
+Sandstorm * 6, 18.8% of sets
+
+
+Items:
+Focus Sash * 10, 31.2% of sets
+Air Balloon * 9, 28.1% of sets
+Quick Claw * 7, 21.9% of sets
+Absorb Bulb * 6, 18.8% of sets
+
+Golisopod, 43 sets
+Moves:
+First Impression * 39, 90.7% of sets
+Sucker Punch * 17, 39.5% of sets
+Leech Life * 16, 37.2% of sets
+Struggle Bug * 14, 32.6% of sets
+Scald * 14, 32.6% of sets
+Ice Beam * 14, 32.6% of sets
+Aqua Jet * 13, 30.2% of sets
+Rock Slide * 13, 30.2% of sets
+Liquidation * 12, 27.9% of sets
+Brick Break * 12, 27.9% of sets
+Swords Dance * 4, 9.3% of sets
+Razor Shell * 4, 9.3% of sets
+
+
+Items:
+Eject Button * 14, 32.6% of sets
+Life Orb * 13, 30.2% of sets
+Quick Claw * 12, 27.9% of sets
+Sitrus Berry * 4, 9.3% of sets
+
+Golurk, 20 sets
+Moves:
+Shadow Punch * 17, 85% of sets
+Earthquake * 9, 45% of sets
+Hammer Arm * 8, 40% of sets
+Iron Defense * 8, 40% of sets
+Bulldoze * 8, 40% of sets
+Heavy Slam * 8, 40% of sets
+Rock Slide * 7, 35% of sets
+Fling * 5, 25% of sets
+Dynamic Punch * 4, 20% of sets
+Curse * 3, 15% of sets
+Gyro Ball * 3, 15% of sets
+
+
+Items:
+Muscle Band * 8, 40% of sets
+Iron Ball * 5, 25% of sets
+Ghostium Z * 4, 20% of sets
+Wide Lens * 3, 15% of sets
+
+Goodra, 51 sets
+Moves:
+Thunder * 35, 68.6% of sets
+Muddy Water * 29, 56.9% of sets
+Dragon Pulse * 29, 56.9% of sets
+Rain Dance * 19, 37.3% of sets
+Draco Meteor * 16, 31.4% of sets
+Blizzard * 16, 31.4% of sets
+Fire Blast * 16, 31.4% of sets
+Substitute * 10, 19.6% of sets
+Sludge Wave * 10, 19.6% of sets
+Aqua Tail * 6, 11.8% of sets
+Body Slam * 6, 11.8% of sets
+Earthquake * 6, 11.8% of sets
+Outrage * 6, 11.8% of sets
+
+
+Items:
+Damp Rock * 19, 37.3% of sets
+White Herb * 16, 31.4% of sets
+Lax Incense * 10, 19.6% of sets
+Lum Berry * 6, 11.8% of sets
+
+Gothitelle, 28 sets
+Moves:
+Psychic * 25, 89.3% of sets
+Fake Tears * 12, 42.9% of sets
+Rest * 12, 42.9% of sets
+Calm Mind * 12, 42.9% of sets
+Substitute * 7, 25% of sets
+Flatter * 7, 25% of sets
+Psych Up * 7, 25% of sets
+Charm * 6, 21.4% of sets
+Safeguard * 6, 21.4% of sets
+Charge Beam * 6, 21.4% of sets
+Psyshock * 3, 10.7% of sets
+Miracle Eye * 3, 10.7% of sets
+Mirror Coat * 3, 10.7% of sets
+Tickle * 3, 10.7% of sets
+
+
+Items:
+Chesto Berry * 12, 42.9% of sets
+Bright Powder * 7, 25% of sets
+Kee Berry * 6, 21.4% of sets
+Twisted Spoon * 3, 10.7% of sets
+
+Gourgeist, 26 sets
+Moves:
+Seed Bomb * 14, 53.8% of sets
+Trick-or-treat * 13, 50% of sets
+Phantom Force * 13, 50% of sets
+Trick Room * 9, 34.6% of sets
+Gyro Ball * 9, 34.6% of sets
+Explosion * 9, 34.6% of sets
+Will-o-wisp * 8, 30.8% of sets
+Pain Split * 8, 30.8% of sets
+Rock Slide * 5, 19.2% of sets
+Shadow Ball * 4, 15.4% of sets
+Sludge Bomb * 4, 15.4% of sets
+Energy Ball * 4, 15.4% of sets
+Flamethrower * 4, 15.4% of sets
+
+
+Items:
+Iron Ball * 9, 34.6% of sets
+Sitrus Berry * 8, 30.8% of sets
+Life Orb * 5, 19.2% of sets
+Wise Glasses * 4, 15.4% of sets
+
+Greninja, 47 sets
+Moves:
+Water Shuriken * 16, 34% of sets
+Rock Slide * 16, 34% of sets
+Grass Knot * 16, 34% of sets
+U-turn * 16, 34% of sets
+Hydro Pump * 14, 29.8% of sets
+Dark Pulse * 14, 29.8% of sets
+Blizzard * 14, 29.8% of sets
+Extrasensory * 14, 29.8% of sets
+Rain Dance * 9, 19.1% of sets
+Surf * 9, 19.1% of sets
+Round * 9, 19.1% of sets
+Ice Beam * 9, 19.1% of sets
+Mat Block * 8, 17% of sets
+Spikes * 8, 17% of sets
+Scald * 8, 17% of sets
+Toxic * 8, 17% of sets
+
+
+Items:
+Kings Rock * 16, 34% of sets
+Wide Lens * 14, 29.8% of sets
+Damp Rock * 9, 19.1% of sets
+Leftovers * 8, 17% of sets
+
+Gyarados, 53 sets
+Moves:
+Dragon Dance * 45, 84.9% of sets
+Waterfall * 41, 77.4% of sets
+Ice Fang * 29, 54.7% of sets
+Earthquake * 17, 32.1% of sets
+Stone Edge * 16, 30.2% of sets
+Crunch * 16, 30.2% of sets
+Aqua Tail * 12, 22.6% of sets
+Thunder Wave * 12, 22.6% of sets
+Rest * 8, 15.1% of sets
+Bulldoze * 8, 15.1% of sets
+Giga Impact * 8, 15.1% of sets
+
+
+Items:
+Wacan Berry * 17, 32.1% of sets
+Gyaradosite * 16, 30.2% of sets
+Muscle Band * 12, 22.6% of sets
+Normalium Z * 8, 15.1% of sets
+
+Hariyama, 28 sets
+Moves:
+Fake Out * 16, 57.1% of sets
+Belly Drum * 12, 42.9% of sets
+Bullet Punch * 12, 42.9% of sets
+Feint * 10, 35.7% of sets
+Smack Down * 10, 35.7% of sets
+Vital Throw * 10, 35.7% of sets
+Brick Break * 7, 25% of sets
+Counter * 7, 25% of sets
+Close Combat * 6, 21.4% of sets
+Detect * 6, 21.4% of sets
+Earthquake * 6, 21.4% of sets
+Reversal * 5, 17.9% of sets
+Protect * 5, 17.9% of sets
+
+
+Items:
+Kings Rock * 10, 35.7% of sets
+Sitrus Berry * 7, 25% of sets
+Flame Orb * 6, 21.4% of sets
+Custap Berry * 5, 17.9% of sets
+
+Hawlucha, 32 sets
+Moves:
+Acrobatics * 20, 62.5% of sets
+High Jump Kick * 14, 43.8% of sets
+Feather Dance * 14, 43.8% of sets
+Taunt * 14, 43.8% of sets
+Flying Press * 13, 40.6% of sets
+Sky Attack * 7, 21.9% of sets
+U-turn * 7, 21.9% of sets
+Stone Edge * 7, 21.9% of sets
+Swords Dance * 6, 18.8% of sets
+Steel Wing * 6, 18.8% of sets
+Toxic * 5, 15.6% of sets
+Bounce * 5, 15.6% of sets
+Roost * 5, 15.6% of sets
+Protect * 5, 15.6% of sets
+
+
+Items:
+Salac Berry * 14, 43.8% of sets
+Power Herb * 7, 21.9% of sets
+Liechi Berry * 6, 18.8% of sets
+Leftovers * 5, 15.6% of sets
+
+Haxorus, 37 sets
+Moves:
+Earthquake * 34, 91.9% of sets
+Dragon Claw * 21, 56.8% of sets
+Outrage * 14, 37.8% of sets
+Rock Slide * 14, 37.8% of sets
+Dragon Dance * 13, 35.1% of sets
+Dual Chop * 13, 35.1% of sets
+Roar * 13, 35.1% of sets
+Taunt * 13, 35.1% of sets
+Dragon Tail * 10, 27% of sets
+Counter * 3, 8.1% of sets
+
+
+Items:
+Haban Berry * 13, 35.1% of sets
+Dragonium Z * 11, 29.7% of sets
+Yache Berry * 10, 27% of sets
+Persim Berry * 3, 8.1% of sets
+
+Heatran, 38 sets
+Moves:
+Earth Power * 28, 73.7% of sets
+Flash Cannon * 28, 73.7% of sets
+Dark Pulse * 18, 47.4% of sets
+Lava Plume * 10, 26.3% of sets
+Overheat * 10, 26.3% of sets
+Will-o-wisp * 10, 26.3% of sets
+Protect * 10, 26.3% of sets
+Sunny Day * 10, 26.3% of sets
+Fire Blast * 10, 26.3% of sets
+Solar Beam * 10, 26.3% of sets
+Magma Storm * 8, 21.1% of sets
+
+
+Items:
+Focus Sash * 10, 26.3% of sets
+White Herb * 10, 26.3% of sets
+Shuca Berry * 10, 26.3% of sets
+Choice Scarf * 8, 21.1% of sets
+
+Heracross, 26 sets
+Moves:
+Aerial Ace * 10, 38.5% of sets
+Pursuit * 10, 38.5% of sets
+Swords Dance * 10, 38.5% of sets
+Brick Break * 10, 38.5% of sets
+Megahorn * 10, 38.5% of sets
+Pin Missile * 6, 23.1% of sets
+Rock Blast * 6, 23.1% of sets
+Bullet Seed * 6, 23.1% of sets
+Close Combat * 6, 23.1% of sets
+Flail * 5, 19.2% of sets
+Endure * 5, 19.2% of sets
+Reversal * 5, 19.2% of sets
+Stone Edge * 5, 19.2% of sets
+Facade * 5, 19.2% of sets
+Shadow Claw * 5, 19.2% of sets
+
+
+Items:
+Black Belt * 10, 38.5% of sets
+Heracronite * 6, 23.1% of sets
+Salac Berry * 5, 19.2% of sets
+Coba Berry * 5, 19.2% of sets
+
+Hippowdon, 51 sets
+Moves:
+Crunch * 51, 100% of sets
+Earthquake * 42, 82.4% of sets
+Yawn * 30, 58.8% of sets
+Curse * 21, 41.2% of sets
+Whirlwind * 17, 33.3% of sets
+Slack Off * 13, 25.5% of sets
+Rest * 12, 23.5% of sets
+Rock Slide * 9, 17.6% of sets
+Protect * 9, 17.6% of sets
+
+
+Items:
+Sitrus Berry * 22, 43.1% of sets
+Soft Sand * 17, 33.3% of sets
+Chesto Berry * 12, 23.5% of sets
+
+Honchkrow, 30 sets
+Moves:
+Psychic * 16, 53.3% of sets
+Dark Pulse * 16, 53.3% of sets
+Protect * 16, 53.3% of sets
+Sucker Punch * 14, 46.7% of sets
+Nasty Plot * 9, 30% of sets
+Swagger * 7, 23.3% of sets
+Shadow Ball * 7, 23.3% of sets
+Night Slash * 7, 23.3% of sets
+Drill Peck * 7, 23.3% of sets
+Thunder Wave * 7, 23.3% of sets
+Taunt * 7, 23.3% of sets
+Pursuit * 7, 23.3% of sets
+
+
+Items:
+Kee Berry * 9, 30% of sets
+Darkinium Z * 7, 23.3% of sets
+Life Orb * 7, 23.3% of sets
+Black Glasses * 7, 23.3% of sets
+
+Houndoom, 36 sets
+Moves:
+Flame Charge * 19, 52.8% of sets
+Will-o-wisp * 18, 50% of sets
+Fire Fang * 11, 30.6% of sets
+Sucker Punch * 11, 30.6% of sets
+Fire Blast * 10, 27.8% of sets
+Dark Pulse * 10, 27.8% of sets
+Solar Beam * 10, 27.8% of sets
+Sunny Day * 10, 27.8% of sets
+Counter * 8, 22.2% of sets
+Roar * 8, 22.2% of sets
+Protect * 8, 22.2% of sets
+Flamethrower * 7, 19.4% of sets
+Shadow Ball * 7, 19.4% of sets
+Sludge Bomb * 7, 19.4% of sets
+
+
+Items:
+Charcoal * 11, 30.6% of sets
+Houndoominite * 10, 27.8% of sets
+Focus Sash * 8, 22.2% of sets
+Air Balloon * 7, 19.4% of sets
+
+Hydreigon, 41 sets
+Moves:
+Earth Power * 24, 58.5% of sets
+Dragon Tail * 23, 56.1% of sets
+Dragon Rush * 17, 41.5% of sets
+Draco Meteor * 14, 34.1% of sets
+Taunt * 14, 34.1% of sets
+Flamethrower * 14, 34.1% of sets
+Earthquake * 13, 31.7% of sets
+Crunch * 13, 31.7% of sets
+Dragon Pulse * 10, 24.4% of sets
+Surf * 10, 24.4% of sets
+Focus Blast * 4, 9.8% of sets
+Fire Blast * 4, 9.8% of sets
+Work Up * 4, 9.8% of sets
+
+
+Items:
+Dragonium Z * 14, 34.1% of sets
+Roseli Berry * 13, 31.7% of sets
+Dragon Fang * 10, 24.4% of sets
+Wide Lens * 4, 9.8% of sets
+
+Incineroar, 40 sets
+Moves:
+Darkest Lariat * 14, 35% of sets
+Throat Chop * 14, 35% of sets
+Earthquake * 14, 35% of sets
+Outrage * 14, 35% of sets
+Flare Blitz * 11, 27.5% of sets
+Cross Chop * 11, 27.5% of sets
+Crunch * 11, 27.5% of sets
+U-turn * 11, 27.5% of sets
+Brutal Swing * 8, 20% of sets
+Fire Fang * 8, 20% of sets
+Bulk Up * 8, 20% of sets
+Lick * 8, 20% of sets
+Fake Out * 7, 17.5% of sets
+Heat Wave * 7, 17.5% of sets
+Snarl * 7, 17.5% of sets
+Will-o-wisp * 7, 17.5% of sets
+
+
+Items:
+Firium Z * 21, 52.5% of sets
+Quick Claw * 11, 27.5% of sets
+Razor Fang * 8, 20% of sets
+
+Infernape, 34 sets
+Moves:
+Fake Out * 29, 85.3% of sets
+Encore * 19, 55.9% of sets
+Close Combat * 19, 55.9% of sets
+Fling * 10, 29.4% of sets
+Acrobatics * 10, 29.4% of sets
+Overheat * 10, 29.4% of sets
+Stone Edge * 10, 29.4% of sets
+Flare Blitz * 9, 26.5% of sets
+Heat Wave * 5, 14.7% of sets
+Will-o-wisp * 5, 14.7% of sets
+Grass Knot * 5, 14.7% of sets
+Calm Mind * 5, 14.7% of sets
+
+
+Items:
+Kings Rock * 10, 29.4% of sets
+Life Orb * 10, 29.4% of sets
+Focus Sash * 9, 26.5% of sets
+Charcoal * 5, 14.7% of sets
+
+Jellicent, 39 sets
+Moves:
+Recover * 21, 53.8% of sets
+Will-o-wisp * 18, 46.2% of sets
+Rain Dance * 18, 46.2% of sets
+Hydro Pump * 18, 46.2% of sets
+Ice Beam * 18, 46.2% of sets
+Confuse Ray * 18, 46.2% of sets
+Water Spout * 13, 33.3% of sets
+Trick Room * 13, 33.3% of sets
+Scald * 8, 20.5% of sets
+Hex * 5, 12.8% of sets
+Acid Armor * 3, 7.7% of sets
+Ominous Wind * 3, 7.7% of sets
+
+
+Items:
+Damp Rock * 18, 46.2% of sets
+Mental Herb * 13, 33.3% of sets
+Sitrus Berry * 5, 12.8% of sets
+Bright Powder * 3, 7.7% of sets
+
+Jolteon, 55 sets
+Moves:
+Shadow Ball * 33, 60% of sets
+Thunder * 32, 58.2% of sets
+Rain Dance * 32, 58.2% of sets
+Thunderbolt * 23, 41.8% of sets
+Yawn * 22, 40% of sets
+Quick Attack * 12, 21.8% of sets
+Thunder Wave * 12, 21.8% of sets
+Swagger * 12, 21.8% of sets
+Hyper Beam * 11, 20% of sets
+Fake Tears * 11, 20% of sets
+Protect * 10, 18.2% of sets
+Charm * 10, 18.2% of sets
+
+
+Items:
+Kings Rock * 22, 40% of sets
+Magnet * 12, 21.8% of sets
+Darkinium Z * 11, 20% of sets
+Damp Rock * 10, 18.2% of sets
+
+Kangaskhan, 31 sets
+Moves:
+Fake Out * 27, 87.1% of sets
+Sucker Punch * 21, 67.7% of sets
+Rock Slide * 12, 38.7% of sets
+Dizzy Punch * 10, 32.3% of sets
+Chip Away * 10, 32.3% of sets
+Roar * 10, 32.3% of sets
+Double-edge * 9, 29% of sets
+Earthquake * 9, 29% of sets
+Facade * 8, 25.8% of sets
+Endure * 4, 12.9% of sets
+Reversal * 4, 12.9% of sets
+
+
+Items:
+Kangaskhanite * 17, 54.8% of sets
+Normalium Z * 10, 32.3% of sets
+Salac Berry * 4, 12.9% of sets
+
+Kingdra, 43 sets
+Moves:
+Protect * 22, 51.2% of sets
+Dragon Pulse * 21, 48.8% of sets
+Ice Beam * 21, 48.8% of sets
+Rain Dance * 16, 37.2% of sets
+Hydro Pump * 16, 37.2% of sets
+Waterfall * 14, 32.6% of sets
+Draco Meteor * 13, 30.2% of sets
+Surf * 13, 30.2% of sets
+Blizzard * 13, 30.2% of sets
+Quash * 9, 20.9% of sets
+Outrage * 9, 20.9% of sets
+Dragon Dance * 5, 11.6% of sets
+
+
+Items:
+Maranga Berry * 16, 37.2% of sets
+Dragonium Z * 13, 30.2% of sets
+Persim Berry * 9, 20.9% of sets
+Haban Berry * 5, 11.6% of sets
+
+Klinklang, 30 sets
+Moves:
+Gear Grind * 16, 53.3% of sets
+Volt Switch * 16, 53.3% of sets
+Flash Cannon * 14, 46.7% of sets
+Thunderbolt * 11, 36.7% of sets
+Protect * 11, 36.7% of sets
+Toxic * 11, 36.7% of sets
+Shift Gear * 8, 26.7% of sets
+Giga Impact * 8, 26.7% of sets
+Thunder Wave * 8, 26.7% of sets
+Screech * 8, 26.7% of sets
+Charge Beam * 3, 10% of sets
+Metal Sound * 3, 10% of sets
+Autotomize * 3, 10% of sets
+
+
+Items:
+Steelium Z * 11, 36.7% of sets
+Leftovers * 11, 36.7% of sets
+Shuca Berry * 8, 26.7% of sets
+
+Komala, 31 sets
+Moves:
+Play Rough * 24, 77.4% of sets
+Flail * 19, 61.3% of sets
+Payback * 13, 41.9% of sets
+Low Sweep * 13, 41.9% of sets
+Thrash * 12, 38.7% of sets
+Sucker Punch * 11, 35.5% of sets
+Defense Curl * 7, 22.6% of sets
+Rollout * 7, 22.6% of sets
+Yawn * 7, 22.6% of sets
+Earthquake * 6, 19.4% of sets
+Wood Hammer * 5, 16.1% of sets
+
+
+Items:
+Chople Berry * 13, 41.9% of sets
+Quick Claw * 7, 22.6% of sets
+Focus Sash * 6, 19.4% of sets
+Normalium Z * 5, 16.1% of sets
+
+Kommo-o, 30 sets
+Moves:
+Clanging Scales * 8, 26.7% of sets
+Focus Blast * 8, 26.7% of sets
+Autotomize * 8, 26.7% of sets
+Flash Cannon * 8, 26.7% of sets
+Draco Meteor * 8, 26.7% of sets
+Outrage * 8, 26.7% of sets
+Sky Uppercut * 8, 26.7% of sets
+Poison Jab * 8, 26.7% of sets
+Counter * 7, 23.3% of sets
+Reversal * 7, 23.3% of sets
+Dragon Tail * 7, 23.3% of sets
+Taunt * 7, 23.3% of sets
+Dragon Dance * 7, 23.3% of sets
+Dragon Claw * 7, 23.3% of sets
+Brick Break * 7, 23.3% of sets
+Rock Slide * 7, 23.3% of sets
+
+
+Items:
+Sitrus Berry * 8, 26.7% of sets
+White Herb * 8, 26.7% of sets
+Focus Sash * 7, 23.3% of sets
+Cheri Berry * 7, 23.3% of sets
+
+Landorus, 26 sets
+Moves:
+Earthquake * 14, 53.8% of sets
+Sandstorm * 8, 30.8% of sets
+Rock Slide * 8, 30.8% of sets
+Protect * 8, 30.8% of sets
+Rest * 6, 23.1% of sets
+Sleep Talk * 6, 23.1% of sets
+Smack Down * 6, 23.1% of sets
+Fissure * 6, 23.1% of sets
+Earth Power * 6, 23.1% of sets
+Extrasensory * 6, 23.1% of sets
+Focus Blast * 6, 23.1% of sets
+Grass Knot * 6, 23.1% of sets
+Hammer Arm * 6, 23.1% of sets
+Explosion * 6, 23.1% of sets
+U-turn * 6, 23.1% of sets
+
+
+Items:
+Smooth Rock * 8, 30.8% of sets
+Bright Powder * 6, 23.1% of sets
+Choice Scarf * 6, 23.1% of sets
+White Herb * 6, 23.1% of sets
+
+Lanturn, 36 sets
+Moves:
+Thunder Wave * 25, 69.4% of sets
+Ice Beam * 23, 63.9% of sets
+Stockpile * 16, 44.4% of sets
+Charge Beam * 16, 44.4% of sets
+Surf * 12, 33.3% of sets
+Discharge * 12, 33.3% of sets
+Rest * 11, 30.6% of sets
+Volt Switch * 8, 22.2% of sets
+Waterfall * 8, 22.2% of sets
+Agility * 8, 22.2% of sets
+Swallow * 5, 13.9% of sets
+
+
+Items:
+Petaya Berry * 12, 33.3% of sets
+Chesto Berry * 11, 30.6% of sets
+Salac Berry * 8, 22.2% of sets
+Sitrus Berry * 5, 13.9% of sets
+
+Lapras, 42 sets
+Moves:
+Ice Shard * 26, 61.9% of sets
+Psychic * 25, 59.5% of sets
+Surf * 16, 38.1% of sets
+Ice Beam * 16, 38.1% of sets
+Rain Dance * 13, 31% of sets
+Thunder * 13, 31% of sets
+Confuse Ray * 13, 31% of sets
+Blizzard * 13, 31% of sets
+Hydro Pump * 13, 31% of sets
+Thunderbolt * 12, 28.6% of sets
+Rest * 4, 9.5% of sets
+Sleep Talk * 4, 9.5% of sets
+
+
+Items:
+Damp Rock * 13, 31% of sets
+Psychium Z * 13, 31% of sets
+Bright Powder * 12, 28.6% of sets
+Normalium Z * 4, 9.5% of sets
+
+Latias, 28 sets
+Moves:
+Thunder Wave * 16, 57.1% of sets
+Dragon Pulse * 14, 50% of sets
+Psychic * 14, 50% of sets
+Mist Ball * 12, 42.9% of sets
+Zen Headbutt * 8, 28.6% of sets
+Earthquake * 8, 28.6% of sets
+Dragon Claw * 8, 28.6% of sets
+Roost * 8, 28.6% of sets
+Calm Mind * 6, 21.4% of sets
+Recover * 6, 21.4% of sets
+Draco Meteor * 6, 21.4% of sets
+Thunder * 6, 21.4% of sets
+
+
+Items:
+Life Orb * 8, 28.6% of sets
+Latiasite * 8, 28.6% of sets
+Lax Incense * 6, 21.4% of sets
+White Herb * 6, 21.4% of sets
+
+Latios, 42 sets
+Moves:
+Draco Meteor * 21, 50% of sets
+Psychic * 21, 50% of sets
+Thunder * 12, 28.6% of sets
+Energy Ball * 12, 28.6% of sets
+Zen Headbutt * 12, 28.6% of sets
+Earthquake * 12, 28.6% of sets
+Dragon Dance * 12, 28.6% of sets
+Dragon Claw * 12, 28.6% of sets
+Calm Mind * 9, 21.4% of sets
+Luster Purge * 9, 21.4% of sets
+Dragon Pulse * 9, 21.4% of sets
+Recover * 9, 21.4% of sets
+Thunderbolt * 9, 21.4% of sets
+Protect * 9, 21.4% of sets
+
+
+Items:
+Choice Specs * 12, 28.6% of sets
+Latiosite * 12, 28.6% of sets
+Lax Incense * 9, 21.4% of sets
+White Herb * 9, 21.4% of sets
+
+Leafeon, 38 sets
+Moves:
+Leaf Blade * 38, 100% of sets
+X-scissor * 29, 76.3% of sets
+Sunny Day * 15, 39.5% of sets
+Synthesis * 15, 39.5% of sets
+Giga Impact * 9, 23.7% of sets
+Substitute * 9, 23.7% of sets
+Yawn * 9, 23.7% of sets
+Aerial Ace * 8, 21.1% of sets
+Detect * 8, 21.1% of sets
+Swords Dance * 6, 15.8% of sets
+Grass Whistle * 6, 15.8% of sets
+
+
+Items:
+Heat Rock * 15, 39.5% of sets
+Liechi Berry * 9, 23.7% of sets
+Quick Claw * 8, 21.1% of sets
+Scope Lens * 6, 15.8% of sets
+
+Lickilicky, 58 sets
+Moves:
+Hammer Arm * 34, 58.6% of sets
+Body Slam * 20, 34.5% of sets
+Knock Off * 20, 34.5% of sets
+Zen Headbutt * 20, 34.5% of sets
+Explosion * 14, 24.1% of sets
+Brutal Swing * 14, 24.1% of sets
+Dragon Tail * 14, 24.1% of sets
+Defense Curl * 12, 20.7% of sets
+Rollout * 12, 20.7% of sets
+Me First * 12, 20.7% of sets
+Power Whip * 12, 20.7% of sets
+Blizzard * 12, 20.7% of sets
+Muddy Water * 12, 20.7% of sets
+Fire Blast * 12, 20.7% of sets
+Thunder * 12, 20.7% of sets
+
+
+Items:
+Normalium Z * 26, 44.8% of sets
+Quick Claw * 20, 34.5% of sets
+Expert Belt * 12, 20.7% of sets
+
+Liepard, 39 sets
+Moves:
+Shadow Ball * 23, 59% of sets
+Foul Play * 16, 41% of sets
+Sand Attack * 16, 41% of sets
+Snarl * 16, 41% of sets
+Snatch * 16, 41% of sets
+Fake Out * 16, 41% of sets
+Sucker Punch * 8, 20.5% of sets
+Thunder Wave * 8, 20.5% of sets
+Swagger * 8, 20.5% of sets
+Play Rough * 8, 20.5% of sets
+Dark Pulse * 7, 17.9% of sets
+Grass Knot * 7, 17.9% of sets
+Nasty Plot * 7, 17.9% of sets
+
+
+Items:
+Roseli Berry * 16, 41% of sets
+Red Card * 8, 20.5% of sets
+Groundium Z * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets
+
+Lilligant, 41 sets
+Moves:
+Leech Seed * 31, 75.6% of sets
+Protect * 22, 53.7% of sets
+Charm * 19, 46.3% of sets
+Quiver Dance * 14, 34.1% of sets
+Energy Ball * 14, 34.1% of sets
+Sleep Powder * 10, 24.4% of sets
+Petal Dance * 10, 24.4% of sets
+Healing Wish * 10, 24.4% of sets
+Solar Beam * 9, 22% of sets
+Teeter Dance * 9, 22% of sets
+Ingrain * 8, 19.5% of sets
+Toxic * 8, 19.5% of sets
+
+
+Items:
+Leftovers * 14, 34.1% of sets
+Persim Berry * 10, 24.4% of sets
+Grassium Z * 9, 22% of sets
+Big Root * 8, 19.5% of sets
+
+Lopunny, 28 sets
+Moves:
+Fake Out * 18, 64.3% of sets
+High Jump Kick * 13, 46.4% of sets
+Ice Punch * 13, 46.4% of sets
+Encore * 10, 35.7% of sets
+Fling * 10, 35.7% of sets
+Dizzy Punch * 10, 35.7% of sets
+Sweet Kiss * 8, 28.6% of sets
+Quick Attack * 5, 17.9% of sets
+Double Hit * 5, 17.9% of sets
+Charm * 5, 17.9% of sets
+Focus Punch * 5, 17.9% of sets
+Substitute * 5, 17.9% of sets
+Thunder Punch * 5, 17.9% of sets
+
+
+Items:
+Lopunnite * 13, 46.4% of sets
+Toxic Orb * 10, 35.7% of sets
+Liechi Berry * 5, 17.9% of sets
+
+Lucario, 41 sets
+Moves:
+Aura Sphere * 26, 63.4% of sets
+Close Combat * 15, 36.6% of sets
+Metal Sound * 15, 36.6% of sets
+Dark Pulse * 15, 36.6% of sets
+Heal Pulse * 15, 36.6% of sets
+Dragon Pulse * 11, 26.8% of sets
+Stone Edge * 11, 26.8% of sets
+Extreme Speed * 11, 26.8% of sets
+Rock Slide * 10, 24.4% of sets
+Blaze Kick * 10, 24.4% of sets
+Bullet Punch * 10, 24.4% of sets
+Bulk Up * 5, 12.2% of sets
+Endure * 5, 12.2% of sets
+Reversal * 5, 12.2% of sets
+
+
+Items:
+Fightinium Z * 15, 36.6% of sets
+Weakness Policy * 11, 26.8% of sets
+Lucarionite * 10, 24.4% of sets
+Liechi Berry * 5, 12.2% of sets
+
+Ludicolo, 50 sets
+Moves:
+Leech Seed * 42, 84% of sets
+Rain Dance * 31, 62% of sets
+Giga Drain * 31, 62% of sets
+Fake Out * 19, 38% of sets
+Grass Knot * 19, 38% of sets
+Toxic * 17, 34% of sets
+Protect * 14, 28% of sets
+Hydro Pump * 11, 22% of sets
+Surf * 8, 16% of sets
+Tickle * 8, 16% of sets
+
+
+Items:
+Leftovers * 31, 62% of sets
+Kee Berry * 11, 22% of sets
+Tanga Berry * 8, 16% of sets
+
+Lurantis, 38 sets
+Moves:
+Solar Blade * 26, 68.4% of sets
+Sunny Day * 21, 55.3% of sets
+Synthesis * 19, 50% of sets
+Solar Beam * 12, 31.6% of sets
+Weather Ball * 12, 31.6% of sets
+Leech Life * 10, 26.3% of sets
+Poison Jab * 10, 26.3% of sets
+Payback * 10, 26.3% of sets
+X-scissor * 9, 23.7% of sets
+Brick Break * 9, 23.7% of sets
+Ingrain * 7, 18.4% of sets
+Giga Drain * 7, 18.4% of sets
+
+
+Items:
+Smooth Rock * 12, 31.6% of sets
+Power Herb * 10, 26.3% of sets
+Quick Claw * 9, 23.7% of sets
+Grassium Z * 7, 18.4% of sets
+
+Lycanroc, 39 sets
+Moves:
+Accelerock * 25, 64.1% of sets
+Stealth Rock * 17, 43.6% of sets
+Rock Polish * 17, 43.6% of sets
+Rock Climb * 17, 43.6% of sets
+Rock Slide * 15, 38.5% of sets
+Thunder Fang * 15, 38.5% of sets
+Sucker Punch * 14, 35.9% of sets
+Quick Attack * 8, 20.5% of sets
+Counter * 7, 17.9% of sets
+Reversal * 7, 17.9% of sets
+Stone Edge * 7, 17.9% of sets
+Fire Fang * 7, 17.9% of sets
+
+
+Items:
+Rockium Z * 17, 43.6% of sets
+Life Orb * 8, 20.5% of sets
+Focus Sash * 7, 17.9% of sets
+Expert Belt * 7, 17.9% of sets
+
+Machamp, 36 sets
+Moves:
+Payback * 21, 58.3% of sets
+Dynamic Punch * 20, 55.6% of sets
+Earthquake * 19, 52.8% of sets
+Ice Punch * 15, 41.7% of sets
+Foresight * 11, 30.6% of sets
+Wide Guard * 11, 30.6% of sets
+Protect * 10, 27.8% of sets
+Close Combat * 10, 27.8% of sets
+Rock Slide * 9, 25% of sets
+Cross Chop * 6, 16.7% of sets
+Fire Punch * 6, 16.7% of sets
+Focus Energy * 6, 16.7% of sets
+
+
+Items:
+Rawst Berry * 11, 30.6% of sets
+Flame Orb * 10, 27.8% of sets
+Choice Scarf * 9, 25% of sets
+Expert Belt * 6, 16.7% of sets
+
+Magmortar, 55 sets
+Moves:
+Flare Blitz * 30, 54.5% of sets
+Will-o-wisp * 25, 45.5% of sets
+Cross Chop * 20, 36.4% of sets
+Flame Charge * 20, 36.4% of sets
+Rock Slide * 20, 36.4% of sets
+Fire Blast * 15, 27.3% of sets
+Psychic * 15, 27.3% of sets
+Focus Blast * 15, 27.3% of sets
+Belly Drum * 10, 18.2% of sets
+Mach Punch * 10, 18.2% of sets
+Belch * 10, 18.2% of sets
+Confuse Ray * 10, 18.2% of sets
+Thunder Punch * 10, 18.2% of sets
+Fire Punch * 10, 18.2% of sets
+
+
+Items:
+Air Balloon * 35, 63.6% of sets
+Sitrus Berry * 10, 18.2% of sets
+Quick Claw * 10, 18.2% of sets
+
+Magnezone, 42 sets
+Moves:
+Flash Cannon * 42, 100% of sets
+Thunderbolt * 25, 59.5% of sets
+Magnet Rise * 22, 52.4% of sets
+Charge Beam * 17, 40.5% of sets
+Thunder Wave * 17, 40.5% of sets
+Tri Attack * 17, 40.5% of sets
+Volt Switch * 17, 40.5% of sets
+Metal Sound * 8, 19% of sets
+Mirror Coat * 3, 7.1% of sets
+
+
+Items:
+Assault Vest * 17, 40.5% of sets
+Bright Powder * 14, 33.3% of sets
+Steelium Z * 8, 19% of sets
+Shuca Berry * 3, 7.1% of sets
+
+Malamar, 28 sets
+Moves:
+Psycho Cut * 23, 82.1% of sets
+Superpower * 14, 50% of sets
+Payback * 9, 32.1% of sets
+Reflect * 9, 32.1% of sets
+Flatter * 9, 32.1% of sets
+Rock Slide * 8, 28.6% of sets
+Night Slash * 8, 28.6% of sets
+Foul Play * 6, 21.4% of sets
+Destiny Bond * 6, 21.4% of sets
+Thunderbolt * 5, 17.9% of sets
+Flamethrower * 5, 17.9% of sets
+Psychic * 5, 17.9% of sets
+Dark Pulse * 5, 17.9% of sets
+
+
+Items:
+Tanga Berry * 9, 32.1% of sets
+Assault Vest * 8, 28.6% of sets
+Darkinium Z * 6, 21.4% of sets
+Choice Specs * 5, 17.9% of sets
+
+Mamoswine, 40 sets
+Moves:
+Earthquake * 31, 77.5% of sets
+Stone Edge * 21, 52.5% of sets
+Ice Fang * 21, 52.5% of sets
+Double-edge * 12, 30% of sets
+Hail * 10, 25% of sets
+Avalanche * 10, 25% of sets
+Fissure * 10, 25% of sets
+Bulldoze * 9, 22.5% of sets
+Blizzard * 9, 22.5% of sets
+Double Hit * 9, 22.5% of sets
+Icicle Crash * 9, 22.5% of sets
+Stealth Rock * 9, 22.5% of sets
+
+
+Items:
+Life Orb * 12, 30% of sets
+Lax Incense * 10, 25% of sets
+Zoom Lens * 9, 22.5% of sets
+Passho Berry * 9, 22.5% of sets
+
+Mandibuzz, 31 sets
+Moves:
+Roost * 18, 58.1% of sets
+Nasty Plot * 13, 41.9% of sets
+Dark Pulse * 13, 41.9% of sets
+Air Slash * 13, 41.9% of sets
+Taunt * 11, 35.5% of sets
+Flatter * 11, 35.5% of sets
+Toxic * 11, 35.5% of sets
+Tailwind * 8, 25.8% of sets
+Substitute * 7, 22.6% of sets
+Swagger * 7, 22.6% of sets
+Punishment * 7, 22.6% of sets
+Shadow Ball * 5, 16.1% of sets
+
+
+Items:
+Wacan Berry * 11, 35.5% of sets
+Sitrus Berry * 8, 25.8% of sets
+Leftovers * 7, 22.6% of sets
+Roseli Berry * 5, 16.1% of sets
+
+Manectric, 33 sets
+Moves:
+Quick Attack * 22, 66.7% of sets
+Overheat * 22, 66.7% of sets
+Crunch * 11, 33.3% of sets
+Odor Sleuth * 11, 33.3% of sets
+Wild Charge * 11, 33.3% of sets
+Thunderbolt * 11, 33.3% of sets
+Snarl * 11, 33.3% of sets
+Switcheroo * 8, 24.2% of sets
+Thunder * 8, 24.2% of sets
+Volt Switch * 8, 24.2% of sets
+Flamethrower * 3, 9.1% of sets
+Discharge * 3, 9.1% of sets
+Charge * 3, 9.1% of sets
+
+
+Items:
+Life Orb * 11, 33.3% of sets
+Manectite * 11, 33.3% of sets
+Choice Scarf * 8, 24.2% of sets
+Air Balloon * 3, 9.1% of sets
+
+Marowak, 34 sets
+Moves:
+Bone Rush * 15, 44.1% of sets
+Double Kick * 15, 44.1% of sets
+Endeavor * 15, 44.1% of sets
+Smack Down * 15, 44.1% of sets
+Will-o-wisp * 9, 26.5% of sets
+Hex * 9, 26.5% of sets
+Thunder * 9, 26.5% of sets
+Rain Dance * 9, 26.5% of sets
+Shadow Bone * 6, 17.6% of sets
+Flare Blitz * 6, 17.6% of sets
+Detect * 6, 17.6% of sets
+Stomping Tantrum * 6, 17.6% of sets
+Earthquake * 4, 11.8% of sets
+Stone Edge * 4, 11.8% of sets
+Brick Break * 4, 11.8% of sets
+Brutal Swing * 4, 11.8% of sets
+
+
+Items:
+Red Card * 15, 44.1% of sets
+Thick Club * 10, 29.4% of sets
+Air Balloon * 9, 26.5% of sets
+
+Mawile, 46 sets
+Moves:
+Sucker Punch * 39, 84.8% of sets
+Iron Head * 30, 65.2% of sets
+Crunch * 20, 43.5% of sets
+Taunt * 20, 43.5% of sets
+Play Rough * 19, 41.3% of sets
+Swords Dance * 10, 21.7% of sets
+Fire Fang * 9, 19.6% of sets
+Stone Edge * 9, 19.6% of sets
+Flash Cannon * 7, 15.2% of sets
+Fairy Wind * 7, 15.2% of sets
+Metal Burst * 7, 15.2% of sets
+Shadow Ball * 7, 15.2% of sets
+
+
+Items:
+Quick Claw * 20, 43.5% of sets
+Mawilite * 19, 41.3% of sets
+Fairium Z * 7, 15.2% of sets
+
+Medicham, 27 sets
+Moves:
+High Jump Kick * 22, 81.5% of sets
+Fake Out * 15, 55.6% of sets
+Psycho Cut * 8, 29.6% of sets
+Detect * 8, 29.6% of sets
+Zen Headbutt * 7, 25.9% of sets
+Ice Punch * 7, 25.9% of sets
+Bullet Punch * 7, 25.9% of sets
+Bulk Up * 7, 25.9% of sets
+Feint * 7, 25.9% of sets
+Psychic * 5, 18.5% of sets
+Shadow Ball * 5, 18.5% of sets
+Energy Ball * 5, 18.5% of sets
+Calm Mind * 5, 18.5% of sets
+
+
+Items:
+Medichamite * 8, 29.6% of sets
+Expert Belt * 7, 25.9% of sets
+Fightinium Z * 7, 25.9% of sets
+Psychium Z * 5, 18.5% of sets
+
+Meganium, 20 sets
+Moves:
+Light Screen * 11, 55% of sets
+Petal Blizzard * 8, 40% of sets
+Leech Seed * 6, 30% of sets
+Ingrain * 6, 30% of sets
+Toxic * 6, 30% of sets
+Protect * 6, 30% of sets
+Aromatherapy * 6, 30% of sets
+Swagger * 6, 30% of sets
+Solar Beam * 6, 30% of sets
+Earthquake * 5, 25% of sets
+Reflect * 5, 25% of sets
+Double Team * 3, 15% of sets
+Substitute * 3, 15% of sets
+Rest * 3, 15% of sets
+
+
+Items:
+Leftovers * 6, 30% of sets
+Sitrus Berry * 6, 30% of sets
+Light Clay * 5, 25% of sets
+Chesto Berry * 3, 15% of sets
+
+Mesprit, 26 sets
+Moves:
+Psyshock * 7, 26.9% of sets
+Grass Knot * 7, 26.9% of sets
+Shadow Ball * 7, 26.9% of sets
+Charm * 7, 26.9% of sets
+Psychic * 7, 26.9% of sets
+Thunder * 7, 26.9% of sets
+Blizzard * 7, 26.9% of sets
+Protect * 7, 26.9% of sets
+Acrobatics * 6, 23.1% of sets
+U-turn * 6, 23.1% of sets
+Facade * 6, 23.1% of sets
+Fling * 6, 23.1% of sets
+Future Sight * 6, 23.1% of sets
+Healing Wish * 6, 23.1% of sets
+Copycat * 6, 23.1% of sets
+Thunder Wave * 6, 23.1% of sets
+
+
+Items:
+Kasib Berry * 7, 26.9% of sets
+Wide Lens * 7, 26.9% of sets
+Flame Orb * 6, 23.1% of sets
+Bright Powder * 6, 23.1% of sets
+
+Metagross, 48 sets
+Moves:
+Meteor Mash * 48, 100% of sets
+Bullet Punch * 34, 70.8% of sets
+Zen Headbutt * 27, 56.2% of sets
+Earthquake * 17, 35.4% of sets
+Explosion * 17, 35.4% of sets
+Brick Break * 17, 35.4% of sets
+Magnet Rise * 14, 29.2% of sets
+Agility * 10, 20.8% of sets
+Psychic * 4, 8.3% of sets
+Shadow Ball * 4, 8.3% of sets
+
+
+Items:
+Occa Berry * 31, 64.6% of sets
+Metagrossite * 17, 35.4% of sets
+
+Mienshao, 29 sets
+Moves:
+U-turn * 18, 62.1% of sets
+Fake Out * 17, 58.6% of sets
+High Jump Kick * 17, 58.6% of sets
+Endure * 12, 41.4% of sets
+Calm Mind * 12, 41.4% of sets
+Baton Pass * 12, 41.4% of sets
+Feint * 7, 24.1% of sets
+Wide Guard * 7, 24.1% of sets
+Low Kick * 6, 20.7% of sets
+Fling * 4, 13.8% of sets
+Acrobatics * 4, 13.8% of sets
+
+
+Items:
+Salac Berry * 12, 41.4% of sets
+Fightinium Z * 7, 24.1% of sets
+Focus Sash * 6, 20.7% of sets
+Kings Rock * 4, 13.8% of sets
+
+Milotic, 45 sets
+Moves:
+Mirror Coat * 24, 53.3% of sets
+Recover * 24, 53.3% of sets
+Surf * 24, 53.3% of sets
+Hydro Pump * 21, 46.7% of sets
+Blizzard * 14, 31.1% of sets
+Ice Beam * 14, 31.1% of sets
+Rest * 14, 31.1% of sets
+Sleep Talk * 14, 31.1% of sets
+Confuse Ray * 10, 22.2% of sets
+Toxic * 7, 15.6% of sets
+Attract * 7, 15.6% of sets
+Aqua Ring * 7, 15.6% of sets
+
+
+Items:
+Leftovers * 21, 46.7% of sets
+Wide Lens * 14, 31.1% of sets
+Enigma Berry * 10, 22.2% of sets
+
+Mimikyu, 37 sets
+Moves:
+Shadow Claw * 30, 81.1% of sets
+Play Rough * 15, 40.5% of sets
+Slash * 15, 40.5% of sets
+Double Team * 15, 40.5% of sets
+Thunder Wave * 15, 40.5% of sets
+Destiny Bond * 8, 21.6% of sets
+Shadow Sneak * 8, 21.6% of sets
+Wood Hammer * 7, 18.9% of sets
+Swords Dance * 7, 18.9% of sets
+Curse * 7, 18.9% of sets
+Protect * 7, 18.9% of sets
+Astonish * 7, 18.9% of sets
+Baby-doll Eyes * 7, 18.9% of sets
+
+
+Items:
+Bright Powder * 15, 40.5% of sets
+Rocky Helmet * 8, 21.6% of sets
+Fairium Z * 7, 18.9% of sets
+Leftovers * 7, 18.9% of sets
+
+Minior, 29 sets
+Moves:
+U-turn * 15, 51.7% of sets
+Rock Tomb * 15, 51.7% of sets
+Light Screen * 15, 51.7% of sets
+Reflect * 15, 51.7% of sets
+Acrobatics * 10, 34.5% of sets
+Rock Slide * 6, 20.7% of sets
+Shell Smash * 6, 20.7% of sets
+Explosion * 6, 20.7% of sets
+Earthquake * 4, 13.8% of sets
+Stone Edge * 4, 13.8% of sets
+Autotomize * 4, 13.8% of sets
+Confuse Ray * 4, 13.8% of sets
+Cosmic Power * 4, 13.8% of sets
+Ancient Power * 4, 13.8% of sets
+Charge Beam * 4, 13.8% of sets
+
+
+Items:
+Light Clay * 15, 51.7% of sets
+Sitrus Berry * 6, 20.7% of sets
+Red Card * 4, 13.8% of sets
+Absorb Bulb * 4, 13.8% of sets
+
+Mismagius, 23 sets
+Moves:
+Shadow Ball * 17, 73.9% of sets
+Protect * 15, 65.2% of sets
+Taunt * 9, 39.1% of sets
+Imprison * 9, 39.1% of sets
+Power Gem * 6, 26.1% of sets
+Perish Song * 6, 26.1% of sets
+Mean Look * 6, 26.1% of sets
+Wonder Room * 4, 17.4% of sets
+Grudge * 4, 17.4% of sets
+Pain Split * 4, 17.4% of sets
+Dazzling Gleam * 4, 17.4% of sets
+Thunderbolt * 4, 17.4% of sets
+Destiny Bond * 4, 17.4% of sets
+
+
+Items:
+Colbur Berry * 9, 39.1% of sets
+Bright Powder * 6, 26.1% of sets
+Kasib Berry * 4, 17.4% of sets
+Ghostium Z * 4, 17.4% of sets
+
+Moltres, 26 sets
+Moves:
+Air Slash * 18, 69.2% of sets
+Overheat * 8, 30.8% of sets
+Agility * 8, 30.8% of sets
+Will-o-wisp * 8, 30.8% of sets
+Flame Charge * 8, 30.8% of sets
+Sky Attack * 8, 30.8% of sets
+Aerial Ace * 8, 30.8% of sets
+Fire Blast * 8, 30.8% of sets
+Sunny Day * 5, 19.2% of sets
+Solar Beam * 5, 19.2% of sets
+Flamethrower * 5, 19.2% of sets
+Heat Wave * 5, 19.2% of sets
+Burn Up * 5, 19.2% of sets
+Protect * 5, 19.2% of sets
+
+
+Items:
+White Herb * 8, 30.8% of sets
+Power Herb * 8, 30.8% of sets
+Heat Rock * 5, 19.2% of sets
+Firium Z * 5, 19.2% of sets
+
+Mudsdale, 34 sets
+Moves:
+Earthquake * 26, 76.5% of sets
+Payback * 18, 52.9% of sets
+Heavy Slam * 11, 32.4% of sets
+Close Combat * 11, 32.4% of sets
+Sandstorm * 11, 32.4% of sets
+Rock Slide * 10, 29.4% of sets
+Mud-slap * 10, 29.4% of sets
+Counter * 8, 23.5% of sets
+Rest * 8, 23.5% of sets
+Sleep Talk * 8, 23.5% of sets
+Superpower * 5, 14.7% of sets
+Rock Tomb * 5, 14.7% of sets
+Roar * 5, 14.7% of sets
+
+
+Items:
+Yache Berry * 11, 32.4% of sets
+Passho Berry * 10, 29.4% of sets
+Sitrus Berry * 8, 23.5% of sets
+Rindo Berry * 5, 14.7% of sets
+
+Muk, 34 sets
+Moves:
+Shadow Sneak * 17, 50% of sets
+Poison Jab * 12, 35.3% of sets
+Stockpile * 12, 35.3% of sets
+Swallow * 12, 35.3% of sets
+Mud-slap * 12, 35.3% of sets
+Gunk Shot * 9, 26.5% of sets
+Brick Break * 9, 26.5% of sets
+Explosion * 9, 26.5% of sets
+Crunch * 8, 23.5% of sets
+Belch * 8, 23.5% of sets
+Stone Edge * 8, 23.5% of sets
+Minimize * 5, 14.7% of sets
+Acid Spray * 5, 14.7% of sets
+Rest * 5, 14.7% of sets
+Snarl * 5, 14.7% of sets
+
+
+Items:
+Black Sludge * 12, 35.3% of sets
+Quick Claw * 9, 26.5% of sets
+Liechi Berry * 8, 23.5% of sets
+Air Balloon * 5, 14.7% of sets
+
+Musharna, 34 sets
+Moves:
+Shadow Ball * 25, 73.5% of sets
+Calm Mind * 18, 52.9% of sets
+Psychic * 16, 47.1% of sets
+Energy Ball * 16, 47.1% of sets
+Stored Power * 9, 26.5% of sets
+Rest * 9, 26.5% of sets
+Hypnosis * 9, 26.5% of sets
+Dream Eater * 9, 26.5% of sets
+Helping Hand * 9, 26.5% of sets
+Yawn * 8, 23.5% of sets
+Trick Room * 8, 23.5% of sets
+
+
+Items:
+Chesto Berry * 9, 26.5% of sets
+Zoom Lens * 9, 26.5% of sets
+Scope Lens * 8, 23.5% of sets
+Lum Berry * 8, 23.5% of sets
+
+Nidoking, 36 sets
+Moves:
+Protect * 26, 72.2% of sets
+Megahorn * 20, 55.6% of sets
+Sludge Bomb * 16, 44.4% of sets
+Earth Power * 11, 30.6% of sets
+Fire Blast * 11, 30.6% of sets
+Bulldoze * 10, 27.8% of sets
+Rock Slide * 10, 27.8% of sets
+Sucker Punch * 10, 27.8% of sets
+Earthquake * 10, 27.8% of sets
+Poison Jab * 10, 27.8% of sets
+Amnesia * 5, 13.9% of sets
+Flamethrower * 5, 13.9% of sets
+
+
+Items:
+Black Sludge * 16, 44.4% of sets
+Kings Rock * 10, 27.8% of sets
+Buginium Z * 10, 27.8% of sets
+
+Nidoqueen, 36 sets
+Moves:
+Earth Power * 16, 44.4% of sets
+Sludge Bomb * 11, 30.6% of sets
+Flamethrower * 11, 30.6% of sets
+Ice Beam * 11, 30.6% of sets
+Chip Away * 10, 27.8% of sets
+Swagger * 10, 27.8% of sets
+Helping Hand * 10, 27.8% of sets
+Flatter * 10, 27.8% of sets
+Poison Jab * 10, 27.8% of sets
+Dragon Tail * 10, 27.8% of sets
+Bulldoze * 10, 27.8% of sets
+Earthquake * 10, 27.8% of sets
+Thunderbolt * 5, 13.9% of sets
+Hyper Beam * 5, 13.9% of sets
+Counter * 5, 13.9% of sets
+
+
+Items:
+Black Sludge * 21, 58.3% of sets
+Payapa Berry * 10, 27.8% of sets
+Absorb Bulb * 5, 13.9% of sets
+
+Ninetales, 54 sets
+Moves:
+Hypnosis * 23, 42.6% of sets
+Will-o-wisp * 19, 35.2% of sets
+Hex * 19, 35.2% of sets
+Confuse Ray * 19, 35.2% of sets
+Flame Burst * 19, 35.2% of sets
+Fire Blast * 18, 33.3% of sets
+Dark Pulse * 18, 33.3% of sets
+Energy Ball * 18, 33.3% of sets
+Freeze-dry * 12, 22.2% of sets
+Dazzling Gleam * 12, 22.2% of sets
+Extrasensory * 12, 22.2% of sets
+Ice Shard * 12, 22.2% of sets
+Aurora Veil * 5, 9.3% of sets
+Dream Eater * 5, 9.3% of sets
+Blizzard * 5, 9.3% of sets
+
+
+Items:
+Passho Berry * 19, 35.2% of sets
+Wide Lens * 18, 33.3% of sets
+Psychium Z * 12, 22.2% of sets
+Icium Z * 5, 9.3% of sets
+
+Noivern, 42 sets
+Moves:
+Dragon Pulse * 23, 54.8% of sets
+Flamethrower * 23, 54.8% of sets
+Super Fang * 14, 33.3% of sets
+Boomburst * 14, 33.3% of sets
+Round * 14, 33.3% of sets
+Torment * 14, 33.3% of sets
+Air Slash * 12, 28.6% of sets
+Psychic * 12, 28.6% of sets
+Hurricane * 11, 26.2% of sets
+Focus Blast * 11, 26.2% of sets
+Dragon Claw * 5, 11.9% of sets
+Wild Charge * 5, 11.9% of sets
+X-scissor * 5, 11.9% of sets
+Acrobatics * 5, 11.9% of sets
+
+
+Items:
+Yache Berry * 14, 33.3% of sets
+Razor Fang * 12, 28.6% of sets
+Wide Lens * 11, 26.2% of sets
+Roseli Berry * 5, 11.9% of sets
+
+Oranguru, 29 sets
+Moves:
+Psychic * 21, 72.4% of sets
+Shadow Ball * 17, 58.6% of sets
+Focus Blast * 14, 48.3% of sets
+Trick Room * 10, 34.5% of sets
+Psychic Terrain * 8, 27.6% of sets
+Psyshock * 8, 27.6% of sets
+Future Sight * 8, 27.6% of sets
+Instruct * 8, 27.6% of sets
+Energy Ball * 7, 24.1% of sets
+Nasty Plot * 7, 24.1% of sets
+Foul Play * 4, 13.8% of sets
+Thunder * 4, 13.8% of sets
+
+
+Items:
+Mental Herb * 10, 34.5% of sets
+Psychic Seed * 8, 27.6% of sets
+Psychium Z * 7, 24.1% of sets
+Electrium Z * 4, 13.8% of sets
+
+Oricorio, 22 sets
+Moves:
+Revelation Dance * 22, 100% of sets
+Pluck * 11, 50% of sets
+Calm Mind * 11, 50% of sets
+Baton Pass * 11, 50% of sets
+Air Slash * 7, 31.8% of sets
+Teeter Dance * 4, 18.2% of sets
+Feather Dance * 4, 18.2% of sets
+Acrobatics * 4, 18.2% of sets
+Roost * 4, 18.2% of sets
+Tailwind * 4, 18.2% of sets
+Hurricane * 3, 13.6% of sets
+U-turn * 3, 13.6% of sets
+
+
+Items:
+Weakness Policy * 11, 50% of sets
+Charti Berry * 4, 18.2% of sets
+Flyinium Z * 4, 18.2% of sets
+Choice Specs * 3, 13.6% of sets
+
+Palossand, 37 sets
+Moves:
+Shadow Ball * 37, 100% of sets
+Earth Power * 37, 100% of sets
+Sludge Bomb * 18, 48.6% of sets
+Ancient Power * 12, 32.4% of sets
+Giga Drain * 11, 29.7% of sets
+Destiny Bond * 11, 29.7% of sets
+Shore Up * 8, 21.6% of sets
+Sandstorm * 8, 21.6% of sets
+Rock Polish * 6, 16.2% of sets
+
+
+Items:
+Sitrus Berry * 12, 32.4% of sets
+Weakness Policy * 11, 29.7% of sets
+Smooth Rock * 8, 21.6% of sets
+Ghostium Z * 6, 16.2% of sets
+
+Passimian, 28 sets
+Moves:
+Close Combat * 21, 75% of sets
+Rock Slide * 21, 75% of sets
+Feint * 16, 57.1% of sets
+Fling * 13, 46.4% of sets
+Iron Head * 10, 35.7% of sets
+Seismic Toss * 7, 25% of sets
+Vital Throw * 7, 25% of sets
+Gyro Ball * 7, 25% of sets
+Earthquake * 5, 17.9% of sets
+U-turn * 5, 17.9% of sets
+
+
+Items:
+Coba Berry * 10, 35.7% of sets
+Iron Ball * 7, 25% of sets
+Hard Stone * 6, 21.4% of sets
+Choice Scarf * 5, 17.9% of sets
+
+Pelipper, 56 sets
+Moves:
+Hurricane * 47, 83.9% of sets
+Blizzard * 36, 64.3% of sets
+Surf * 27, 48.2% of sets
+Roost * 27, 48.2% of sets
+Tailwind * 18, 32.1% of sets
+Scald * 18, 32.1% of sets
+Rain Dance * 11, 19.6% of sets
+Hydro Pump * 11, 19.6% of sets
+Ice Beam * 11, 19.6% of sets
+Stockpile * 9, 16.1% of sets
+Toxic * 9, 16.1% of sets
+
+
+Items:
+Sea Incense * 18, 32.1% of sets
+Flyinium Z * 18, 32.1% of sets
+Waterium Z * 11, 19.6% of sets
+Rocky Helmet * 9, 16.1% of sets
+
+Pidgeot, 26 sets
+Moves:
+Roost * 13, 50% of sets
+Aerial Ace * 9, 34.6% of sets
+Steel Wing * 9, 34.6% of sets
+Thief * 9, 34.6% of sets
+Hurricane * 9, 34.6% of sets
+Hyper Beam * 9, 34.6% of sets
+Mirror Move * 8, 30.8% of sets
+Twister * 8, 30.8% of sets
+Sand Attack * 8, 30.8% of sets
+Double Team * 8, 30.8% of sets
+Tailwind * 5, 19.2% of sets
+Quick Attack * 5, 19.2% of sets
+Feather Dance * 4, 15.4% of sets
+
+
+Items:
+Charti Berry * 9, 34.6% of sets
+Pidgeotite * 9, 34.6% of sets
+Flyinium Z * 8, 30.8% of sets
+
+Pinsir, 26 sets
+Moves:
+X-scissor * 18, 69.2% of sets
+Thrash * 14, 53.8% of sets
+Bug Bite * 13, 50% of sets
+Stone Edge * 11, 42.3% of sets
+Brick Break * 8, 30.8% of sets
+Swords Dance * 8, 30.8% of sets
+Earthquake * 7, 26.9% of sets
+Close Combat * 7, 26.9% of sets
+Guillotine * 7, 26.9% of sets
+Superpower * 6, 23.1% of sets
+Feint * 5, 19.2% of sets
+
+
+Items:
+Persim Berry * 8, 30.8% of sets
+Choice Scarf * 7, 26.9% of sets
+Pinsirite * 6, 23.1% of sets
+Rockium Z * 5, 19.2% of sets
+
+Politoed, 50 sets
+Moves:
+Waterfall * 30, 60% of sets
+Hydro Pump * 20, 40% of sets
+Encore * 16, 32% of sets
+Swagger * 16, 32% of sets
+Bounce * 16, 32% of sets
+Earthquake * 14, 28% of sets
+Belly Drum * 14, 28% of sets
+Rest * 14, 28% of sets
+Blizzard * 11, 22% of sets
+Focus Blast * 11, 22% of sets
+Hypnosis * 11, 22% of sets
+Rain Dance * 9, 18% of sets
+Round * 9, 18% of sets
+Body Slam * 9, 18% of sets
+
+
+Items:
+Cell Battery * 16, 32% of sets
+Chesto Berry * 14, 28% of sets
+Wide Lens * 11, 22% of sets
+Damp Rock * 9, 18% of sets
+
+Porygon, 35 sets
+Moves:
+Tri Attack * 21, 60% of sets
+Ice Beam * 18, 51.4% of sets
+Blizzard * 14, 40% of sets
+Magic Coat * 14, 40% of sets
+Lock-on * 14, 40% of sets
+Zap Cannon * 14, 40% of sets
+Psychic * 11, 31.4% of sets
+Thunder Wave * 10, 28.6% of sets
+Shadow Ball * 10, 28.6% of sets
+Thunderbolt * 8, 22.9% of sets
+Double Team * 3, 8.6% of sets
+Recover * 3, 8.6% of sets
+
+
+Items:
+Eviolite * 21, 60% of sets
+Sitrus Berry * 14, 40% of sets
+
+Porygon-Z, 41 sets
+Moves:
+Thunderbolt * 26, 63.4% of sets
+Shadow Ball * 26, 63.4% of sets
+Psychic * 24, 58.5% of sets
+Tri Attack * 14, 34.1% of sets
+Recover * 14, 34.1% of sets
+Ice Beam * 12, 29.3% of sets
+Signal Beam * 12, 29.3% of sets
+Charge Beam * 12, 29.3% of sets
+Thunder Wave * 12, 29.3% of sets
+Hyper Beam * 3, 7.3% of sets
+
+
+Items:
+Normalium Z * 14, 34.1% of sets
+Expert Belt * 12, 29.3% of sets
+Wise Glasses * 12, 29.3% of sets
+Choice Specs * 3, 7.3% of sets
+
+Primarina, 32 sets
+Moves:
+Sparkling Aria * 10, 31.2% of sets
+Dazzling Gleam * 10, 31.2% of sets
+Blizzard * 10, 31.2% of sets
+Aqua Jet * 10, 31.2% of sets
+Hydro Pump * 9, 28.1% of sets
+Moonblast * 9, 28.1% of sets
+Psychic * 9, 28.1% of sets
+Baby-doll Eyes * 9, 28.1% of sets
+Bubble Beam * 8, 25% of sets
+Shadow Ball * 8, 25% of sets
+Energy Ball * 8, 25% of sets
+Aqua Ring * 8, 25% of sets
+Hyper Voice * 5, 15.6% of sets
+Disarming Voice * 5, 15.6% of sets
+Growl * 5, 15.6% of sets
+Sing * 5, 15.6% of sets
+
+
+Items:
+Waterium Z * 10, 31.2% of sets
+Kebia Berry * 9, 28.1% of sets
+Mystic Water * 8, 25% of sets
+Normalium Z * 5, 15.6% of sets
+
+Probopass, 47 sets
+Moves:
+Thunder Wave * 20, 42.6% of sets
+Explosion * 16, 34% of sets
+Rock Blast * 16, 34% of sets
+Volt Switch * 16, 34% of sets
+Sandstorm * 16, 34% of sets
+Tri Attack * 11, 23.4% of sets
+Power Gem * 11, 23.4% of sets
+Flash Cannon * 11, 23.4% of sets
+Dazzling Gleam * 11, 23.4% of sets
+Bulldoze * 10, 21.3% of sets
+Rock Slide * 10, 21.3% of sets
+Stealth Rock * 10, 21.3% of sets
+Double Team * 10, 21.3% of sets
+Rest * 10, 21.3% of sets
+Magnet Bomb * 10, 21.3% of sets
+
+
+Items:
+Quick Claw * 16, 34% of sets
+Sitrus Berry * 11, 23.4% of sets
+Leftovers * 10, 21.3% of sets
+Chesto Berry * 10, 21.3% of sets
+
+Pyroar, 35 sets
+Moves:
+Hyper Voice * 28, 80% of sets
+Flamethrower * 11, 31.4% of sets
+Snarl * 11, 31.4% of sets
+Noble Roar * 11, 31.4% of sets
+Sunny Day * 9, 25.7% of sets
+Fire Blast * 9, 25.7% of sets
+Solar Beam * 9, 25.7% of sets
+Overheat * 8, 22.9% of sets
+Dark Pulse * 8, 22.9% of sets
+Round * 8, 22.9% of sets
+Return * 7, 20% of sets
+Fire Fang * 7, 20% of sets
+Wild Charge * 7, 20% of sets
+Crunch * 7, 20% of sets
+
+
+Items:
+Kings Rock * 11, 31.4% of sets
+Heat Rock * 9, 25.7% of sets
+White Herb * 8, 22.9% of sets
+Lum Berry * 7, 20% of sets
+
+Raichu, 37 sets
+Moves:
+Volt Switch * 15, 40.5% of sets
+Safeguard * 15, 40.5% of sets
+Psyshock * 15, 40.5% of sets
+Disarming Voice * 15, 40.5% of sets
+Thunderbolt * 9, 24.3% of sets
+Psychic * 9, 24.3% of sets
+Grass Knot * 9, 24.3% of sets
+Nasty Plot * 9, 24.3% of sets
+Fake Out * 8, 21.6% of sets
+Volt Tackle * 8, 21.6% of sets
+Reversal * 8, 21.6% of sets
+Light Screen * 8, 21.6% of sets
+Nuzzle * 5, 13.5% of sets
+Focus Blast * 5, 13.5% of sets
+Sweet Kiss * 5, 13.5% of sets
+Charge Beam * 5, 13.5% of sets
+
+
+Items:
+Twisted Spoon * 15, 40.5% of sets
+Focus Sash * 9, 24.3% of sets
+Air Balloon * 8, 21.6% of sets
+Shuca Berry * 5, 13.5% of sets
+
+Raikou, 40 sets
+Moves:
+Shadow Ball * 30, 75% of sets
+Thunderbolt * 20, 50% of sets
+Volt Switch * 20, 50% of sets
+Extrasensory * 20, 50% of sets
+Charge Beam * 10, 25% of sets
+Thunder Wave * 10, 25% of sets
+Calm Mind * 10, 25% of sets
+Protect * 10, 25% of sets
+Thunder * 10, 25% of sets
+Discharge * 10, 25% of sets
+Reflect * 10, 25% of sets
+
+
+Items:
+Electrium Z * 20, 50% of sets
+Shuca Berry * 10, 25% of sets
+Air Balloon * 10, 25% of sets
+
+Rampardos, 34 sets
+Moves:
+Rock Slide * 22, 64.7% of sets
+Protect * 22, 64.7% of sets
+Head Smash * 21, 61.8% of sets
+Earthquake * 17, 50% of sets
+Crunch * 13, 38.2% of sets
+Curse * 13, 38.2% of sets
+Brick Break * 8, 23.5% of sets
+Iron Head * 8, 23.5% of sets
+Stone Edge * 4, 11.8% of sets
+Hammer Arm * 4, 11.8% of sets
+Scary Face * 4, 11.8% of sets
+
+
+Items:
+Sitrus Berry * 13, 38.2% of sets
+Passho Berry * 13, 38.2% of sets
+Choice Scarf * 8, 23.5% of sets
+
+Regice, 22 sets
+Moves:
+Ice Beam * 18, 81.8% of sets
+Thunderbolt * 14, 63.6% of sets
+Focus Blast * 11, 50% of sets
+Toxic * 7, 31.8% of sets
+Icy Wind * 7, 31.8% of sets
+Rest * 7, 31.8% of sets
+Charge Beam * 4, 18.2% of sets
+Amnesia * 4, 18.2% of sets
+Protect * 4, 18.2% of sets
+Thunder * 4, 18.2% of sets
+Blizzard * 4, 18.2% of sets
+Thunder Wave * 4, 18.2% of sets
+
+
+Items:
+Sitrus Berry * 7, 31.8% of sets
+Chesto Berry * 7, 31.8% of sets
+Leftovers * 4, 18.2% of sets
+Zoom Lens * 4, 18.2% of sets
+
+Regigigas, 34 sets
+Moves:
+Confuse Ray * 34, 100% of sets
+Double Team * 17, 50% of sets
+Toxic * 17, 50% of sets
+Bulldoze * 10, 29.4% of sets
+Payback * 10, 29.4% of sets
+Thunder * 10, 29.4% of sets
+Focus Blast * 10, 29.4% of sets
+Knock Off * 7, 20.6% of sets
+Thunder Wave * 7, 20.6% of sets
+Rock Slide * 7, 20.6% of sets
+Wide Guard * 7, 20.6% of sets
+
+
+Items:
+Leftovers * 24, 70.6% of sets
+Zoom Lens * 10, 29.4% of sets
+
+Regirock, 30 sets
+Moves:
+Hammer Arm * 24, 80% of sets
+Rock Slide * 15, 50% of sets
+Stone Edge * 15, 50% of sets
+Earthquake * 15, 50% of sets
+Explosion * 15, 50% of sets
+Sandstorm * 9, 30% of sets
+Curse * 9, 30% of sets
+Thunder Wave * 6, 20% of sets
+Rock Polish * 6, 20% of sets
+Superpower * 6, 20% of sets
+
+
+Items:
+Leftovers * 9, 30% of sets
+Custap Berry * 9, 30% of sets
+Rockium Z * 6, 20% of sets
+Sitrus Berry * 6, 20% of sets
+
+Registeel, 22 sets
+Moves:
+Iron Head * 14, 63.6% of sets
+Amnesia * 11, 50% of sets
+Earthquake * 11, 50% of sets
+Curse * 7, 31.8% of sets
+Rest * 7, 31.8% of sets
+Rock Polish * 7, 31.8% of sets
+Superpower * 7, 31.8% of sets
+Iron Defense * 4, 18.2% of sets
+Charge Beam * 4, 18.2% of sets
+Flash Cannon * 4, 18.2% of sets
+Toxic * 4, 18.2% of sets
+Double Team * 4, 18.2% of sets
+Protect * 4, 18.2% of sets
+
+
+Items:
+Leftovers * 8, 36.4% of sets
+Chesto Berry * 7, 31.8% of sets
+Fightinium Z * 7, 31.8% of sets
+
+Reuniclus, 37 sets
+Moves:
+Psychic * 30, 81.1% of sets
+Recover * 19, 51.4% of sets
+Focus Blast * 18, 48.6% of sets
+Energy Ball * 12, 32.4% of sets
+Wonder Room * 12, 32.4% of sets
+Calm Mind * 11, 29.7% of sets
+Shadow Ball * 11, 29.7% of sets
+Rock Slide * 7, 18.9% of sets
+Explosion * 7, 18.9% of sets
+Gyro Ball * 7, 18.9% of sets
+Trick Room * 7, 18.9% of sets
+Trick * 7, 18.9% of sets
+
+
+Items:
+Kee Berry * 12, 32.4% of sets
+Colbur Berry * 11, 29.7% of sets
+Kings Rock * 7, 18.9% of sets
+Toxic Orb * 7, 18.9% of sets
+
+Rhyperior, 54 sets
+Moves:
+Payback * 31, 57.4% of sets
+Protect * 30, 55.6% of sets
+Horn Drill * 18, 33.3% of sets
+Reversal * 18, 33.3% of sets
+Metal Burst * 18, 33.3% of sets
+Rock Slide * 17, 31.5% of sets
+Hammer Arm * 17, 31.5% of sets
+Earthquake * 17, 31.5% of sets
+Rock Blast * 13, 24.1% of sets
+Stone Edge * 13, 24.1% of sets
+Rock Wrecker * 6, 11.1% of sets
+Rock Polish * 6, 11.1% of sets
+None * 2, 3.7% of sets
+
+
+Items:
+Focus Sash * 18, 33.3% of sets
+Rockium Z * 17, 31.5% of sets
+Zoom Lens * 13, 24.1% of sets
+Hard Stone * 6, 11.1% of sets
+
+Ribombee, 40 sets
+Moves:
+Draining Kiss * 27, 67.5% of sets
+Quiver Dance * 19, 47.5% of sets
+Substitute * 17, 42.5% of sets
+Leech Life * 17, 42.5% of sets
+Stun Spore * 17, 42.5% of sets
+Baton Pass * 10, 25% of sets
+Silver Wind * 10, 25% of sets
+Dazzling Gleam * 9, 22.5% of sets
+Bug Buzz * 9, 22.5% of sets
+Energy Ball * 9, 22.5% of sets
+Pollen Puff * 4, 10% of sets
+Reflect * 4, 10% of sets
+Light Screen * 4, 10% of sets
+U-turn * 4, 10% of sets
+
+
+Items:
+Big Root * 17, 42.5% of sets
+Sitrus Berry * 10, 25% of sets
+Expert Belt * 9, 22.5% of sets
+Light Clay * 4, 10% of sets
+
+Rotom, 213 sets
+Moves:
+Thunder Wave * 88, 41.3% of sets
+Dark Pulse * 78, 36.6% of sets
+Will-o-wisp * 74, 34.7% of sets
+Shadow Ball * 61, 28.6% of sets
+Thunder * 56, 26.3% of sets
+Thunderbolt * 55, 25.8% of sets
+Volt Switch * 42, 19.7% of sets
+Leaf Storm * 41, 19.2% of sets
+Hydro Pump * 39, 18.3% of sets
+Charge Beam * 36, 16.9% of sets
+Blizzard * 30, 14.1% of sets
+Air Slash * 29, 13.6% of sets
+Double Team * 28, 13.1% of sets
+Overheat * 24, 11.3% of sets
+Confuse Ray * 23, 10.8% of sets
+Hex * 22, 10.3% of sets
+Trick * 18, 8.5% of sets
+Ominous Wind * 18, 8.5% of sets
+Charge * 17, 8% of sets
+Reflect * 15, 7% of sets
+Light Screen * 15, 7% of sets
+Discharge * 14, 6.6% of sets
+Electro Ball * 10, 4.7% of sets
+Substitute * 10, 4.7% of sets
+Rain Dance * 9, 4.2% of sets
+
+
+Items:
+Sitrus Berry * 36, 16.9% of sets
+Choice Scarf * 18, 8.5% of sets
+Rindo Berry * 17, 8% of sets
+Grassium Z * 17, 8% of sets
+Bright Powder * 17, 8% of sets
+Light Clay * 15, 7% of sets
+White Herb * 14, 6.6% of sets
+Electrium Z * 14, 6.6% of sets
+Passho Berry * 13, 6.1% of sets
+Weakness Policy * 11, 5.2% of sets
+Firium Z * 11, 5.2% of sets
+Zoom Lens * 11, 5.2% of sets
+Leftovers * 10, 4.7% of sets
+Damp Rock * 9, 4.2% of sets
+
+Sableye, 29 sets
+Moves:
+Recover * 20, 69% of sets
+Foul Play * 15, 51.7% of sets
+Knock Off * 14, 48.3% of sets
+Shadow Ball * 14, 48.3% of sets
+Confuse Ray * 14, 48.3% of sets
+Will-o-wisp * 12, 41.4% of sets
+Snarl * 6, 20.7% of sets
+Metal Burst * 6, 20.7% of sets
+Fake Out * 6, 20.7% of sets
+Captivate * 3, 10.3% of sets
+Mean Look * 3, 10.3% of sets
+Moonlight * 3, 10.3% of sets
+
+
+Items:
+Lax Incense * 14, 48.3% of sets
+Sablenite * 6, 20.7% of sets
+Focus Sash * 6, 20.7% of sets
+Normalium Z * 3, 10.3% of sets
+
+Salamence, 56 sets
+Moves:
+Earthquake * 28, 50% of sets
+Draco Meteor * 19, 33.9% of sets
+Fire Blast * 19, 33.9% of sets
+Hydro Pump * 19, 33.9% of sets
+Protect * 19, 33.9% of sets
+Dragon Rush * 18, 32.1% of sets
+Crunch * 18, 32.1% of sets
+Double-edge * 18, 32.1% of sets
+Roost * 10, 17.9% of sets
+Scary Face * 10, 17.9% of sets
+Dragon Tail * 10, 17.9% of sets
+Dragon Claw * 9, 16.1% of sets
+Zen Headbutt * 9, 16.1% of sets
+Rock Slide * 9, 16.1% of sets
+Dragon Dance * 9, 16.1% of sets
+
+
+Items:
+Yache Berry * 29, 51.8% of sets
+Salamencite * 18, 32.1% of sets
+Expert Belt * 9, 16.1% of sets
+
+Salazzle, 45 sets
+Moves:
+Nasty Plot * 29, 64.4% of sets
+Fake Out * 25, 55.6% of sets
+Venoshock * 17, 37.8% of sets
+Flamethrower * 17, 37.8% of sets
+Toxic * 17, 37.8% of sets
+Sludge Bomb * 15, 33.3% of sets
+Overheat * 13, 28.9% of sets
+Sludge Wave * 13, 28.9% of sets
+Dragon Pulse * 13, 28.9% of sets
+Fire Blast * 12, 26.7% of sets
+Disable * 3, 6.7% of sets
+Protect * 3, 6.7% of sets
+Encore * 3, 6.7% of sets
+
+
+Items:
+Poisonium Z * 17, 37.8% of sets
+Firium Z * 13, 28.9% of sets
+Focus Sash * 12, 26.7% of sets
+Bright Powder * 3, 6.7% of sets
+
+Samurott, 21 sets
+Moves:
+Hydro Pump * 11, 52.4% of sets
+Ice Beam * 6, 28.6% of sets
+Grass Knot * 6, 28.6% of sets
+Protect * 6, 28.6% of sets
+Retaliate * 5, 23.8% of sets
+Razor Shell * 5, 23.8% of sets
+Assurance * 5, 23.8% of sets
+Encore * 5, 23.8% of sets
+Blizzard * 5, 23.8% of sets
+Giga Impact * 5, 23.8% of sets
+Detect * 5, 23.8% of sets
+Aerial Ace * 5, 23.8% of sets
+Waterfall * 5, 23.8% of sets
+X-scissor * 5, 23.8% of sets
+Aqua Jet * 5, 23.8% of sets
+
+
+Items:
+Salac Berry * 6, 28.6% of sets
+Normalium Z * 5, 23.8% of sets
+Zoom Lens * 5, 23.8% of sets
+Custap Berry * 5, 23.8% of sets
+
+Sandslash, 35 sets
+Moves:
+Dig * 12, 34.3% of sets
+Poison Jab * 12, 34.3% of sets
+Swagger * 12, 34.3% of sets
+Sand Attack * 12, 34.3% of sets
+Sandstorm * 10, 28.6% of sets
+Earthquake * 10, 28.6% of sets
+Stone Edge * 10, 28.6% of sets
+X-scissor * 10, 28.6% of sets
+Counter * 7, 20% of sets
+Defense Curl * 7, 20% of sets
+Ice Ball * 7, 20% of sets
+Gyro Ball * 7, 20% of sets
+Hail * 6, 17.1% of sets
+Icicle Spear * 6, 17.1% of sets
+Iron Head * 6, 17.1% of sets
+Aurora Veil * 6, 17.1% of sets
+
+
+Items:
+Quick Claw * 12, 34.3% of sets
+Smooth Rock * 10, 28.6% of sets
+Focus Sash * 7, 20% of sets
+Icium Z * 6, 17.1% of sets
+
+Sawk, 25 sets
+Moves:
+Taunt * 16, 64% of sets
+Low Sweep * 15, 60% of sets
+Earthquake * 14, 56% of sets
+Quick Guard * 11, 44% of sets
+Retaliate * 11, 44% of sets
+Close Combat * 9, 36% of sets
+Payback * 9, 36% of sets
+Stone Edge * 5, 20% of sets
+Endure * 5, 20% of sets
+Reversal * 5, 20% of sets
+
+
+Items:
+Black Belt * 11, 44% of sets
+Life Orb * 5, 20% of sets
+Focus Sash * 5, 20% of sets
+Expert Belt * 4, 16% of sets
+
+Sceptile, 37 sets
+Moves:
+Leaf Storm * 19, 51.4% of sets
+Detect * 19, 51.4% of sets
+Leaf Blade * 18, 48.6% of sets
+Earthquake * 18, 48.6% of sets
+Focus Blast * 14, 37.8% of sets
+Energy Ball * 14, 37.8% of sets
+Dual Chop * 11, 29.7% of sets
+Rock Slide * 11, 29.7% of sets
+Night Slash * 7, 18.9% of sets
+Swords Dance * 7, 18.9% of sets
+Quick Attack * 5, 13.5% of sets
+Endeavor * 5, 13.5% of sets
+
+
+Items:
+White Herb * 14, 37.8% of sets
+Sceptilite * 11, 29.7% of sets
+Scope Lens * 7, 18.9% of sets
+Focus Sash * 5, 13.5% of sets
+
+Scizor, 37 sets
+Moves:
+Bullet Punch * 26, 70.3% of sets
+Swords Dance * 22, 59.5% of sets
+Aerial Ace * 21, 56.8% of sets
+X-scissor * 15, 40.5% of sets
+Metal Claw * 11, 29.7% of sets
+Night Slash * 11, 29.7% of sets
+Reversal * 11, 29.7% of sets
+U-turn * 11, 29.7% of sets
+Roost * 10, 27% of sets
+Feint * 5, 13.5% of sets
+Agility * 5, 13.5% of sets
+
+
+Items:
+Occa Berry * 11, 29.7% of sets
+Life Orb * 11, 29.7% of sets
+Scizorite * 10, 27% of sets
+Psychium Z * 5, 13.5% of sets
+
+Scrafty, 39 sets
+Moves:
+Substitute * 23, 59% of sets
+Focus Punch * 23, 59% of sets
+Bulk Up * 22, 56.4% of sets
+Payback * 21, 53.8% of sets
+High Jump Kick * 17, 43.6% of sets
+Fake Out * 12, 30.8% of sets
+Protect * 10, 25.6% of sets
+Drain Punch * 10, 25.6% of sets
+Rock Slide * 6, 15.4% of sets
+Taunt * 6, 15.4% of sets
+Dragon Dance * 6, 15.4% of sets
+
+
+Items:
+Liechi Berry * 12, 30.8% of sets
+Fightinium Z * 11, 28.2% of sets
+Leftovers * 10, 25.6% of sets
+Coba Berry * 6, 15.4% of sets
+
+Serperior, 25 sets
+Moves:
+Leaf Storm * 17, 68% of sets
+Substitute * 9, 36% of sets
+Hyper Beam * 9, 36% of sets
+Toxic * 9, 36% of sets
+Leaf Tornado * 8, 32% of sets
+Attract * 5, 20% of sets
+Dragon Tail * 5, 20% of sets
+Gastro Acid * 5, 20% of sets
+Hidden Power * 3, 12% of sets
+Mirror Coat * 3, 12% of sets
+Captivate * 3, 12% of sets
+
+
+Items:
+Bright Powder * 9, 36% of sets
+Choice Specs * 8, 32% of sets
+Lum Berry * 5, 20% of sets
+Sitrus Berry * 3, 12% of sets
+
+Sharpedo, 34 sets
+Moves:
+Crunch * 19, 55.9% of sets
+Ice Fang * 19, 55.9% of sets
+Aqua Jet * 19, 55.9% of sets
+Dark Pulse * 15, 44.1% of sets
+Poison Jab * 14, 41.2% of sets
+Ice Beam * 10, 29.4% of sets
+Hydro Pump * 10, 29.4% of sets
+Protect * 10, 29.4% of sets
+Bulldoze * 10, 29.4% of sets
+Surf * 5, 14.7% of sets
+Taunt * 5, 14.7% of sets
+
+
+Items:
+Focus Sash * 10, 29.4% of sets
+Muscle Band * 10, 29.4% of sets
+Sharpedonite * 9, 26.5% of sets
+Poisonium Z * 5, 14.7% of sets
+
+Shiftry, 42 sets
+Moves:
+Solar Beam * 20, 47.6% of sets
+Fake Out * 15, 35.7% of sets
+Sunny Day * 14, 33.3% of sets
+Dark Pulse * 14, 33.3% of sets
+Explosion * 14, 33.3% of sets
+Fling * 13, 31% of sets
+Razor Leaf * 13, 31% of sets
+Brick Break * 13, 31% of sets
+Swords Dance * 13, 31% of sets
+X-scissor * 9, 21.4% of sets
+Leaf Blade * 9, 21.4% of sets
+Protect * 9, 21.4% of sets
+Extrasensory * 6, 14.3% of sets
+Swagger * 6, 14.3% of sets
+
+
+Items:
+Heat Rock * 14, 33.3% of sets
+Iron Ball * 13, 31% of sets
+Focus Sash * 9, 21.4% of sets
+Miracle Seed * 6, 14.3% of sets
+
+Shiinotic, 45 sets
+Moves:
+Moonblast * 36, 80% of sets
+Spore * 25, 55.6% of sets
+Giga Drain * 24, 53.3% of sets
+Strength Sap * 13, 28.9% of sets
+Grass Knot * 12, 26.7% of sets
+Moonlight * 12, 26.7% of sets
+Sludge Bomb * 11, 24.4% of sets
+Charge Beam * 11, 24.4% of sets
+Flash * 9, 20% of sets
+Light Screen * 9, 20% of sets
+Confuse Ray * 9, 20% of sets
+Dazzling Gleam * 9, 20% of sets
+
+
+Items:
+Leftovers * 13, 28.9% of sets
+Weakness Policy * 12, 26.7% of sets
+Assault Vest * 11, 24.4% of sets
+Normalium Z * 9, 20% of sets
+
+Shuckle, 34 sets
+Moves:
+Power Trick * 14, 41.2% of sets
+Toxic * 12, 35.3% of sets
+Protect * 12, 35.3% of sets
+Sandstorm * 12, 35.3% of sets
+Wrap * 12, 35.3% of sets
+Encore * 11, 32.4% of sets
+Gyro Ball * 11, 32.4% of sets
+Double Team * 11, 32.4% of sets
+Substitute * 11, 32.4% of sets
+Power Split * 8, 23.5% of sets
+Gastro Acid * 8, 23.5% of sets
+Sand Tomb * 8, 23.5% of sets
+Rock Slide * 3, 8.8% of sets
+Bug Bite * 3, 8.8% of sets
+
+
+Items:
+Leftovers * 12, 35.3% of sets
+Lax Incense * 11, 32.4% of sets
+Binding Band * 8, 23.5% of sets
+Quick Claw * 3, 8.8% of sets
+
+Skarmory, 29 sets
+Moves:
+Spikes * 20, 69% of sets
+Stealth Rock * 20, 69% of sets
+Whirlwind * 20, 69% of sets
+Sky Drop * 11, 37.9% of sets
+Brave Bird * 9, 31% of sets
+Steel Wing * 9, 31% of sets
+Toxic * 9, 31% of sets
+Night Slash * 6, 20.7% of sets
+Rock Slide * 6, 20.7% of sets
+Swords Dance * 3, 10.3% of sets
+Roar * 3, 10.3% of sets
+
+
+Items:
+Lax Incense * 11, 37.9% of sets
+Poisonium Z * 9, 31% of sets
+Choice Scarf * 6, 20.7% of sets
+Cell Battery * 3, 10.3% of sets
+
+Slaking, 40 sets
+Moves:
+Earthquake * 24, 60% of sets
+Rock Slide * 24, 60% of sets
+Night Slash * 16, 40% of sets
+Giga Impact * 13, 32.5% of sets
+Shadow Claw * 13, 32.5% of sets
+Hammer Arm * 13, 32.5% of sets
+Return * 13, 32.5% of sets
+Aerial Ace * 13, 32.5% of sets
+Brick Break * 11, 27.5% of sets
+Encore * 11, 27.5% of sets
+Crush Claw * 3, 7.5% of sets
+Slack Off * 3, 7.5% of sets
+Amnesia * 3, 7.5% of sets
+
+
+Items:
+Choice Band * 13, 32.5% of sets
+Life Orb * 13, 32.5% of sets
+Chople Berry * 11, 27.5% of sets
+Kee Berry * 3, 7.5% of sets
+
+Slowbro, 34 sets
+Moves:
+Psychic * 30, 88.2% of sets
+Surf * 24, 70.6% of sets
+Slack Off * 15, 44.1% of sets
+Blizzard * 13, 38.2% of sets
+Trick Room * 13, 38.2% of sets
+Amnesia * 11, 32.4% of sets
+Water Pulse * 10, 29.4% of sets
+Yawn * 6, 17.6% of sets
+Calm Mind * 6, 17.6% of sets
+Flamethrower * 4, 11.8% of sets
+Ice Beam * 4, 11.8% of sets
+
+
+Items:
+Slowbronite * 13, 38.2% of sets
+Leftovers * 11, 32.4% of sets
+Sitrus Berry * 6, 17.6% of sets
+Quick Claw * 4, 11.8% of sets
+
+Slowking, 33 sets
+Moves:
+Psychic * 21, 63.6% of sets
+Trick Room * 21, 63.6% of sets
+Surf * 13, 39.4% of sets
+Ice Beam * 13, 39.4% of sets
+Shadow Ball * 8, 24.2% of sets
+Scald * 8, 24.2% of sets
+Focus Blast * 8, 24.2% of sets
+Psyshock * 8, 24.2% of sets
+Water Pulse * 8, 24.2% of sets
+Heal Pulse * 8, 24.2% of sets
+Zen Headbutt * 4, 12.1% of sets
+Earthquake * 4, 12.1% of sets
+Swagger * 4, 12.1% of sets
+Psych Up * 4, 12.1% of sets
+
+
+Items:
+Waterium Z * 13, 39.4% of sets
+Choice Specs * 8, 24.2% of sets
+Sitrus Berry * 8, 24.2% of sets
+Kings Rock * 4, 12.1% of sets
+
+Snorlax, 51 sets
+Moves:
+Crunch * 39, 76.5% of sets
+Earthquake * 34, 66.7% of sets
+Protect * 22, 43.1% of sets
+Double-edge * 17, 33.3% of sets
+Body Slam * 17, 33.3% of sets
+Fissure * 17, 33.3% of sets
+Return * 17, 33.3% of sets
+Wild Charge * 12, 23.5% of sets
+Counter * 12, 23.5% of sets
+Recycle * 12, 23.5% of sets
+Belly Drum * 5, 9.8% of sets
+
+
+Items:
+Life Orb * 17, 33.3% of sets
+Assault Vest * 17, 33.3% of sets
+Sitrus Berry * 17, 33.3% of sets
+
+Spiritomb, 35 sets
+Moves:
+Will-o-wisp * 24, 68.6% of sets
+Sucker Punch * 24, 68.6% of sets
+Pain Split * 21, 60% of sets
+Shadow Sneak * 14, 40% of sets
+Swagger * 11, 31.4% of sets
+Psych Up * 11, 31.4% of sets
+Toxic * 11, 31.4% of sets
+Grudge * 11, 31.4% of sets
+Substitute * 10, 28.6% of sets
+Taunt * 3, 8.6% of sets
+
+
+Items:
+Leftovers * 11, 31.4% of sets
+Sitrus Berry * 11, 31.4% of sets
+Custap Berry * 10, 28.6% of sets
+Quick Claw * 3, 8.6% of sets
+
+Staraptor, 39 sets
+Moves:
+Brave Bird * 27, 69.2% of sets
+U-turn * 22, 56.4% of sets
+Close Combat * 20, 51.3% of sets
+Feather Dance * 19, 48.7% of sets
+Quick Attack * 12, 30.8% of sets
+Endeavor * 12, 30.8% of sets
+Giga Impact * 10, 25.6% of sets
+Pursuit * 10, 25.6% of sets
+Final Gambit * 10, 25.6% of sets
+Double-edge * 7, 17.9% of sets
+Roost * 7, 17.9% of sets
+
+
+Items:
+Focus Sash * 12, 30.8% of sets
+Choice Band * 10, 25.6% of sets
+Choice Scarf * 10, 25.6% of sets
+Flyinium Z * 7, 17.9% of sets
+
+Starmie, 30 sets
+Moves:
+Psychic * 30, 100% of sets
+Surf * 19, 63.3% of sets
+Thunderbolt * 10, 33.3% of sets
+Ice Beam * 10, 33.3% of sets
+Power Gem * 9, 30% of sets
+Dazzling Gleam * 9, 30% of sets
+Cosmic Power * 8, 26.7% of sets
+Recover * 8, 26.7% of sets
+Reflect Type * 8, 26.7% of sets
+Protect * 3, 10% of sets
+Hydro Pump * 3, 10% of sets
+Rapid Spin * 3, 10% of sets
+
+
+Items:
+Kings Rock * 10, 33.3% of sets
+Focus Sash * 9, 30% of sets
+Sitrus Berry * 8, 26.7% of sets
+Waterium Z * 3, 10% of sets
+
+Steelix, 44 sets
+Moves:
+Earthquake * 40, 90.9% of sets
+Gyro Ball * 32, 72.7% of sets
+Curse * 16, 36.4% of sets
+Stone Edge * 15, 34.1% of sets
+Sandstorm * 15, 34.1% of sets
+Rock Slide * 13, 29.5% of sets
+Explosion * 13, 29.5% of sets
+Rest * 12, 27.3% of sets
+Stealth Rock * 12, 27.3% of sets
+Crunch * 4, 9.1% of sets
+Screech * 4, 9.1% of sets
+
+
+Items:
+Steelixite * 15, 34.1% of sets
+Quick Claw * 13, 29.5% of sets
+Chesto Berry * 12, 27.3% of sets
+Enigma Berry * 4, 9.1% of sets
+
+Suicune, 30 sets
+Moves:
+Surf * 22, 73.3% of sets
+Ice Beam * 16, 53.3% of sets
+Calm Mind * 15, 50% of sets
+Blizzard * 14, 46.7% of sets
+Protect * 14, 46.7% of sets
+Rest * 8, 26.7% of sets
+Hydro Pump * 8, 26.7% of sets
+Shadow Ball * 8, 26.7% of sets
+Mirror Coat * 8, 26.7% of sets
+Snarl * 7, 23.3% of sets
+
+
+Items:
+Chesto Berry * 8, 26.7% of sets
+Sitrus Berry * 8, 26.7% of sets
+Leftovers * 7, 23.3% of sets
+Lum Berry * 7, 23.3% of sets
+
+Swampert, 32 sets
+Moves:
+Earthquake * 29, 90.6% of sets
+Waterfall * 26, 81.2% of sets
+Rock Slide * 14, 43.8% of sets
+Rain Dance * 14, 43.8% of sets
+Curse * 12, 37.5% of sets
+Rest * 12, 37.5% of sets
+Mirror Coat * 6, 18.8% of sets
+Counter * 6, 18.8% of sets
+Roar * 6, 18.8% of sets
+Hammer Arm * 3, 9.4% of sets
+
+
+Items:
+Swampertite * 14, 43.8% of sets
+Chesto Berry * 12, 37.5% of sets
+Jaboca Berry * 6, 18.8% of sets
+
+Sylveon, 38 sets
+Moves:
+Misty Terrain * 20, 52.6% of sets
+Moonblast * 18, 47.4% of sets
+Psyshock * 17, 44.7% of sets
+Tail Whip * 11, 28.9% of sets
+Helping Hand * 11, 28.9% of sets
+Dazzling Gleam * 11, 28.9% of sets
+Baton Pass * 10, 26.3% of sets
+Calm Mind * 10, 26.3% of sets
+Psych Up * 10, 26.3% of sets
+Draining Kiss * 9, 23.7% of sets
+Baby-doll Eyes * 9, 23.7% of sets
+Shadow Ball * 8, 21.1% of sets
+Round * 8, 21.1% of sets
+
+
+Items:
+Misty Seed * 11, 28.9% of sets
+Ganlon Berry * 10, 26.3% of sets
+Big Root * 9, 23.7% of sets
+Razor Claw * 8, 21.1% of sets
+
+Talonflame, 36 sets
+Moves:
+Swords Dance * 19, 52.8% of sets
+Quick Attack * 19, 52.8% of sets
+Round * 17, 47.2% of sets
+Flail * 10, 27.8% of sets
+Acrobatics * 10, 27.8% of sets
+Brave Bird * 9, 25% of sets
+Flare Blitz * 9, 25% of sets
+Fire Blast * 9, 25% of sets
+Sunny Day * 9, 25% of sets
+Solar Beam * 9, 25% of sets
+Me First * 8, 22.2% of sets
+Will-o-wisp * 8, 22.2% of sets
+Flamethrower * 8, 22.2% of sets
+
+
+Items:
+Focus Sash * 10, 27.8% of sets
+Sitrus Berry * 9, 25% of sets
+Heat Rock * 9, 25% of sets
+Charti Berry * 8, 22.2% of sets
+
+Tangrowth, 42 sets
+Moves:
+Wring Out * 20, 47.6% of sets
+Power Whip * 19, 45.2% of sets
+Sunny Day * 13, 31% of sets
+Solar Beam * 13, 31% of sets
+Sludge Bomb * 13, 31% of sets
+Earthquake * 12, 28.6% of sets
+Aerial Ace * 12, 28.6% of sets
+Brick Break * 12, 28.6% of sets
+Leech Seed * 10, 23.8% of sets
+Ingrain * 10, 23.8% of sets
+Giga Drain * 10, 23.8% of sets
+Toxic * 10, 23.8% of sets
+Tickle * 7, 16.7% of sets
+Bulldoze * 7, 16.7% of sets
+
+
+Items:
+Heat Rock * 13, 31% of sets
+Groundium Z * 12, 28.6% of sets
+Big Root * 10, 23.8% of sets
+Yache Berry * 7, 16.7% of sets
+
+Tauros, 47 sets
+Moves:
+Earthquake * 36, 76.6% of sets
+Zen Headbutt * 25, 53.2% of sets
+Giga Impact * 23, 48.9% of sets
+Rock Slide * 14, 29.8% of sets
+Substitute * 14, 29.8% of sets
+Thrash * 12, 25.5% of sets
+Payback * 12, 25.5% of sets
+Wild Charge * 11, 23.4% of sets
+Swagger * 11, 23.4% of sets
+Toxic * 10, 21.3% of sets
+Protect * 10, 21.3% of sets
+Double Team * 10, 21.3% of sets
+
+
+Items:
+Liechi Berry * 14, 29.8% of sets
+Life Orb * 12, 25.5% of sets
+Expert Belt * 11, 23.4% of sets
+Sitrus Berry * 10, 21.3% of sets
+
+Tentacruel, 45 sets
+Moves:
+Surf * 14, 31.1% of sets
+Toxic * 14, 31.1% of sets
+Venoshock * 14, 31.1% of sets
+Protect * 14, 31.1% of sets
+Hydro Pump * 13, 28.9% of sets
+Sludge Bomb * 13, 28.9% of sets
+Blizzard * 13, 28.9% of sets
+Mirror Coat * 13, 28.9% of sets
+Ice Beam * 11, 24.4% of sets
+Sludge Wave * 11, 24.4% of sets
+Hex * 11, 24.4% of sets
+Toxic Spikes * 11, 24.4% of sets
+Rapid Spin * 7, 15.6% of sets
+Poison Jab * 7, 15.6% of sets
+Waterfall * 7, 15.6% of sets
+Swords Dance * 7, 15.6% of sets
+
+
+Items:
+Black Sludge * 25, 55.6% of sets
+Focus Sash * 13, 28.9% of sets
+Poisonium Z * 7, 15.6% of sets
+
+Terrakion, 32 sets
+Moves:
+Earthquake * 32, 100% of sets
+Sacred Sword * 24, 75% of sets
+Stone Edge * 16, 50% of sets
+Aerial Ace * 16, 50% of sets
+Rock Slide * 16, 50% of sets
+Close Combat * 8, 25% of sets
+Swords Dance * 8, 25% of sets
+Bulldoze * 8, 25% of sets
+
+
+Items:
+Expert Belt * 8, 25% of sets
+Choice Scarf * 8, 25% of sets
+Sitrus Berry * 8, 25% of sets
+Kings Rock * 8, 25% of sets
+
+Throh, 25 sets
+Moves:
+Protect * 21, 84% of sets
+Storm Throw * 14, 56% of sets
+Toxic * 11, 44% of sets
+Circle Throw * 11, 44% of sets
+Wide Guard * 11, 44% of sets
+Earthquake * 9, 36% of sets
+Payback * 9, 36% of sets
+Revenge * 5, 20% of sets
+Seismic Toss * 5, 20% of sets
+Rock Slide * 4, 16% of sets
+
+
+Items:
+Payapa Berry * 11, 44% of sets
+Expert Belt * 9, 36% of sets
+Flame Orb * 5, 20% of sets
+
+Thundurus, 28 sets
+Moves:
+Thunderbolt * 14, 50% of sets
+Focus Blast * 14, 50% of sets
+Protect * 7, 25% of sets
+Toxic * 7, 25% of sets
+Rest * 7, 25% of sets
+Dark Pulse * 7, 25% of sets
+Grass Knot * 7, 25% of sets
+Wild Charge * 7, 25% of sets
+U-turn * 7, 25% of sets
+Crunch * 7, 25% of sets
+Sky Drop * 7, 25% of sets
+Discharge * 7, 25% of sets
+Volt Switch * 7, 25% of sets
+Taunt * 7, 25% of sets
+
+
+Items:
+Chesto Berry * 7, 25% of sets
+Choice Specs * 7, 25% of sets
+Sitrus Berry * 7, 25% of sets
+Electrium Z * 7, 25% of sets
+
+Togedemaru, 40 sets
+Moves:
+Spiky Shield * 33, 82.5% of sets
+Nuzzle * 24, 60% of sets
+Wild Charge * 16, 40% of sets
+U-turn * 16, 40% of sets
+Wish * 15, 37.5% of sets
+Reflect * 15, 37.5% of sets
+Fell Stinger * 9, 22.5% of sets
+Poison Jab * 9, 22.5% of sets
+Reversal * 9, 22.5% of sets
+Electric Terrain * 7, 17.5% of sets
+Fake Out * 7, 17.5% of sets
+
+
+Items:
+Rocky Helmet * 15, 37.5% of sets
+Air Balloon * 9, 22.5% of sets
+Electrium Z * 9, 22.5% of sets
+Terrain Extender * 7, 17.5% of sets
+
+Togekiss, 48 sets
+Moves:
+Grass Knot * 29, 60.4% of sets
+Air Slash * 29, 60.4% of sets
+Dazzling Gleam * 28, 58.3% of sets
+Thunder Wave * 15, 31.2% of sets
+Shadow Ball * 15, 31.2% of sets
+Aura Sphere * 14, 29.2% of sets
+Encore * 14, 29.2% of sets
+Follow Me * 14, 29.2% of sets
+Reflect * 14, 29.2% of sets
+Extreme Speed * 5, 10.4% of sets
+Aerial Ace * 5, 10.4% of sets
+Steel Wing * 5, 10.4% of sets
+Brick Break * 5, 10.4% of sets
+
+
+Items:
+Kings Rock * 15, 31.2% of sets
+Expert Belt * 14, 29.2% of sets
+Sitrus Berry * 14, 29.2% of sets
+Liechi Berry * 5, 10.4% of sets
+
+Tornadus, 26 sets
+Moves:
+Focus Blast * 26, 100% of sets
+Hurricane * 20, 76.9% of sets
+Dark Pulse * 12, 46.2% of sets
+Taunt * 8, 30.8% of sets
+Rain Dance * 8, 30.8% of sets
+Grass Knot * 6, 23.1% of sets
+Substitute * 6, 23.1% of sets
+Double Team * 6, 23.1% of sets
+Rest * 6, 23.1% of sets
+Air Slash * 6, 23.1% of sets
+
+
+Items:
+Damp Rock * 8, 30.8% of sets
+Flyinium Z * 6, 23.1% of sets
+Yache Berry * 6, 23.1% of sets
+Chesto Berry * 6, 23.1% of sets
+
+Torterra, 27 sets
+Moves:
+Earthquake * 22, 81.5% of sets
+Rock Slide * 15, 55.6% of sets
+Seed Bomb * 13, 48.1% of sets
+Crunch * 8, 29.6% of sets
+Stockpile * 7, 25.9% of sets
+Leech Seed * 7, 25.9% of sets
+Protect * 7, 25.9% of sets
+Wood Hammer * 7, 25.9% of sets
+Tickle * 7, 25.9% of sets
+Sand Tomb * 5, 18.5% of sets
+Curse * 5, 18.5% of sets
+Synthesis * 5, 18.5% of sets
+
+
+Items:
+Custap Berry * 8, 29.6% of sets
+Leftovers * 7, 25.9% of sets
+Choice Scarf * 7, 25.9% of sets
+Binding Band * 5, 18.5% of sets
+
+Toucannon, 23 sets
+Moves:
+Beak Blast * 10, 43.5% of sets
+Roost * 10, 43.5% of sets
+Rock Blast * 10, 43.5% of sets
+Bullet Seed * 10, 43.5% of sets
+Tailwind * 10, 43.5% of sets
+Swords Dance * 8, 34.8% of sets
+Drill Peck * 8, 34.8% of sets
+Steel Wing * 8, 34.8% of sets
+Smack Down * 8, 34.8% of sets
+Overheat * 5, 21.7% of sets
+Brave Bird * 5, 21.7% of sets
+
+
+Items:
+Steelium Z * 8, 34.8% of sets
+Sitrus Berry * 5, 21.7% of sets
+Rocky Helmet * 5, 21.7% of sets
+Kings Rock * 5, 21.7% of sets
+
+Toxapex, 41 sets
+Moves:
+Baneful Bunker * 25, 61% of sets
+Venoshock * 25, 61% of sets
+Surf * 15, 36.6% of sets
+Liquidation * 13, 31.7% of sets
+Payback * 13, 31.7% of sets
+Stockpile * 13, 31.7% of sets
+Toxic Spikes * 13, 31.7% of sets
+Venom Drench * 13, 31.7% of sets
+Scald * 13, 31.7% of sets
+Ice Beam * 12, 29.3% of sets
+Sludge Wave * 3, 7.3% of sets
+Blizzard * 3, 7.3% of sets
+Wide Guard * 3, 7.3% of sets
+
+
+Items:
+Black Sludge * 13, 31.7% of sets
+Poisonium Z * 13, 31.7% of sets
+Red Card * 12, 29.3% of sets
+Wacan Berry * 3, 7.3% of sets
+
+Toxicroak, 40 sets
+Moves:
+Sucker Punch * 22, 55% of sets
+Taunt * 22, 55% of sets
+Sludge Bomb * 18, 45% of sets
+Focus Blast * 18, 45% of sets
+Fake Out * 12, 30% of sets
+Brick Break * 12, 30% of sets
+Shadow Ball * 11, 27.5% of sets
+Dark Pulse * 11, 27.5% of sets
+Cross Chop * 10, 25% of sets
+Poison Jab * 10, 25% of sets
+Substitute * 7, 17.5% of sets
+Protect * 7, 17.5% of sets
+
+
+Items:
+Payapa Berry * 12, 30% of sets
+Focus Sash * 11, 27.5% of sets
+Wide Lens * 10, 25% of sets
+Petaya Berry * 7, 17.5% of sets
+
+Trevenant, 31 sets
+Moves:
+Energy Ball * 19, 61.3% of sets
+Shadow Ball * 19, 61.3% of sets
+Trick Room * 10, 32.3% of sets
+Focus Blast * 10, 32.3% of sets
+Psychic * 9, 29% of sets
+Round * 9, 29% of sets
+Toxic * 7, 22.6% of sets
+Ingrain * 7, 22.6% of sets
+Protect * 7, 22.6% of sets
+Phantom Force * 7, 22.6% of sets
+Horn Leech * 5, 16.1% of sets
+Shadow Claw * 5, 16.1% of sets
+Earthquake * 5, 16.1% of sets
+X-scissor * 5, 16.1% of sets
+
+
+Items:
+Iron Ball * 10, 32.3% of sets
+Wise Glasses * 9, 29% of sets
+Leftovers * 7, 22.6% of sets
+Choice Band * 5, 16.1% of sets
+
+Tsareena, 26 sets
+Moves:
+Trop Kick * 26, 100% of sets
+Play Rough * 26, 100% of sets
+High Jump Kick * 13, 50% of sets
+U-turn * 7, 26.9% of sets
+Synthesis * 7, 26.9% of sets
+Captivate * 7, 26.9% of sets
+Payback * 6, 23.1% of sets
+Low Sweep * 6, 23.1% of sets
+Feint * 6, 23.1% of sets
+
+
+Items:
+Choice Scarf * 7, 26.9% of sets
+Rocky Helmet * 7, 26.9% of sets
+Assault Vest * 6, 23.1% of sets
+Occa Berry * 6, 23.1% of sets
+
+Turtonator, 39 sets
+Moves:
+Shell Trap * 16, 41% of sets
+Shell Smash * 12, 30.8% of sets
+Fire Blast * 12, 30.8% of sets
+Dragon Pulse * 12, 30.8% of sets
+Flash Cannon * 12, 30.8% of sets
+Head Smash * 11, 28.2% of sets
+Explosion * 11, 28.2% of sets
+Overheat * 11, 28.2% of sets
+Dragon Claw * 11, 28.2% of sets
+Solar Beam * 9, 23.1% of sets
+Flamethrower * 9, 23.1% of sets
+Sunny Day * 9, 23.1% of sets
+Dragon Tail * 7, 17.9% of sets
+Fire Spin * 7, 17.9% of sets
+Taunt * 7, 17.9% of sets
+
+
+Items:
+Sitrus Berry * 12, 30.8% of sets
+Normalium Z * 11, 28.2% of sets
+Smooth Rock * 9, 23.1% of sets
+Rocky Helmet * 7, 17.9% of sets
+
+Typhlosion, 39 sets
+Moves:
+Extrasensory * 26, 66.7% of sets
+Flamethrower * 24, 61.5% of sets
+Solar Beam * 23, 59% of sets
+Focus Blast * 16, 41% of sets
+Flame Burst * 13, 33.3% of sets
+Sunny Day * 13, 33.3% of sets
+Eruption * 11, 28.2% of sets
+Lava Plume * 10, 25.6% of sets
+Bulldoze * 10, 25.6% of sets
+Inferno * 5, 12.8% of sets
+Will-o-wisp * 5, 12.8% of sets
+
+
+Items:
+Passho Berry * 13, 33.3% of sets
+Choice Scarf * 11, 28.2% of sets
+Power Herb * 10, 25.6% of sets
+Wide Lens * 5, 12.8% of sets
+
+Tyranitar, 65 sets
+Moves:
+Rock Slide * 48, 73.8% of sets
+Earthquake * 37, 56.9% of sets
+Crunch * 31, 47.7% of sets
+Dragon Dance * 31, 47.7% of sets
+Stealth Rock * 17, 26.2% of sets
+Thunder Wave * 17, 26.2% of sets
+Fling * 17, 26.2% of sets
+Stone Edge * 17, 26.2% of sets
+Ice Fang * 17, 26.2% of sets
+Payback * 17, 26.2% of sets
+Ice Beam * 11, 16.9% of sets
+
+
+Items:
+Chople Berry * 20, 30.8% of sets
+Iron Ball * 17, 26.2% of sets
+Tyranitarite * 17, 26.2% of sets
+Kings Rock * 11, 16.9% of sets
+
+Tyrantrum, 27 sets
+Moves:
+Earthquake * 16, 59.3% of sets
+Crunch * 12, 44.4% of sets
+Dragon Claw * 12, 44.4% of sets
+Stealth Rock * 10, 37% of sets
+Dragon Tail * 10, 37% of sets
+Double Team * 10, 37% of sets
+Head Smash * 6, 22.2% of sets
+Charm * 6, 22.2% of sets
+Sandstorm * 6, 22.2% of sets
+Horn Drill * 5, 18.5% of sets
+Stone Edge * 5, 18.5% of sets
+Rest * 5, 18.5% of sets
+Sleep Talk * 5, 18.5% of sets
+
+
+Items:
+Lax Incense * 10, 37% of sets
+Choice Band * 6, 22.2% of sets
+Leftovers * 6, 22.2% of sets
+Wide Lens * 5, 18.5% of sets
+
+Umbreon, 44 sets
+Moves:
+Payback * 33, 75% of sets
+Moonlight * 25, 56.8% of sets
+Curse * 24, 54.5% of sets
+Confuse Ray * 16, 36.4% of sets
+Feint Attack * 11, 25% of sets
+Swagger * 11, 25% of sets
+Psych Up * 11, 25% of sets
+Screech * 11, 25% of sets
+Stored Power * 9, 20.5% of sets
+Work Up * 9, 20.5% of sets
+Trump Card * 8, 18.2% of sets
+Rest * 8, 18.2% of sets
+
+
+Items:
+Leftovers * 16, 36.4% of sets
+Sitrus Berry * 11, 25% of sets
+Normalium Z * 9, 20.5% of sets
+Chesto Berry * 8, 18.2% of sets
+
+Unfezant, 25 sets
+Moves:
+Sky Attack * 15, 60% of sets
+Giga Impact * 11, 44% of sets
+Quick Attack * 11, 44% of sets
+Hypnosis * 11, 44% of sets
+U-turn * 11, 44% of sets
+Detect * 7, 28% of sets
+Aerial Ace * 7, 28% of sets
+Razor Wind * 7, 28% of sets
+Tailwind * 7, 28% of sets
+Return * 4, 16% of sets
+Feather Dance * 3, 12% of sets
+Toxic * 3, 12% of sets
+Fly * 3, 12% of sets
+
+
+Items:
+Power Herb * 15, 60% of sets
+Enigma Berry * 7, 28% of sets
+Bright Powder * 3, 12% of sets
+
+Ursaring, 28 sets
+Moves:
+Crunch * 16, 57.1% of sets
+Facade * 11, 39.3% of sets
+Thrash * 10, 35.7% of sets
+Rest * 10, 35.7% of sets
+Counter * 10, 35.7% of sets
+Return * 7, 25% of sets
+Cross Chop * 7, 25% of sets
+Earthquake * 7, 25% of sets
+Aerial Ace * 7, 25% of sets
+Close Combat * 6, 21.4% of sets
+Protect * 6, 21.4% of sets
+Hammer Arm * 5, 17.9% of sets
+Scary Face * 5, 17.9% of sets
+Yawn * 5, 17.9% of sets
+
+
+Items:
+Toxic Orb * 11, 39.3% of sets
+Chesto Berry * 10, 35.7% of sets
+Quick Claw * 7, 25% of sets
+
+Uxie, 30 sets
+Moves:
+Psyshock * 8, 26.7% of sets
+Energy Ball * 8, 26.7% of sets
+Thunder * 8, 26.7% of sets
+Shadow Ball * 8, 26.7% of sets
+Yawn * 8, 26.7% of sets
+Psychic * 8, 26.7% of sets
+Charge Beam * 8, 26.7% of sets
+Dazzling Gleam * 8, 26.7% of sets
+Calm Mind * 7, 23.3% of sets
+Rest * 7, 23.3% of sets
+Extrasensory * 7, 23.3% of sets
+Thunder Wave * 7, 23.3% of sets
+Future Sight * 7, 23.3% of sets
+Memento * 7, 23.3% of sets
+U-turn * 7, 23.3% of sets
+Reflect * 7, 23.3% of sets
+
+
+Items:
+Quick Claw * 8, 26.7% of sets
+Leftovers * 8, 26.7% of sets
+Chesto Berry * 7, 23.3% of sets
+Psychium Z * 7, 23.3% of sets
+
+Vanilluxe, 41 sets
+Moves:
+Ice Beam * 24, 58.5% of sets
+Mirror Coat * 24, 58.5% of sets
+Frost Breath * 13, 31.7% of sets
+Icy Wind * 13, 31.7% of sets
+Taunt * 11, 26.8% of sets
+Acid Armor * 11, 26.8% of sets
+Hail * 10, 24.4% of sets
+Blizzard * 10, 24.4% of sets
+Flash Cannon * 10, 24.4% of sets
+Sheer Cold * 10, 24.4% of sets
+Avalanche * 7, 17.1% of sets
+Ice Shard * 7, 17.1% of sets
+Natural Gift * 7, 17.1% of sets
+Giga Impact * 7, 17.1% of sets
+
+
+Items:
+Never-Melt Ice * 13, 31.7% of sets
+Maranga Berry * 11, 26.8% of sets
+Leftovers * 10, 24.4% of sets
+Occa Berry * 7, 17.1% of sets
+
+Vaporeon, 36 sets
+Moves:
+Surf * 19, 52.8% of sets
+Shadow Ball * 19, 52.8% of sets
+Aqua Ring * 17, 47.2% of sets
+Ice Beam * 14, 38.9% of sets
+Muddy Water * 12, 33.3% of sets
+Blizzard * 12, 33.3% of sets
+Yawn * 12, 33.3% of sets
+Wish * 10, 27.8% of sets
+Helping Hand * 10, 27.8% of sets
+Baby-doll Eyes * 9, 25% of sets
+Hydro Pump * 5, 13.9% of sets
+Acid Armor * 5, 13.9% of sets
+
+
+Items:
+Leftovers * 12, 33.3% of sets
+Quick Claw * 10, 27.8% of sets
+Expert Belt * 9, 25% of sets
+Waterium Z * 5, 13.9% of sets
+
+Venusaur, 38 sets
+Moves:
+Sludge Bomb * 23, 60.5% of sets
+Synthesis * 20, 52.6% of sets
+Energy Ball * 12, 31.6% of sets
+Grass Knot * 12, 31.6% of sets
+Protect * 12, 31.6% of sets
+Substitute * 11, 28.9% of sets
+Giga Drain * 11, 28.9% of sets
+Leech Seed * 9, 23.7% of sets
+Toxic * 9, 23.7% of sets
+Ingrain * 9, 23.7% of sets
+Roar * 6, 15.8% of sets
+Venoshock * 6, 15.8% of sets
+Power Whip * 6, 15.8% of sets
+Earthquake * 6, 15.8% of sets
+
+
+Items:
+Salac Berry * 12, 31.6% of sets
+Venusaurite * 11, 28.9% of sets
+Big Root * 9, 23.7% of sets
+Grassium Z * 6, 15.8% of sets
+
+Vespiquen, 29 sets
+Moves:
+Attack Order * 20, 69% of sets
+Defend Order * 17, 58.6% of sets
+Confuse Ray * 13, 44.8% of sets
+Toxic * 9, 31% of sets
+Protect * 9, 31% of sets
+Heal Order * 9, 31% of sets
+Roost * 8, 27.6% of sets
+U-turn * 7, 24.1% of sets
+Aerial Ace * 7, 24.1% of sets
+Destiny Bond * 7, 24.1% of sets
+Power Gem * 5, 17.2% of sets
+Captivate * 5, 17.2% of sets
+
+
+Items:
+Quick Claw * 9, 31% of sets
+Sitrus Berry * 8, 27.6% of sets
+Custap Berry * 7, 24.1% of sets
+Normalium Z * 5, 17.2% of sets
+
+Vikavolt, 34 sets
+Moves:
+Mud Shot * 11, 32.4% of sets
+Thunder * 11, 32.4% of sets
+Bug Buzz * 11, 32.4% of sets
+Guillotine * 11, 32.4% of sets
+Thunderbolt * 10, 29.4% of sets
+Air Slash * 10, 29.4% of sets
+Flash Cannon * 10, 29.4% of sets
+Thunder Wave * 10, 29.4% of sets
+Charge Beam * 8, 23.5% of sets
+Energy Ball * 8, 23.5% of sets
+Mud-slap * 8, 23.5% of sets
+Charge * 8, 23.5% of sets
+Wild Charge * 5, 14.7% of sets
+Bug Bite * 5, 14.7% of sets
+Sky Drop * 5, 14.7% of sets
+Electroweb * 5, 14.7% of sets
+
+
+Items:
+Groundium Z * 11, 32.4% of sets
+Electrium Z * 10, 29.4% of sets
+Focus Band * 8, 23.5% of sets
+Magnet * 5, 14.7% of sets
+
+Virizion, 26 sets
+Moves:
+Sacred Sword * 19, 73.1% of sets
+Leaf Blade * 19, 73.1% of sets
+Stone Edge * 13, 50% of sets
+Taunt * 7, 26.9% of sets
+Energy Ball * 7, 26.9% of sets
+Focus Blast * 7, 26.9% of sets
+Calm Mind * 7, 26.9% of sets
+Toxic * 7, 26.9% of sets
+Protect * 6, 23.1% of sets
+Swords Dance * 6, 23.1% of sets
+Rest * 6, 23.1% of sets
+
+
+Items:
+Fightinium Z * 7, 26.9% of sets
+Poisonium Z * 7, 26.9% of sets
+Coba Berry * 6, 23.1% of sets
+Chesto Berry * 6, 23.1% of sets
+
+Volcarona, 41 sets
+Moves:
+Bug Buzz * 31, 75.6% of sets
+Quiver Dance * 27, 65.9% of sets
+Heat Wave * 23, 56.1% of sets
+Protect * 18, 43.9% of sets
+Overheat * 14, 34.1% of sets
+Hurricane * 13, 31.7% of sets
+Fire Spin * 10, 24.4% of sets
+Solar Beam * 10, 24.4% of sets
+Whirlwind * 10, 24.4% of sets
+Flamethrower * 4, 9.8% of sets
+Calm Mind * 4, 9.8% of sets
+
+
+Items:
+White Herb * 14, 34.1% of sets
+Leftovers * 13, 31.7% of sets
+Power Herb * 10, 24.4% of sets
+Lum Berry * 4, 9.8% of sets
+
+Wailord, 22 sets
+Moves:
+Waterfall * 12, 54.5% of sets
+Curse * 12, 54.5% of sets
+Rest * 11, 50% of sets
+Fissure * 11, 50% of sets
+Heavy Slam * 6, 27.3% of sets
+Aqua Ring * 6, 27.3% of sets
+Hydro Pump * 5, 22.7% of sets
+Blizzard * 5, 22.7% of sets
+Hyper Beam * 5, 22.7% of sets
+Water Spout * 5, 22.7% of sets
+Sleep Talk * 5, 22.7% of sets
+Ice Beam * 5, 22.7% of sets
+
+
+Items:
+Chesto Berry * 6, 27.3% of sets
+Leftovers * 6, 27.3% of sets
+Zoom Lens * 5, 22.7% of sets
+Quick Claw * 5, 22.7% of sets
+
+Walrein, 39 sets
+Moves:
+Rest * 24, 61.5% of sets
+Frost Breath * 14, 35.9% of sets
+Snore * 14, 35.9% of sets
+Stockpile * 14, 35.9% of sets
+Surf * 10, 25.6% of sets
+Blizzard * 10, 25.6% of sets
+Hail * 10, 25.6% of sets
+Signal Beam * 10, 25.6% of sets
+Sheer Cold * 10, 25.6% of sets
+Fissure * 10, 25.6% of sets
+Sleep Talk * 10, 25.6% of sets
+Ice Ball * 5, 12.8% of sets
+Earthquake * 5, 12.8% of sets
+Encore * 5, 12.8% of sets
+Curse * 5, 12.8% of sets
+
+
+Items:
+Chesto Berry * 14, 35.9% of sets
+Leftovers * 10, 25.6% of sets
+Lax Incense * 10, 25.6% of sets
+Metronome * 5, 12.8% of sets
+
+Weavile, 44 sets
+Moves:
+Fake Out * 39, 88.6% of sets
+Night Slash * 39, 88.6% of sets
+Taunt * 26, 59.1% of sets
+Ice Punch * 26, 59.1% of sets
+Fling * 18, 40.9% of sets
+Protect * 18, 40.9% of sets
+Ice Shard * 5, 11.4% of sets
+Torment * 5, 11.4% of sets
+
+
+Items:
+Focus Sash * 21, 47.7% of sets
+Razor Fang * 18, 40.9% of sets
+Never-Melt Ice * 5, 11.4% of sets
+
+Weezing, 25 sets
+Moves:
+Will-o-wisp * 16, 64% of sets
+Stockpile * 10, 40% of sets
+Pain Split * 9, 36% of sets
+Explosion * 9, 36% of sets
+Haze * 9, 36% of sets
+Sludge Bomb * 9, 36% of sets
+Fire Blast * 9, 36% of sets
+Toxic * 7, 28% of sets
+Rest * 7, 28% of sets
+Thunder * 6, 24% of sets
+Shadow Ball * 6, 24% of sets
+Swallow * 3, 12% of sets
+
+
+Items:
+Payapa Berry * 9, 36% of sets
+Chesto Berry * 7, 28% of sets
+Black Sludge * 6, 24% of sets
+Safety Goggles * 3, 12% of sets
+
+Whimsicott, 47 sets
+Moves:
+Moonblast * 28, 59.6% of sets
+Dazzling Gleam * 19, 40.4% of sets
+Psychic * 19, 40.4% of sets
+Cotton Spore * 19, 40.4% of sets
+Grass Knot * 19, 40.4% of sets
+Energy Ball * 15, 31.9% of sets
+Leech Seed * 13, 27.7% of sets
+Substitute * 13, 27.7% of sets
+Cotton Guard * 13, 27.7% of sets
+Tailwind * 12, 25.5% of sets
+Swagger * 12, 25.5% of sets
+Switcheroo * 3, 6.4% of sets
+Hurricane * 3, 6.4% of sets
+
+
+Items:
+Wise Glasses * 19, 40.4% of sets
+Leftovers * 13, 27.7% of sets
+Fairium Z * 12, 25.5% of sets
+Choice Specs * 3, 6.4% of sets
+
+Wishiwashi, 53 sets
+Moves:
+Ice Beam * 48, 90.6% of sets
+U-turn * 26, 49.1% of sets
+Waterfall * 22, 41.5% of sets
+Double-edge * 22, 41.5% of sets
+Rain Dance * 22, 41.5% of sets
+Earthquake * 19, 35.8% of sets
+Aqua Tail * 14, 26.4% of sets
+Hydro Pump * 12, 22.6% of sets
+Endeavor * 12, 22.6% of sets
+Dive * 5, 9.4% of sets
+Aqua Ring * 5, 9.4% of sets
+Protect * 5, 9.4% of sets
+
+
+Items:
+Sitrus Berry * 22, 41.5% of sets
+Wacan Berry * 14, 26.4% of sets
+Rindo Berry * 12, 22.6% of sets
+Leftovers * 5, 9.4% of sets
+
+Yanmega, 23 sets
+Moves:
+Bug Buzz * 20, 87% of sets
+Air Slash * 16, 69.6% of sets
+Detect * 16, 69.6% of sets
+U-turn * 9, 39.1% of sets
+Shadow Ball * 7, 30.4% of sets
+Psychic * 7, 30.4% of sets
+Swagger * 7, 30.4% of sets
+Substitute * 7, 30.4% of sets
+Silver Wind * 3, 13% of sets
+
+
+Items:
+Cheri Berry * 9, 39.1% of sets
+Sitrus Berry * 7, 30.4% of sets
+Kings Rock * 4, 17.4% of sets
+Buginium Z * 3, 13% of sets
+
+Zapdos, 34 sets
+Moves:
+Ancient Power * 18, 52.9% of sets
+Drill Peck * 16, 47.1% of sets
+Thunder Wave * 16, 47.1% of sets
+Roost * 16, 47.1% of sets
+Thunder * 9, 26.5% of sets
+Light Screen * 9, 26.5% of sets
+Rain Dance * 9, 26.5% of sets
+Thunderbolt * 9, 26.5% of sets
+U-turn * 9, 26.5% of sets
+Charge Beam * 9, 26.5% of sets
+Double Team * 9, 26.5% of sets
+Wild Charge * 7, 20.6% of sets
+
+
+Items:
+Petaya Berry * 9, 26.5% of sets
+Rockium Z * 9, 26.5% of sets
+Bright Powder * 9, 26.5% of sets
+Flyinium Z * 7, 20.6% of sets
+
+Zoroark, 28 sets
+Moves:
+Counter * 17, 60.7% of sets
+Night Slash * 16, 57.1% of sets
+Shadow Claw * 9, 32.1% of sets
+Taunt * 9, 32.1% of sets
+Protect * 8, 28.6% of sets
+Dark Pulse * 8, 28.6% of sets
+Focus Blast * 8, 28.6% of sets
+Swords Dance * 7, 25% of sets
+U-turn * 7, 25% of sets
+Sucker Punch * 7, 25% of sets
+Grass Knot * 4, 14.3% of sets
+Shadow Ball * 4, 14.3% of sets
+Flamethrower * 4, 14.3% of sets
+Nasty Plot * 4, 14.3% of sets
+
+
+Items:
+Focus Sash * 9, 32.1% of sets
+Focus Band * 8, 28.6% of sets
+Sitrus Berry * 7, 25% of sets
+Expert Belt * 4, 14.3% of sets
+

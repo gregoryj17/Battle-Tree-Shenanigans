@@ -1,0 +1,25 @@
+Primarina, 32 sets
+Moves:
+Sparkling Aria * 10, 31.2% of sets
+Dazzling Gleam * 10, 31.2% of sets
+Blizzard * 10, 31.2% of sets
+Aqua Jet * 10, 31.2% of sets
+Hydro Pump * 9, 28.1% of sets
+Moonblast * 9, 28.1% of sets
+Psychic * 9, 28.1% of sets
+Baby-doll Eyes * 9, 28.1% of sets
+Bubble Beam * 8, 25% of sets
+Shadow Ball * 8, 25% of sets
+Energy Ball * 8, 25% of sets
+Aqua Ring * 8, 25% of sets
+Hyper Voice * 5, 15.6% of sets
+Disarming Voice * 5, 15.6% of sets
+Growl * 5, 15.6% of sets
+Sing * 5, 15.6% of sets
+
+
+Items:
+Waterium Z * 10, 31.2% of sets
+Kebia Berry * 9, 28.1% of sets
+Mystic Water * 8, 25% of sets
+Normalium Z * 5, 15.6% of sets

@@ -1,0 +1,20 @@
+Pelipper, 56 sets
+Moves:
+Hurricane * 47, 83.9% of sets
+Blizzard * 36, 64.3% of sets
+Surf * 27, 48.2% of sets
+Roost * 27, 48.2% of sets
+Tailwind * 18, 32.1% of sets
+Scald * 18, 32.1% of sets
+Rain Dance * 11, 19.6% of sets
+Hydro Pump * 11, 19.6% of sets
+Ice Beam * 11, 19.6% of sets
+Stockpile * 9, 16.1% of sets
+Toxic * 9, 16.1% of sets
+
+
+Items:
+Sea Incense * 18, 32.1% of sets
+Flyinium Z * 18, 32.1% of sets
+Waterium Z * 11, 19.6% of sets
+Rocky Helmet * 9, 16.1% of sets

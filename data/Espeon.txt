@@ -1,0 +1,20 @@
+Espeon, 40 sets
+Moves:
+Grass Knot * 26, 65% of sets
+Psychic * 21, 52.5% of sets
+Shadow Ball * 21, 52.5% of sets
+Dazzling Gleam * 14, 35% of sets
+Yawn * 14, 35% of sets
+Dream Eater * 14, 35% of sets
+Calm Mind * 14, 35% of sets
+Protect * 14, 35% of sets
+Hyper Beam * 12, 30% of sets
+Psyshock * 5, 12.5% of sets
+Charm * 5, 12.5% of sets
+
+
+Items:
+Focus Sash * 14, 35% of sets
+Lum Berry * 12, 30% of sets
+Expert Belt * 9, 22.5% of sets
+Kasib Berry * 5, 12.5% of sets
